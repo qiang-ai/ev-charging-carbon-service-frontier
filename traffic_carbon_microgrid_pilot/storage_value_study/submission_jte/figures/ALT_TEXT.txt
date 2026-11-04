@@ -1,0 +1,45 @@
+Figure 1
+Public charging and energy inputs lead to a 2023 cohort of 12 sites and a
+2024 holdout using the same sites and equipment sizes.
+
+Figure 2
+The two cohorts yield 70 matched site-week pairs. Offline comparisons use both
+years, while rolling dispatch uses 2024 sessions with forecasts trained in 2023.
+
+Figure 3
+Energy flows from the grid and photovoltaics to the station bus, from the bus
+to vehicles, and in either direction between the bus and the stationary battery.
+
+Figure 4
+Illustrative immediate and deferred charging curves deliver the same final
+energy. Two brackets at the early checkpoint show the intrinsic shortfall and
+the additional gap from deferring charge.
+
+Figure 5
+Charging timelines illustrate how a battery can store PV surplus before arrival
+for immediate charging, and how flexible charging can shift vehicle demand to a
+later low-carbon interval.
+
+Figure 6
+The offline experiment either minimizes carbon at fixed early readiness or
+minimizes avoidable shortfall at a fixed carbon ceiling. Both comparisons
+require full energy delivery within the operating budget.
+
+Figure 7
+The controller plans up to 24 hours and executes the first two. The next
+decision carries forward delivered energy and battery state of charge.
+
+Figure 8
+Scatterplot of the decline in incremental storage carbon benefit when charging
+can use the full session window. Most of the 70 paired points exceed one gram
+per delivered kilowatt-hour in both 2023 and 2024.
+
+Figure 9
+The median and interquartile range of the storage carbon benefit are shown at
+three photovoltaic sizes. Benefits are larger with the 50-kilowatt-hour
+battery than with the 12.5-kilowatt-hour battery in both years.
+
+Figure 10
+Four lines show no-battery early energy shortfall for two checkpoints and
+two years. Shortfall rises toward the strictest carbon target. The dotted
+line shows the maximum shortfall across the battery sizes, years and checkpoints.

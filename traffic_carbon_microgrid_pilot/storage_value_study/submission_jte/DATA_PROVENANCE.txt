@@ -1,0 +1,107 @@
+Data provenance and reproduction
+
+Manuscript data description
+
+We analyzed public electric vehicle charging sessions in Edinburgh and Glasgow in January and July 2023 and 2024. The analysis used the session tables and connector inventory released with GridCharge (Batic, DOI 10.57967/hf/6647), whose upstream source is the ChargePlace Scotland (CPS) monthly performance archive. We used the recorded energy delivered per session and linked records to the inventory by charge point and connector identifiers. The AC sample used connectors with a snapshot rating of at most 22 kW. Each modeled geographic site groups connectors within a city that share an address after normalization and coordinates rounded to six decimal places. Both years use the same frozen inventory and site definitions. The actual electrical connection and contemporaneous connector ratings were unavailable. The geographic grouping and inventory ratings define the model's site and power proxies.
+
+Session start times were interpreted in Europe/London civil time and converted to UTC. The January source records begin near 00:00 local time, and the July records span approximately 01:00 local time on the first day through 01:00 on the first day of the next month, consistent with UK daylight saving and UTC reporting boundaries. We set the modeled session end to the recorded start plus the recorded duration. The CPS public tables omit separate connection, unplug and power trajectory measurements. The resulting window is a transaction-based proxy for when the vehicle is available for charging. The model treats recorded energy delivery as the service requirement and applies the specified checkpoint constraints within this window.
+
+We checked every session in the frozen site-week panels against the operator's original workbooks. All 6,462 records matched the source on device, connector, local start time, duration to the second and delivered energy to the precision retained in the input. All devices represented in the panels appeared in the associated operator point reports. Among devices observed in the same season in both years, all 23 January devices and all 25 July devices retained the same communication identifier, local authority and postcode. These comparisons support continuity of the observed device identifiers and geographic assignment. The reports list activity and location details, with charger categories in 2024. Connector-level power histories and electrical topology remain unobserved.
+
+The common exogenous signals were the 30-minute Great Britain average electricity carbon intensity estimated from metered generation (the NESO API's actual field) and Elexon's APXMIDP short-term wholesale price index. Model costs and operational grid-import carbon footprints use these two signals. The 2023 anchor used JRC PVGIS 5.3 ERA5 PV estimates for a south-facing array tilted 35 degrees with 14% system losses. The same-method cross-year comparison used ERA5 global tilted irradiance from Open-Meteo for both years, with the same tilt and orientation and a fixed system efficiency of 0.86. We set normalized power to 0.86 times the reported irradiance in W/m2 divided by 1,000. The irradiance value describes the preceding hour. We shifted hour-ending timestamps back one hour and used the hourly value in both half-hours to preserve energy. The 2023 same-method dataset preserves its original charging records, carbon and price columns and timestamps.
+
+Sources and attribution
+
+1. Batic, D. GridCharge: Capturing Carbon Intensity of 5M+ Public EV Charging Sessions in Scotland. DOI 10.57967/hf/6647. The data card declares CC BY 4.0. We derived matched, filtered UTC sessions and geographic site proxies from the public tables. The repository license is the republisher's declared license. The original CPS archive bears a copyright notice and the audit identified no explicit operator redistribution license for those workbooks. The journal reproduction package should obtain the original or repackaged full transaction snapshots from the source through the download manifest. The analysis cites both the operator and the republisher.
+   https://huggingface.co/datasets/djordjebatic/GridCharge
+   https://doi.org/10.57967/hf/6647
+   https://github.com/djordjebatic/GridCharge
+   https://creativecommons.org/licenses/by/4.0/
+
+2. ChargePlace Scotland. Monthly Charge Point Performance. The archive lists the original session files and point reports for all four study months. Transport Scotland's network requirements distinguish vehicle connection events from charge start and end events. Those separate fields are absent from the public transaction workbooks.
+   https://chargeplacescotland.org/monthly-charge-point-performance/
+   https://www.transport.gov.scot/media/45830/common-requirements-and-good-practice-for-chargeplace-scotland-network-switched-on-towns-and-cities.pdf
+
+3. Davies, K., Hart, E., and Galloway, S. (2024). Plugging-In Caledonia: Location and Utilisation of Public Electric Vehicle Chargers in Scotland. World Electric Vehicle Journal, 15(12), 570. DOI 10.3390/wevj15120570. This independent work describes the CPS transaction start, duration, energy and location fields. We cite its October 2022 to March 2024 Strathclyde dataset for field context.
+   https://doi.org/10.3390/wevj15120570
+   https://pureportal.strath.ac.uk/en/datasets/scottish-public-electric-vehicle-charging-chargeplace-scotland-oc/
+
+4. National Energy System Operator. Carbon Intensity API, national half-hour actual field. Source license CC BY 4.0. The study aligned values to UTC, retained complete study windows and applied the estimated average intensity to model grid imports.
+   https://carbonintensity.org.uk/
+   https://api.carbonintensity.org.uk/
+
+5. Elexon. Insights Solution, BMRS Market Index Data, APXMIDP. The study uses the reported start timestamp, price and provider. Required attribution for the study data years: Contains BMRS data © Elexon Limited copyright and database right 2023 and 2024. The data license and API terms apply separately.
+   https://developer.data.elexon.co.uk/
+   https://www.elexon.co.uk/bsc/data/balancing-mechanism-reporting-agent/copyright-licence-bmrs-data/
+   https://www.elexon.co.uk/bsc/data/balancing-mechanism-reporting-agent/copyright-licence-use-bmrs-api/
+
+6. European Commission Joint Research Centre. Photovoltaic Geographical Information System (PVGIS), version 5.3, ERA5. The study converted the modeled output of a 1 kWp system from W to kW and repeated each hourly value in both half-hours. PVGIS 5.3 coverage ends in 2023. A PVGIS 6 test returned null daytime power values in the 2024 windows. Its archived responses and manifest document the source check.
+   https://joint-research-centre.ec.europa.eu/photovoltaic-geographical-information-system-pvgis/using-pvgis-5/api-non-interactive-service_en
+   https://photovoltaic-geographic-information-system.ec.europa.eu/api/v6/docs
+
+7. Copernicus Climate Change Service and ECMWF ERA5 reanalysis, accessed through the Open-Meteo Historical Weather API. The ERA5 single-level catalogue and Open-Meteo identify the source weather data as CC BY. Open-Meteo distinguishes data licensing from access to its free service. We used global_tilted_irradiance (preceding-hour mean), a 35-degree tilt and a due-south azimuth. The two city reference points were 55.9533 N, 3.1883 W and 55.8642 N, 4.2518 W. The analysis contains modified Copernicus Climate Change Service information for 2023 and 2024. Neither the European Commission nor ECMWF is responsible for its use here.
+   https://doi.org/10.24381/cds.adbb2d47
+   https://open-meteo.com/en/docs/historical-weather-api
+   https://open-meteo.com/en/terms
+   https://open-meteo.com/en/pricing
+
+Operator cross-check and batch differences
+
+The source workbooks and GridCharge session snapshots differ in their row counts. The counts below exclude the header and include all source workbook rows returned by the reader. Each selected record matched the official source after the UTC timestamps were converted back to local civil time.
+
+Month      CPS rows   GridCharge rows   In-panel matches   Original connector label
+2023-01    191232     180170            1656 / 1656        AC
+2023-07    156685     146278            1850 / 1850        AC
+2024-01    149052     139664            1543 / 1543        AC
+2024-07    135103     128240            1413 / 1413        type_2_plug
+
+In the 2023-01, 2023-07 and 2024-01 workbooks, the original data columns are Site, CP ID, Connector Type, Connector, Currency, Amount, Consum(kWh), Duration and Start. The corresponding 2024-07 labels are Site, CPID, Connector type, Connector ID, CURR, Amt, CONSUM, Duration and start time. GridCharge standardizes the relevant labels and provides fewer rows. The record-level check covers the retained analysis panel.
+
+Operator audit URLs and SHA-256 of the bytes checked
+
+2023-01 sessions
+https://chargeplacescotland.org/wp-content/uploads/2023/07/JAN-23-Public-Sessions.xlsx
+ecb731e22e6ede7540415741726d42f38b18b31c458352c6e8066f537482fc75
+2023-01 points
+https://chargeplacescotland.org/wp-content/uploads/2023/07/monthy_cp_report-JAN-23.csv
+ebd72d8e5eb807c726e03f577805b50afba2399be451f8047653a1bf210901d5
+2023-07 sessions
+https://chargeplacescotland.org/wp-content/uploads/2023/08/SESSIONS-JULY-23.xlsx
+b9a7486d2e8bd8d0497e1f1cfa976025989464605b0314914f662554b0060448
+2023-07 points
+https://chargeplacescotland.org/wp-content/uploads/2023/08/monthy_cp_report-JULY.xlsx
+0372fa5a8575c8040c27d7965cefe81f9f4fc36234820addadc6d8bb14c7eaa6
+2024-01 sessions
+https://chargeplacescotland.org/wp-content/uploads/2024/03/Sessions-JAN-24-CLEAN-1.xlsx
+6c59858833105d3b7567e28f675282e11494617526bdb4f6468418ed7c3d8374
+2024-01 points
+https://chargeplacescotland.org/wp-content/uploads/2024/03/CP_report-JAN-24-CLEAN-1.xlsx
+4db0a132f82e8f422bb0279f175607b8442e534e8f498b9866c17b5acdf25f86
+2024-07 sessions
+https://chargeplacescotland.org/wp-content/uploads/2024/08/CPS-JULY-Sessions.xlsx
+a52ff0dcf045109dd79ab5d5114d23356e33a3f9cfe62b903006120b41b93379
+2024-07 points
+https://chargeplacescotland.org/wp-content/uploads/2024/08/CPS_monthy_cp_report-July24.csv
+b28b252b7c7c08ebb0856f05bd6310799202e39c52d7a6d09f02054c2c61b316
+
+Panel and reproduction workflow
+
+1. Run the following command from the storage_value_study directory to retrieve missing snapshots and verify all the cached files. The script reads the three frozen manifests listed below. SHA-256 and byte count must match before a downloaded file is saved under its study filename.
+
+   python submission_jte/fetch_snapshots.py
+
+   data/raw_manifest.json
+   cross_year_2024/data/raw_manifest.json
+   cross_year_2024/data_harmonized_2023/raw_manifest.json
+
+   Add --verify-only to run the check offline. The original operator workbooks are independent audit sources. The three manifests specify the files needed to recreate the model inputs. Live APIs can revise historical values or return different response metadata. In particular, Open-Meteo includes generationtime_ms. Exact byte-level reproduction therefore uses the preserved API response files when the live response differs. A checksum mismatch requires the frozen snapshot identified in the manifest.
+
+2. Prepare the model input tables using the existing data scripts.
+
+   python prepare_study_data.py --offline
+   python cross_year_2024/prepare_holdout_data.py --offline
+   python cross_year_2024/prepare_holdout_data.py --harmonize-2023 --offline
+
+   The prepared metadata record row counts and sequential exclusions. The filters exclude invalid values, physically inconsistent energy at the modeled power ceiling, duplicate or overlapping records on a connector, and records outside the complete UTC window. The 2023 signal windows start 1 January and 1 July UTC and end before 26 January and 31 July, respectively, due to gaps in the carbon and price series. The 2024 signal inputs contain the full January and July UTC months. Analyses use complete Monday-through-Sunday UTC weeks and sessions contained within each week. The primary cross-year panel matches the same geographic site, calendar month and ordinal complete UTC week. Match and selection rules are recorded in cross_year_2024/protocol.json and submission_jte/service_protocol.json.
+
+3. Follow submission_jte/REPRODUCE.txt to reconstruct the study inputs and rerun the service and controller analyses. The service runner verifies the checksums of the two frozen upstream panel result manifests and the service protocol.

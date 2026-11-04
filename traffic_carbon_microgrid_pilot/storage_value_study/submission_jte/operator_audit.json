@@ -1,0 +1,161 @@
+{
+  "cross_year_same_month_device_identity": {
+    "01": {
+      "same_communication_id_authority_postcode": 23,
+      "shared_devices_in_operator_reports": 23
+    },
+    "07": {
+      "same_communication_id_authority_postcode": 25,
+      "shared_devices_in_operator_reports": 25
+    }
+  },
+  "input_panel_sha256": {
+    "cross_year_2024/results/case_sessions.csv": "b8df16c43fbf2c9dcbb06820fff843d7f8107e2dc45e33e81749414bb5834e26",
+    "results/case_sessions.csv": "41c64b9a81c6fd057376a3098819e554579f2ec55ee3a49f8d74df704d62b2b0"
+  },
+  "matched_sessions": 6462,
+  "months": {
+    "2023_01": {
+      "devices_in_operator_point_report": 25,
+      "matched_original_connector_labels": {
+        "AC": 1656
+      },
+      "matched_sessions": 1656,
+      "operator_workbook_rows_excluding_header": 191232,
+      "original_session_columns": [
+        "Site",
+        "CP ID",
+        "Connector Type",
+        "Connector",
+        "Currency",
+        "Amount",
+        "Consum(kWh)",
+        "Duration",
+        "Start"
+      ],
+      "panel_devices": 25,
+      "panel_sessions": 1656,
+      "sources": {
+        "points": {
+          "bytes": 357280,
+          "sha256": "ebd72d8e5eb807c726e03f577805b50afba2399be451f8047653a1bf210901d5",
+          "url": "https://chargeplacescotland.org/wp-content/uploads/2023/07/monthy_cp_report-JAN-23.csv"
+        },
+        "sessions": {
+          "bytes": 12094079,
+          "sha256": "ecb731e22e6ede7540415741726d42f38b18b31c458352c6e8066f537482fc75",
+          "url": "https://chargeplacescotland.org/wp-content/uploads/2023/07/JAN-23-Public-Sessions.xlsx"
+        }
+      }
+    },
+    "2023_07": {
+      "devices_in_operator_point_report": 28,
+      "matched_original_connector_labels": {
+        "AC": 1850
+      },
+      "matched_sessions": 1850,
+      "operator_workbook_rows_excluding_header": 156685,
+      "original_session_columns": [
+        "Site",
+        "CP ID",
+        "Connector Type",
+        "Connector",
+        "Currency",
+        "Amount",
+        "Consum(kWh)",
+        "Duration",
+        "Start"
+      ],
+      "panel_devices": 28,
+      "panel_sessions": 1850,
+      "sources": {
+        "points": {
+          "bytes": 197947,
+          "sha256": "0372fa5a8575c8040c27d7965cefe81f9f4fc36234820addadc6d8bb14c7eaa6",
+          "url": "https://chargeplacescotland.org/wp-content/uploads/2023/08/monthy_cp_report-JULY.xlsx"
+        },
+        "sessions": {
+          "bytes": 10227264,
+          "sha256": "b9a7486d2e8bd8d0497e1f1cfa976025989464605b0314914f662554b0060448",
+          "url": "https://chargeplacescotland.org/wp-content/uploads/2023/08/SESSIONS-JULY-23.xlsx"
+        }
+      }
+    },
+    "2024_01": {
+      "devices_in_operator_point_report": 26,
+      "matched_original_connector_labels": {
+        "AC": 1543
+      },
+      "matched_sessions": 1543,
+      "operator_workbook_rows_excluding_header": 149052,
+      "original_session_columns": [
+        "Site",
+        "CP ID",
+        "Connector Type",
+        "Connector",
+        "Currency",
+        "Amount",
+        "Consum(kWh)",
+        "Duration",
+        "Start"
+      ],
+      "panel_devices": 26,
+      "panel_sessions": 1543,
+      "sources": {
+        "points": {
+          "bytes": 218633,
+          "sha256": "4db0a132f82e8f422bb0279f175607b8442e534e8f498b9866c17b5acdf25f86",
+          "url": "https://chargeplacescotland.org/wp-content/uploads/2024/03/CP_report-JAN-24-CLEAN-1.xlsx"
+        },
+        "sessions": {
+          "bytes": 9771611,
+          "sha256": "6c59858833105d3b7567e28f675282e11494617526bdb4f6468418ed7c3d8374",
+          "url": "https://chargeplacescotland.org/wp-content/uploads/2024/03/Sessions-JAN-24-CLEAN-1.xlsx"
+        }
+      }
+    },
+    "2024_07": {
+      "devices_in_operator_point_report": 28,
+      "matched_original_connector_labels": {
+        "type_2_plug": 1413
+      },
+      "matched_sessions": 1413,
+      "operator_workbook_rows_excluding_header": 135103,
+      "original_session_columns": [
+        "Site",
+        "CPID",
+        "Connector type",
+        "Connector ID",
+        "CURR",
+        "Amt",
+        "CONSUM",
+        "Duration",
+        "start time"
+      ],
+      "panel_devices": 28,
+      "panel_sessions": 1413,
+      "sources": {
+        "points": {
+          "bytes": 406006,
+          "sha256": "b28b252b7c7c08ebb0856f05bd6310799202e39c52d7a6d09f02054c2c61b316",
+          "url": "https://chargeplacescotland.org/wp-content/uploads/2024/08/CPS_monthy_cp_report-July24.csv"
+        },
+        "sessions": {
+          "bytes": 8919985,
+          "sha256": "a52ff0dcf045109dd79ab5d5114d23356e33a3f9cfe62b903006120b41b93379",
+          "url": "https://chargeplacescotland.org/wp-content/uploads/2024/08/CPS-JULY-Sessions.xlsx"
+        }
+      }
+    }
+  },
+  "panel_sessions": 6462,
+  "pass": true,
+  "scope": "Public transaction fields and historical identifier continuity. The operator files do not separately identify unplug events, power histories or electrical topology.",
+  "session_key_fields": [
+    "device",
+    "connector",
+    "Europe/London local start",
+    "duration (seconds)",
+    "delivered energy (kWh, rounded to five decimals)"
+  ]
+}

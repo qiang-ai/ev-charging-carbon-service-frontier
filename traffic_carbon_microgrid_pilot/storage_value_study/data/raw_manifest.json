@@ -1,0 +1,140 @@
+{
+  "errors": {},
+  "files": {
+    "elexon_20230101.json": {
+      "bytes": 49330,
+      "sha256": "325f6650287a8a2fb3752fba9ed6933cbd388482f0181e66c6624e1c26b55c8a",
+      "url": "https://data.elexon.co.uk/bmrs/api/v1/balancing/pricing/market-index?from=2023-01-01T00%3A00Z&to=2023-01-08T00%3A00Z&dataProviders=APXMIDP&format=json"
+    },
+    "elexon_20230108.json": {
+      "bytes": 49345,
+      "sha256": "8c6e7c977c35fa5e030f7f9bb2d59234181047c98ed72d3924b4f4b3bcd2ad4a",
+      "url": "https://data.elexon.co.uk/bmrs/api/v1/balancing/pricing/market-index?from=2023-01-08T00%3A00Z&to=2023-01-15T00%3A00Z&dataProviders=APXMIDP&format=json"
+    },
+    "elexon_20230115.json": {
+      "bytes": 49427,
+      "sha256": "96722b0be1df159e21844874310ae94257b1f184fc38c23895271c40cb22ac7f",
+      "url": "https://data.elexon.co.uk/bmrs/api/v1/balancing/pricing/market-index?from=2023-01-15T00%3A00Z&to=2023-01-22T00%3A00Z&dataProviders=APXMIDP&format=json"
+    },
+    "elexon_20230122.json": {
+      "bytes": 49385,
+      "sha256": "db090bdbc906cee7176d729c1013abe498a47ec8be2ff8f109dfcb0031f90d76",
+      "url": "https://data.elexon.co.uk/bmrs/api/v1/balancing/pricing/market-index?from=2023-01-22T00%3A00Z&to=2023-01-29T00%3A00Z&dataProviders=APXMIDP&format=json"
+    },
+    "elexon_20230129.json": {
+      "bytes": 21291,
+      "sha256": "9a9c83e7b73b528f9a25fe4fffc7443e10c51f7ca7b667912cb6dd6478bdd47a",
+      "url": "https://data.elexon.co.uk/bmrs/api/v1/balancing/pricing/market-index?from=2023-01-29T00%3A00Z&to=2023-02-01T00%3A00Z&dataProviders=APXMIDP&format=json"
+    },
+    "elexon_20230701.json": {
+      "bytes": 49223,
+      "sha256": "cdb50f3cf25bf118213978bf6eb5ede8c604831cac50b85175c9ec89c6e3b4d5",
+      "url": "https://data.elexon.co.uk/bmrs/api/v1/balancing/pricing/market-index?from=2023-07-01T00%3A00Z&to=2023-07-08T00%3A00Z&dataProviders=APXMIDP&format=json"
+    },
+    "elexon_20230708.json": {
+      "bytes": 49191,
+      "sha256": "5ca6f1bd9e868520d38de2264a87905d22d68db09ec71200bfc4988eb80e6785",
+      "url": "https://data.elexon.co.uk/bmrs/api/v1/balancing/pricing/market-index?from=2023-07-08T00%3A00Z&to=2023-07-15T00%3A00Z&dataProviders=APXMIDP&format=json"
+    },
+    "elexon_20230715.json": {
+      "bytes": 49118,
+      "sha256": "5bdff5655b727b0b75f24300a54b12b67d6638f602244b3e4939c609f8a46199",
+      "url": "https://data.elexon.co.uk/bmrs/api/v1/balancing/pricing/market-index?from=2023-07-15T00%3A00Z&to=2023-07-22T00%3A00Z&dataProviders=APXMIDP&format=json"
+    },
+    "elexon_20230722.json": {
+      "bytes": 49152,
+      "sha256": "9aab9a10652f66dce1d65a5ead397b778c467b9adbcb9e07fb7176207a814c8f",
+      "url": "https://data.elexon.co.uk/bmrs/api/v1/balancing/pricing/market-index?from=2023-07-22T00%3A00Z&to=2023-07-29T00%3A00Z&dataProviders=APXMIDP&format=json"
+    },
+    "elexon_20230729.json": {
+      "bytes": 21028,
+      "sha256": "dda6947b0043cc0b479a47ba4a468b71dcbd961fd7348ae9e36c858b124e881f",
+      "url": "https://data.elexon.co.uk/bmrs/api/v1/balancing/pricing/market-index?from=2023-07-29T00%3A00Z&to=2023-08-01T00%3A00Z&dataProviders=APXMIDP&format=json"
+    },
+    "gridcharge_2023_01.csv": {
+      "bytes": 8766453,
+      "sha256": "f1c4ab214e97043ac53f399b492e6bf4e2f23cb94f9ef59290a3dabdf7bc4581",
+      "url": "https://huggingface.co/datasets/djordjebatic/GridCharge/raw/main/sessions/january-2023.csv"
+    },
+    "gridcharge_2023_07.csv": {
+      "bytes": 7159948,
+      "sha256": "473542dd80191831daaf7305a1381a3cb7ed3fc1e0f174a4bf944c2a404470f7",
+      "url": "https://huggingface.co/datasets/djordjebatic/GridCharge/raw/main/sessions/july-2023.csv"
+    },
+    "gridcharge_README.md": {
+      "bytes": 10182,
+      "sha256": "bc3a3539724712b8388a34ff5f69b04e559b7d5d379388be4a3e3d0dac42973a",
+      "url": "https://huggingface.co/datasets/djordjebatic/GridCharge/raw/main/README.md"
+    },
+    "infrastructure_edinburgh.csv": {
+      "bytes": 34123,
+      "sha256": "e81311d2e37afdc2fe1940785d7837133778221dfe1ea1902dcec69e279a5c30",
+      "url": "https://huggingface.co/datasets/djordjebatic/GridCharge/raw/main/carbon_mix/City%20of%20Edinburgh/charging_infrastructure.csv"
+    },
+    "infrastructure_glasgow.csv": {
+      "bytes": 43652,
+      "sha256": "f57e2866b4e9b8488a9bed14c902acaf4c5f44d640789b9f5467b0c4bf605569",
+      "url": "https://huggingface.co/datasets/djordjebatic/GridCharge/raw/main/carbon_mix/Glasgow%20City/charging_infrastructure.csv"
+    },
+    "neso_20230101.json": {
+      "bytes": 37155,
+      "sha256": "d4a5ca6c1e537dcbe203b0ea2b1c46c212e84660ba03cd566235a4a66504c17e",
+      "url": "https://api.carbonintensity.org.uk/intensity/2023-01-01T00:00Z/2023-01-08T00:00Z"
+    },
+    "neso_20230108.json": {
+      "bytes": 36514,
+      "sha256": "65f263f235a9c10a934bd519e331d4e51702cedbd13efe11abbae010c39b4f08",
+      "url": "https://api.carbonintensity.org.uk/intensity/2023-01-08T00:00Z/2023-01-15T00:00Z"
+    },
+    "neso_20230115.json": {
+      "bytes": 37969,
+      "sha256": "ca8c8a676e44606e086be4f65e4cc708ec715875489484d9bb6a75b2747c45b1",
+      "url": "https://api.carbonintensity.org.uk/intensity/2023-01-15T00:00Z/2023-01-22T00:00Z"
+    },
+    "neso_20230122.json": {
+      "bytes": 37664,
+      "sha256": "6c3b3e17b03766f3a239e8073e217d852fcebea563b1d034dc9d8d5bdb102280",
+      "url": "https://api.carbonintensity.org.uk/intensity/2023-01-22T00:00Z/2023-01-29T00:00Z"
+    },
+    "neso_20230129.json": {
+      "bytes": 16132,
+      "sha256": "2aeef58b8eaa05f173f261d7d1c6edac41d839db77df26bdbf23f28796741d10",
+      "url": "https://api.carbonintensity.org.uk/intensity/2023-01-29T00:00Z/2023-02-01T00:00Z"
+    },
+    "neso_20230701.json": {
+      "bytes": 37245,
+      "sha256": "9e2735831a18c9e38c07c05c76357bb0bc769c725ca0a71b42d8285c45b8185a",
+      "url": "https://api.carbonintensity.org.uk/intensity/2023-07-01T00:00Z/2023-07-08T00:00Z"
+    },
+    "neso_20230708.json": {
+      "bytes": 38264,
+      "sha256": "b0156e6195f29c2663836dc0983a575f653570aaced85382ade102ac70c26ca1",
+      "url": "https://api.carbonintensity.org.uk/intensity/2023-07-08T00:00Z/2023-07-15T00:00Z"
+    },
+    "neso_20230715.json": {
+      "bytes": 37432,
+      "sha256": "ad2dd0e304a23c2df7a8b9b2e8688acb789f37d7ab214499670df41ffc3c7157",
+      "url": "https://api.carbonintensity.org.uk/intensity/2023-07-15T00:00Z/2023-07-22T00:00Z"
+    },
+    "neso_20230722.json": {
+      "bytes": 37904,
+      "sha256": "7d409b063e0638486b7a26f468f69428dc15111b57ddf9f8daacfd78905c3231",
+      "url": "https://api.carbonintensity.org.uk/intensity/2023-07-22T00:00Z/2023-07-29T00:00Z"
+    },
+    "neso_20230729.json": {
+      "bytes": 15924,
+      "sha256": "5119ac538a49e7fe638886acd15da6feb01c5c91d533e037ace9d7a783ad7fb9",
+      "url": "https://api.carbonintensity.org.uk/intensity/2023-07-29T00:00Z/2023-08-01T00:00Z"
+    },
+    "pvgis_edinburgh_2023.json": {
+      "bytes": 821959,
+      "sha256": "c23a76b5b3df18592f5a826107ef7679aae80cf68f961a2ad6b281d6b13fab8e",
+      "url": "https://re.jrc.ec.europa.eu/api/v5_3/seriescalc?lat=55.9533&lon=-3.1883&startyear=2023&endyear=2023&raddatabase=PVGIS-ERA5&pvcalculation=1&peakpower=1&loss=14&angle=35&aspect=0&outputformat=json"
+    },
+    "pvgis_glasgow_2023.json": {
+      "bytes": 821965,
+      "sha256": "7910df6f85e1062a473550e36d28e4585623de80c0486afb510ad7f90017660f",
+      "url": "https://re.jrc.ec.europa.eu/api/v5_3/seriescalc?lat=55.8642&lon=-4.2518&startyear=2023&endyear=2023&raddatabase=PVGIS-ERA5&pvcalculation=1&peakpower=1&loss=14&angle=35&aspect=0&outputformat=json"
+    }
+  }
+}

@@ -1,0 +1,52 @@
+公共充电站固定储能的增量减碳价值
+
+打开研究报告.html查看问题、方法、数据来源、图表和定量结果。
+本项目需要 Python 3.12 及父目录 requirements.txt 中的依赖。
+父目录 optimize.py 提供半小时窗口、会话功率约束与站内能量平衡模型。
+主研究在 storage_value_study 目录内运行。项目压缩包保留了这个相对目录结构。
+
+复现命令
+
+  python -m pip install -r ../requirements.txt
+  python prepare_study_data.py --offline
+  python model.py
+  python run_study.py --workers 3
+  python run_study.py --workers 3 --battery-fraction 0.125 --out-dir results_small_storage
+  python run_study.py --workers 3 --budget-reduction 0.10 --out-dir results_tighter_budget
+  python audit_study.py
+  python audit_study.py --results-dir results_small_storage
+  python audit_study.py --results-dir results_tighter_budget
+  python analyze.py
+  python analyze.py --results results_small_storage
+  python analyze.py --results results_tighter_budget
+  python plot_study.py
+  python render_study.py
+
+计算资源紧张时可把 --workers 3 改成 --workers 1。主实验按 82 个场址周依次输出进度。
+已下载数据保存于 data/raw，data/raw_manifest.json 记录来源及 SHA-256。
+离线数据准备从这些快照重建四组配对输入。联网数据准备可去掉 --offline。
+
+主要结果文件
+
+  results/cases.csv                  场址周、样本与共同成本上限
+  results/case_sessions.csv          进入主样本的会话及对应场址周
+  results/outcomes.csv               逐个有／无储能配置的求解输出和物理残差
+  results/storage_pairs.csv          1,640 个储能增量对照、求解边界及达标分类
+  results/factorial_summary.csv      四档时间余量与五档光伏的主结果
+  results/season_summary.csv         冬夏两期的对照
+  results/interactions.csv           充分调节相对即时充电的储能增量变化
+  results/condition_summary.csv      实际光伏发电覆盖与可调余量分组
+  results/leave_one_block_out.csv    逐一剔除城市、场址或共同 UTC 周的检查
+  results/audit_summary.json         独立审计
+  results_small_storage/            四分之一主容量的敏感性结果
+  results_tighter_budget/           同一参考运行预算收紧 10% 的敏感性结果
+  figures/                          PNG 与 SVG 图表
+
+计算范围
+
+  2023 年 1 月与 7 月的七个完整且有连续信号的 UTC 周，爱丁堡与格拉斯哥。
+  12 个地理场址代理、82 个场址周、3,506 次充电会话。
+  车辆补能量按原始会话固定。记录结束时刻作为可调窗口上限代理。
+  站内光伏与储能为情景配置。两城使用相同英国全国市场指数价格与平均碳强度。
+  同一场址周所有对照共用预算上限。实用阈值为 5% 且 5 g CO₂/kWh 交付电量。
+  研究针对购电运营碳足迹和批发价格情景，使用事后完整信号。资本开支与制造足迹属于另一核算范围。

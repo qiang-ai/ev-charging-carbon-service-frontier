@@ -1,0 +1,140 @@
+{
+  "all_pass": true,
+  "outcomes_checked": 978,
+  "site_weeks": 163,
+  "matched_site_weeks_per_year": 70,
+  "matched_summary_groups_checked": 12,
+  "exploratory_primary_effects": [
+    {
+      "year": 2023,
+      "target_share": 0.95,
+      "pooled_shortfall_no_storage_pct": 1.3062670950692605,
+      "pooled_shortfall_main_storage_pct": 9.43943767752881e-09,
+      "pooled_improvement_percentage_points": 1.3062670856298229
+    },
+    {
+      "year": 2023,
+      "target_share": 0.99,
+      "pooled_shortfall_no_storage_pct": 5.462808417627055,
+      "pooled_shortfall_main_storage_pct": 9.28718696298208e-09,
+      "pooled_improvement_percentage_points": 5.462808408339868
+    },
+    {
+      "year": 2024,
+      "target_share": 0.95,
+      "pooled_shortfall_no_storage_pct": 2.3171193130993117,
+      "pooled_shortfall_main_storage_pct": 1.2534031025542596e-08,
+      "pooled_improvement_percentage_points": 2.3171193005652806
+    },
+    {
+      "year": 2024,
+      "target_share": 0.99,
+      "pooled_shortfall_no_storage_pct": 6.7752169926252686,
+      "pooled_shortfall_main_storage_pct": 1.2331874857947814e-08,
+      "pooled_improvement_percentage_points": 6.7752169802933935
+    }
+  ],
+  "max_absolute_residuals": {
+    "endpoint nesting against .90": 3.637978807091713e-12,
+    "endpoint nesting against 1.00": 3.637978807091713e-12,
+    "frontier anchor best_no_battery_carbon_kg": 0.0,
+    "frontier anchor budget_gbp": 0.0,
+    "frontier anchor energy_kwh": 0.0,
+    "frontier anchor fixed_carbon_kg": 0.0,
+    "frontier anchor n_sessions": 0.0,
+    "frontier budget excess GBP": 0.0,
+    "frontier carbon excess kg": 3.410605131648481e-13,
+    "frontier carbon-target nesting": 3.637978807091713e-12,
+    "frontier no-storage carbon relative to minimum": 0.0,
+    "frontier nonnegative carbon": 0.0,
+    "frontier nonnegative early energy kWh": 0.0,
+    "frontier objective gap": 0.0,
+    "frontier objective lower-bound ordering": 4.547473508864641e-12,
+    "frontier physical early energy maximum kWh": 1.8189894035458565e-12,
+    "frontier physically possible full count": 0.0,
+    "frontier recalculated avoidable shortfall kWh": 1.833311280563521e-12,
+    "frontier recalculated shortfall percent": 4.907185768843192e-14,
+    "frontier recomputed carbon cap kg": 0.0,
+    "frontier reported residual above tolerance": 0.0,
+    "frontier storage capacity nesting": 4.547473508864641e-12,
+    "frontier tighter than main half-potential cap": 3.637978807091713e-12,
+    "frozen equipment basis": 0.0,
+    "main recomputed carbon cap kg": 0.0,
+    "prepared-session lineage": 0.0
+  },
+  "check_scope": "CSV and recorded solver summaries, anchors and monotonicity; no frontier decision vectors were saved",
+  "near_endpoint_groups": {
+    "2023|30|0.2|0.95|0.0": {
+      "pooled_avoidable_shortfall_pct": 1.3062670950692605,
+      "site_weeks": 70,
+      "site_weeks_with_shortfall_at_least_half_pp": 55,
+      "site_weeks_with_shortfall_gt_1e_5_kwh": 65
+    },
+    "2023|30|0.2|0.99|0.0": {
+      "pooled_avoidable_shortfall_pct": 5.462808417627055,
+      "site_weeks": 70,
+      "site_weeks_with_shortfall_at_least_half_pp": 70,
+      "site_weeks_with_shortfall_gt_1e_5_kwh": 70
+    },
+    "2023|30|0.2|0.95|0.125": {
+      "pooled_avoidable_shortfall_pct": 8.98269608645571e-09,
+      "site_weeks": 70,
+      "site_weeks_with_shortfall_at_least_half_pp": 0,
+      "site_weeks_with_shortfall_gt_1e_5_kwh": 0
+    },
+    "2023|30|0.2|0.99|0.125": {
+      "pooled_avoidable_shortfall_pct": 8.37369929882613e-09,
+      "site_weeks": 70,
+      "site_weeks_with_shortfall_at_least_half_pp": 0,
+      "site_weeks_with_shortfall_gt_1e_5_kwh": 0
+    },
+    "2023|30|0.2|0.95|0.5": {
+      "pooled_avoidable_shortfall_pct": 9.43943767752881e-09,
+      "site_weeks": 70,
+      "site_weeks_with_shortfall_at_least_half_pp": 0,
+      "site_weeks_with_shortfall_gt_1e_5_kwh": 0
+    },
+    "2023|30|0.2|0.99|0.5": {
+      "pooled_avoidable_shortfall_pct": 9.28718696298208e-09,
+      "site_weeks": 70,
+      "site_weeks_with_shortfall_at_least_half_pp": 0,
+      "site_weeks_with_shortfall_gt_1e_5_kwh": 0
+    },
+    "2024|30|0.2|0.95|0.0": {
+      "pooled_avoidable_shortfall_pct": 2.3171193130993117,
+      "site_weeks": 70,
+      "site_weeks_with_shortfall_at_least_half_pp": 52,
+      "site_weeks_with_shortfall_gt_1e_5_kwh": 66
+    },
+    "2024|30|0.2|0.99|0.0": {
+      "pooled_avoidable_shortfall_pct": 6.7752169926252686,
+      "site_weeks": 70,
+      "site_weeks_with_shortfall_at_least_half_pp": 68,
+      "site_weeks_with_shortfall_gt_1e_5_kwh": 69
+    },
+    "2024|30|0.2|0.95|0.125": {
+      "pooled_avoidable_shortfall_pct": 1.1927550936919099e-08,
+      "site_weeks": 70,
+      "site_weeks_with_shortfall_at_least_half_pp": 0,
+      "site_weeks_with_shortfall_gt_1e_5_kwh": 0
+    },
+    "2024|30|0.2|0.99|0.125": {
+      "pooled_avoidable_shortfall_pct": 1.1927550145077942e-08,
+      "site_weeks": 70,
+      "site_weeks_with_shortfall_at_least_half_pp": 0,
+      "site_weeks_with_shortfall_gt_1e_5_kwh": 0
+    },
+    "2024|30|0.2|0.95|0.5": {
+      "pooled_avoidable_shortfall_pct": 1.2534031025542596e-08,
+      "site_weeks": 70,
+      "site_weeks_with_shortfall_at_least_half_pp": 0,
+      "site_weeks_with_shortfall_gt_1e_5_kwh": 0
+    },
+    "2024|30|0.2|0.99|0.5": {
+      "pooled_avoidable_shortfall_pct": 1.2331874857947814e-08,
+      "site_weeks": 70,
+      "site_weeks_with_shortfall_at_least_half_pp": 0,
+      "site_weeks_with_shortfall_gt_1e_5_kwh": 0
+    }
+  }
+}

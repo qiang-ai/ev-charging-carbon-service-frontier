@@ -1,0 +1,476 @@
+Latitude,Longitude,CP ID,Connector,Nominal Power (kW),Connector Type,Tariff,Connection Fee,Address,Postcode,Local Authority,Region ID
+55.853724,-4.261707,52117,1,22.0,Type 2,0.4,,"Centre Street, Glasgow",G5,Glasgow City,2
+55.853724,-4.261707,52117,2,22.0,Type 2,0.4,,"Centre Street, Glasgow",G5,Glasgow City,2
+55.853724,-4.261707,52118,1,22.0,Type 2,0.4,,"Centre Street, Glasgow",G5,Glasgow City,2
+55.853724,-4.261707,52118,2,22.0,Type 2,0.4,,"Centre Street, Glasgow",G5,Glasgow City,2
+55.850004,-4.272913,70325,1,50.0,CCS,0.7,1.0,"Shields Road Park and Ride, Glasgow",G5,Glasgow City,2
+55.850004,-4.272913,70325,2,50.0,CHAdeMO,0.7,1.0,"Shields Road Park and Ride, Glasgow",G5,Glasgow City,2
+55.850004,-4.272913,70325,3,22.0,Type 2,0.7,1.0,"Shields Road Park and Ride, Glasgow",G5,Glasgow City,2
+55.84845,-4.24262,53609,1,22.0,Type 2,0.4,,Waddell Street,G5,Glasgow City,2
+55.84845,-4.24262,53609,2,22.0,Type 2,0.4,,Waddell Street,G5,Glasgow City,2
+55.84845,-4.24262,52241,1,7.0,Type 2,0.4,,Waddell Street,G5,Glasgow City,2
+55.84845,-4.24262,52241,2,7.0,Type 2,0.4,,Waddell Street,G5,Glasgow City,2
+55.84845,-4.24262,52240,1,22.0,Type 2,0.4,,Waddell Street,G5,Glasgow City,2
+55.84845,-4.24262,52240,2,22.0,Type 2,0.4,,Waddell Street,G5,Glasgow City,2
+55.8428,-4.25397,53173,1,7.0,Type 2,0.4,,Crown Street Retail Park,G5,Glasgow City,2
+55.8428,-4.25397,53173,2,7.0,Type 2,0.4,,Crown Street Retail Park,G5,Glasgow City,2
+55.8428,-4.25397,53175,1,7.0,Type 2,0.4,,Crown Street Retail Park,G5,Glasgow City,2
+55.8428,-4.25397,53175,2,7.0,Type 2,0.4,,Crown Street Retail Park,G5,Glasgow City,2
+55.8428,-4.25397,53172,1,7.0,Type 2,0.4,,Crown Street Retail Park,G5,Glasgow City,2
+55.8428,-4.25397,53172,2,7.0,Type 2,0.4,,Crown Street Retail Park,G5,Glasgow City,2
+55.8428,-4.25397,53176,1,7.0,Type 2,0.4,,Crown Street Retail Park,G5,Glasgow City,2
+55.8428,-4.25397,53176,2,7.0,Type 2,0.4,,Crown Street Retail Park,G5,Glasgow City,2
+55.8428,-4.25397,53174,1,7.0,Type 2,0.4,,Crown Street Retail Park,G5,Glasgow City,2
+55.8428,-4.25397,53174,2,7.0,Type 2,0.4,,Crown Street Retail Park,G5,Glasgow City,2
+55.84786,-4.25157,52239,1,7.0,Type 2,0.4,,"Crown Street, Glasgow",G5,Glasgow City,2
+55.84786,-4.25157,52239,2,7.0,Type 2,0.4,,"Crown Street, Glasgow",G5,Glasgow City,2
+55.84574,-4.24206,52242,1,22.0,Type 2,0.4,,"McNeil Street, Glasgow",G5,Glasgow City,2
+55.84574,-4.24206,52242,2,22.0,Type 2,0.4,,"McNeil Street, Glasgow",G5,Glasgow City,2
+55.8497414,-4.2521741,62271,1,22.0,Type 2,0.4,0.0,Lipton House,G5,Glasgow City,2
+55.8497414,-4.2521741,62271,2,22.0,Type 2,0.4,0.0,Lipton House,G5,Glasgow City,2
+55.8497414,-4.2521741,62276,1,7.0,Type 2,0.4,0.0,Lipton House,G5,Glasgow City,2
+55.8497414,-4.2521741,62276,2,7.0,Type 2,0.4,0.0,Lipton House,G5,Glasgow City,2
+55.8873,-4.1727,52427,1,7.0,Type 2,0.43,,Robroyston Station Park & Ride,G33,Glasgow City,2
+55.8873,-4.1727,52427,2,7.0,Type 2,0.43,,Robroyston Station Park & Ride,G33,Glasgow City,2
+55.8873,-4.1727,52426,1,7.0,Type 2,0.43,,Robroyston Station Park & Ride,G33,Glasgow City,2
+55.8873,-4.1727,52426,2,7.0,Type 2,0.43,,Robroyston Station Park & Ride,G33,Glasgow City,2
+55.887094,-4.174938,52429,1,7.0,Type 2,0.43,,Robroyston Station Park & Ride (North),G33,Glasgow City,2
+55.887094,-4.174938,52429,2,7.0,Type 2,0.43,,Robroyston Station Park & Ride (North),G33,Glasgow City,2
+55.887094,-4.174938,52428,1,7.0,Type 2,0.43,,Robroyston Station Park & Ride (North),G33,Glasgow City,2
+55.887094,-4.174938,52428,2,7.0,Type 2,0.43,,Robroyston Station Park & Ride (North),G33,Glasgow City,2
+55.887094,-4.174938,61345,1,7.0,Type 2,0.43,0.0,Robroyston Station Park & Ride (North),G33,Glasgow City,2
+55.887094,-4.174938,61345,2,7.0,Type 2,0.43,0.0,Robroyston Station Park & Ride (North),G33,Glasgow City,2
+55.887094,-4.174938,52430,1,52.0,CCS,0.43,,Robroyston Station Park & Ride (North),G33,Glasgow City,2
+55.887094,-4.174938,52430,2,52.0,CHAdeMO,0.43,,Robroyston Station Park & Ride (North),G33,Glasgow City,2
+55.887094,-4.174938,52430,3,44.0,Type 2,0.43,,Robroyston Station Park & Ride (North),G33,Glasgow City,2
+55.86431,-4.32896,53431,1,7.0,Type 2,0.2,,Linthouse Housing Association,G51,Glasgow City,2
+55.86431,-4.32896,53431,2,7.0,Type 2,0.2,,Linthouse Housing Association,G51,Glasgow City,2
+55.8685,-4.28911,50755,1,22.0,Type 2,0.4,,Kelvingrove Art Galleries and Museum,G3,Glasgow City,2
+55.8685,-4.28911,50755,2,22.0,Type 2,0.4,,Kelvingrove Art Galleries and Museum,G3,Glasgow City,2
+55.8619,-4.23753,52710,1,7.0,Type 2,0.4,,Cathedral Precinct Car Park 4,G4,Glasgow City,2
+55.8619,-4.23753,52710,2,7.0,Type 2,0.4,,Cathedral Precinct Car Park 4,G4,Glasgow City,2
+55.8619,-4.23753,52711,1,7.0,Type 2,0.4,,Cathedral Precinct Car Park 4,G4,Glasgow City,2
+55.8619,-4.23753,52711,2,7.0,Type 2,0.4,,Cathedral Precinct Car Park 4,G4,Glasgow City,2
+55.8619,-4.23753,52712,1,7.0,Type 2,0.4,1.0,Cathedral Precinct Car Park 4,G4,Glasgow City,2
+55.8619,-4.23753,52712,2,7.0,Type 2,0.4,1.0,Cathedral Precinct Car Park 4,G4,Glasgow City,2
+55.8639,-4.23812,52706,1,7.0,Type 2,0.4,,Cathedral Precinct Car Park 1,G4,Glasgow City,2
+55.8639,-4.23812,52706,2,7.0,Type 2,0.4,,Cathedral Precinct Car Park 1,G4,Glasgow City,2
+55.8639,-4.23812,52704,1,7.0,Type 2,0.4,,Cathedral Precinct Car Park 1,G4,Glasgow City,2
+55.8639,-4.23812,52704,2,7.0,Type 2,0.4,,Cathedral Precinct Car Park 1,G4,Glasgow City,2
+55.8639,-4.23812,52705,1,7.0,Type 2,0.4,,Cathedral Precinct Car Park 1,G4,Glasgow City,2
+55.8639,-4.23812,52705,2,7.0,Type 2,0.4,,Cathedral Precinct Car Park 1,G4,Glasgow City,2
+55.86318,-4.23844,52708,1,7.0,Type 2,0.4,,Cathedral Precinct Car Park 2,G4,Glasgow City,2
+55.86318,-4.23844,52708,2,7.0,Type 2,0.4,,Cathedral Precinct Car Park 2,G4,Glasgow City,2
+55.86318,-4.23844,52709,1,7.0,Type 2,0.4,,Cathedral Precinct Car Park 2,G4,Glasgow City,2
+55.86318,-4.23844,52709,2,7.0,Type 2,0.4,,Cathedral Precinct Car Park 2,G4,Glasgow City,2
+55.86318,-4.23844,52707,1,7.0,Type 2,0.4,,Cathedral Precinct Car Park 2,G4,Glasgow City,2
+55.86318,-4.23844,52707,2,7.0,Type 2,0.4,,Cathedral Precinct Car Park 2,G4,Glasgow City,2
+55.86216,-4.2486,52922,1,22.0,Type 2,0.4,,North Fredrick Street,G1,Glasgow City,2
+55.86216,-4.2486,52922,2,22.0,Type 2,0.4,,North Fredrick Street,G1,Glasgow City,2
+55.82451,-4.25326,52935,1,7.0,Type 2,0.65,2.0,Hampden Park Stadium,G42,Glasgow City,2
+55.82451,-4.25326,52935,2,7.0,Type 2,0.65,2.0,Hampden Park Stadium,G42,Glasgow City,2
+55.82731,-4.24797,50716,1,22.0,Type 2,0.4,,Hampden Events Site,G42,Glasgow City,2
+55.82731,-4.24797,50716,2,22.0,Type 2,0.4,,Hampden Events Site,G42,Glasgow City,2
+55.82731,-4.24797,51498,1,50.0,CHAdeMO,0.4,1.0,Hampden Events Site,G42,Glasgow City,2
+55.82731,-4.24797,51498,2,50.0,CCS,0.4,1.0,Hampden Events Site,G42,Glasgow City,2
+55.82731,-4.24797,51498,3,43.0,undefined,0.4,1.0,Hampden Events Site,G42,Glasgow City,2
+55.8247235,-4.2597529,60245,1,7.0,Type 2,0.4,,Cathkinview Place,G42,Glasgow City,2
+55.8247235,-4.2597529,60245,2,7.0,Type 2,0.4,,Cathkinview Place,G42,Glasgow City,2
+55.8361,-4.262,52731,1,7.0,Type 2,0.4,,"Allison Street, Govanhill",G42,Glasgow City,2
+55.8361,-4.262,52731,2,7.0,Type 2,0.4,,"Allison Street, Govanhill",G42,Glasgow City,2
+55.8315,-4.2489,50643,1,7.0,Type 2,0.4,,"Holyrood Sports Complex, Govanhill",G42,Glasgow City,2
+55.8315,-4.2489,50643,2,7.0,Type 2,0.4,,"Holyrood Sports Complex, Govanhill",G42,Glasgow City,2
+55.83517,-4.26529,52737,1,22.0,Type 2,0.4,,"Victoria Road, Glasgow",G42,Glasgow City,2
+55.83517,-4.26529,52737,2,22.0,Type 2,0.4,,"Victoria Road, Glasgow",G42,Glasgow City,2
+55.8318926,-4.2517276,60033,1,7.0,Type 2,0.4,,Holyrood Sports Complex,G42,Glasgow City,2
+55.8318926,-4.2517276,60033,2,7.0,Type 2,0.4,,Holyrood Sports Complex,G42,Glasgow City,2
+55.8318926,-4.2517276,60032,1,7.0,Type 2,0.4,,Holyrood Sports Complex,G42,Glasgow City,2
+55.8318926,-4.2517276,60032,2,7.0,Type 2,0.4,,Holyrood Sports Complex,G42,Glasgow City,2
+55.85766,-4.24316,52923,1,22.0,Type 2,0.4,,Bell Street,G1,Glasgow City,2
+55.85766,-4.24316,52923,2,22.0,Type 2,0.4,,Bell Street,G1,Glasgow City,2
+55.86059,-4.24851,50787,1,22.0,Type 2,0.4,,"Cochrane Street Car Club, Glasgow",G1,Glasgow City,2
+55.86059,-4.24851,50787,2,22.0,Type 2,0.4,,"Cochrane Street Car Club, Glasgow",G1,Glasgow City,2
+55.85866,-4.24849,53516,1,7.0,Type 2,0.4,,"Wilson Street, Glasgow",G1,Glasgow City,2
+55.85866,-4.24849,50566,1,22.0,Type 2,0.4,,"Wilson Street, Glasgow",G1,Glasgow City,2
+55.85866,-4.24849,50566,2,22.0,Type 2,0.4,,"Wilson Street, Glasgow",G1,Glasgow City,2
+55.85866,-4.24849,50567,1,22.0,Type 2,0.4,,"Wilson Street, Glasgow",G1,Glasgow City,2
+55.85866,-4.24849,50567,2,22.0,Type 2,0.4,,"Wilson Street, Glasgow",G1,Glasgow City,2
+55.859444,-4.244937,52924,1,7.0,Type 2,0.4,,Ingram Street,G1,Glasgow City,2
+55.859444,-4.244937,52924,2,7.0,Type 2,0.4,,Ingram Street,G1,Glasgow City,2
+55.90506,-4.3055,52007,1,7.0,Type 2,0.35,1.0,SEPA Glasgow    ,G20,Glasgow City,2
+55.90506,-4.3055,52007,2,7.0,Type 2,0.35,1.0,SEPA Glasgow    ,G20,Glasgow City,2
+55.84226,-4.27304,52732,1,7.0,Type 2,0.4,,Kenmure Street,G41,Glasgow City,2
+55.84226,-4.27304,52732,2,7.0,Type 2,0.4,,Kenmure Street,G41,Glasgow City,2
+55.86566,-4.11241,52777,1,22.0,Type 2,0.4,0.0,Blairtummock Housing Association,G34,Glasgow City,2
+55.86902,-4.12029,51568,1,51.0,CCS,0.7,,"The Lochs Shopping Centre, Westerhouse Road, Glasgow",G34,Glasgow City,2
+55.86902,-4.12029,51568,2,51.0,CHAdeMO,0.7,,"The Lochs Shopping Centre, Westerhouse Road, Glasgow",G34,Glasgow City,2
+55.86902,-4.12029,51568,3,22.0,Type 2,0.7,,"The Lochs Shopping Centre, Westerhouse Road, Glasgow",G34,Glasgow City,2
+55.86902,-4.12029,51569,1,22.0,Type 2,0.4,,"The Lochs Shopping Centre, Westerhouse Road, Glasgow",G34,Glasgow City,2
+55.86902,-4.12029,51569,2,22.0,Type 2,0.4,,"The Lochs Shopping Centre, Westerhouse Road, Glasgow",G34,Glasgow City,2
+55.87056,-4.32335,53451,1,22.0,Type 2,0.55,0.0,Arnold Clark Innovation Centre,G11,Glasgow City,2
+55.87056,-4.32335,53451,2,22.0,Type 2,0.55,0.0,Arnold Clark Innovation Centre,G11,Glasgow City,2
+55.87056,-4.32335,53450,1,51.0,CCS,0.55,0.0,Arnold Clark Innovation Centre,G11,Glasgow City,2
+55.87056,-4.32335,53450,2,51.0,CHAdeMO,0.55,0.0,Arnold Clark Innovation Centre,G11,Glasgow City,2
+55.87056,-4.32335,53450,3,22.0,Type 2,0.55,0.0,Arnold Clark Innovation Centre,G11,Glasgow City,2
+55.87367,-4.32272,52098,1,7.0,Type 2,0.4,0.5,"Broomhill Lane, Glasgow",G11,Glasgow City,2
+55.87367,-4.32272,52098,2,7.0,Type 2,0.4,0.5,"Broomhill Lane, Glasgow",G11,Glasgow City,2
+55.8327,-4.11426,51898,1,22.0,Type 2,0.4,,Daldowie Crematorium,G71,Glasgow City,2
+55.8327,-4.11426,51898,2,22.0,Type 2,0.4,,Daldowie Crematorium,G71,Glasgow City,2
+55.8327,-4.11426,51899,1,22.0,Type 2,0.4,,Daldowie Crematorium,G71,Glasgow City,2
+55.8327,-4.11426,51899,2,22.0,Type 2,0.4,,Daldowie Crematorium,G71,Glasgow City,2
+55.88209,-4.2073,52612,1,22.0,Type 2,0.25,1.0,"Broomfield Road, Glasgow",G21,Glasgow City,2
+55.88209,-4.2073,52612,2,22.0,Type 2,0.25,1.0,"Broomfield Road, Glasgow",G21,Glasgow City,2
+55.86611,-4.2741,51242,1,22.0,Type 2,0.4,,"Sauchiehall Street, Glasgow",G3,Glasgow City,2
+55.86611,-4.2741,51242,2,22.0,Type 2,0.4,,"Sauchiehall Street, Glasgow",G3,Glasgow City,2
+55.86611,-4.2741,51236,1,22.0,Type 2,0.4,,"Sauchiehall Street, Glasgow",G3,Glasgow City,2
+55.86611,-4.2741,51236,2,22.0,Type 2,0.4,,"Sauchiehall Street, Glasgow",G3,Glasgow City,2
+55.85961,-4.2823,52083,1,22.0,Type 2,0.4,,"SEC Hydro Car Park, Glasgow",G3,Glasgow City,2
+55.85961,-4.2823,52083,2,22.0,Type 2,0.4,,"SEC Hydro Car Park, Glasgow",G3,Glasgow City,2
+55.85961,-4.2823,52082,1,22.0,Type 2,0.4,,"SEC Hydro Car Park, Glasgow",G3,Glasgow City,2
+55.85961,-4.2823,52082,2,22.0,Type 2,0.4,,"SEC Hydro Car Park, Glasgow",G3,Glasgow City,2
+55.859666,-4.282326,70324,1,50.0,CCS,0.7,1.0,"Hydro Arena Car Park, Glasgow",G3,Glasgow City,2
+55.859666,-4.282326,70324,2,50.0,CHAdeMO,0.7,1.0,"Hydro Arena Car Park, Glasgow",G3,Glasgow City,2
+55.859666,-4.282326,70324,3,22.0,Type 2,0.7,1.0,"Hydro Arena Car Park, Glasgow",G3,Glasgow City,2
+55.856747,-4.270336,60042,1,50.0,CCS,0.7,,Newton Street Car Park,G3,Glasgow City,2
+55.856747,-4.270336,60042,2,50.0,CHAdeMO,0.7,,Newton Street Car Park,G3,Glasgow City,2
+55.856747,-4.270336,60042,3,22.0,Type 2,0.7,,Newton Street Car Park,G3,Glasgow City,2
+55.856747,-4.270336,60047,1,50.0,CCS,0.7,,Newton Street Car Park,G3,Glasgow City,2
+55.856747,-4.270336,60047,2,50.0,CHAdeMO,0.7,,Newton Street Car Park,G3,Glasgow City,2
+55.856747,-4.270336,60047,3,22.0,Type 2,0.7,,Newton Street Car Park,G3,Glasgow City,2
+55.856747,-4.270336,60048,1,50.0,CCS,0.7,,Newton Street Car Park,G3,Glasgow City,2
+55.856747,-4.270336,60048,2,50.0,CHAdeMO,0.7,,Newton Street Car Park,G3,Glasgow City,2
+55.856747,-4.270336,60048,3,22.0,Type 2,0.7,,Newton Street Car Park,G3,Glasgow City,2
+55.856747,-4.270336,60043,1,50.0,CCS,0.7,,Newton Street Car Park,G3,Glasgow City,2
+55.856747,-4.270336,60043,2,50.0,CHAdeMO,0.7,,Newton Street Car Park,G3,Glasgow City,2
+55.856747,-4.270336,60043,3,22.0,Type 2,0.7,,Newton Street Car Park,G3,Glasgow City,2
+55.856747,-4.270336,60037,1,150.0,CCS,0.7,1.0,Newton Street Car Park,G3,Glasgow City,2
+55.856747,-4.270336,60037,2,50.0,CHAdeMO,0.7,1.0,Newton Street Car Park,G3,Glasgow City,2
+55.856747,-4.270336,60044,1,50.0,CCS,0.7,,Newton Street Car Park,G3,Glasgow City,2
+55.856747,-4.270336,60044,2,50.0,CHAdeMO,0.7,,Newton Street Car Park,G3,Glasgow City,2
+55.856747,-4.270336,60044,3,22.0,Type 2,0.7,,Newton Street Car Park,G3,Glasgow City,2
+55.856747,-4.270336,60039,1,50.0,CCS,0.7,,Newton Street Car Park,G3,Glasgow City,2
+55.856747,-4.270336,60039,2,50.0,CHAdeMO,0.7,,Newton Street Car Park,G3,Glasgow City,2
+55.856747,-4.270336,60039,3,22.0,Type 2,0.7,,Newton Street Car Park,G3,Glasgow City,2
+55.856747,-4.270336,60038,1,50.0,CCS,0.7,,Newton Street Car Park,G3,Glasgow City,2
+55.856747,-4.270336,60038,2,50.0,CHAdeMO,0.7,,Newton Street Car Park,G3,Glasgow City,2
+55.856747,-4.270336,60038,3,22.0,Type 2,0.7,,Newton Street Car Park,G3,Glasgow City,2
+55.856747,-4.270336,60045,1,50.0,CCS,0.7,,Newton Street Car Park,G3,Glasgow City,2
+55.856747,-4.270336,60045,2,50.0,CHAdeMO,0.7,,Newton Street Car Park,G3,Glasgow City,2
+55.856747,-4.270336,60045,3,22.0,Type 2,0.7,,Newton Street Car Park,G3,Glasgow City,2
+55.856747,-4.270336,60040,1,50.0,CCS,0.7,,Newton Street Car Park,G3,Glasgow City,2
+55.856747,-4.270336,60040,2,50.0,CHAdeMO,0.7,,Newton Street Car Park,G3,Glasgow City,2
+55.856747,-4.270336,60040,3,22.0,Type 2,0.7,,Newton Street Car Park,G3,Glasgow City,2
+55.856747,-4.270336,60046,1,50.0,CCS,0.7,,Newton Street Car Park,G3,Glasgow City,2
+55.856747,-4.270336,60046,2,50.0,CHAdeMO,0.7,,Newton Street Car Park,G3,Glasgow City,2
+55.856747,-4.270336,60046,3,22.0,Type 2,0.7,,Newton Street Car Park,G3,Glasgow City,2
+55.856747,-4.270336,60041,1,50.0,CCS,0.7,,Newton Street Car Park,G3,Glasgow City,2
+55.856747,-4.270336,60041,2,50.0,CHAdeMO,0.7,,Newton Street Car Park,G3,Glasgow City,2
+55.856747,-4.270336,60041,3,22.0,Type 2,0.7,,Newton Street Car Park,G3,Glasgow City,2
+55.87406,-4.29432,51238,1,22.0,Type 2,0.4,,"Ashton Road Car Park, Hillhead",G12,Glasgow City,2
+55.87406,-4.29432,51238,2,22.0,Type 2,0.4,,"Ashton Road Car Park, Hillhead",G12,Glasgow City,2
+55.87754,-4.28898,51239,1,22.0,Type 2,0.4,,"Great Western Road nr Byers Rd, Hillhead",G12,Glasgow City,2
+55.87754,-4.28898,51239,2,22.0,Type 2,0.4,,"Great Western Road nr Byers Rd, Hillhead",G12,Glasgow City,2
+55.87685,-4.29033,51348,1,22.0,Type 2,0.4,,"Cranworth St. Car Club, Glasgow",G12,Glasgow City,2
+55.87685,-4.29033,51348,2,22.0,Type 2,0.4,,"Cranworth St. Car Club, Glasgow",G12,Glasgow City,2
+55.8771423,-4.2800105,60148,1,22.0,Type 2,0.4,,Belmont Street,G42,Glasgow City,2
+55.8771423,-4.2800105,60148,2,22.0,Type 2,0.4,,Belmont Street,G42,Glasgow City,2
+55.875376,-4.291877,60149,1,7.0,Type 2,0.4,,Lilybank Car Park,G12,Glasgow City,2
+55.875376,-4.291877,60149,2,7.0,Type 2,0.4,,Lilybank Car Park,G12,Glasgow City,2
+55.875376,-4.291877,60150,1,7.0,Type 2,0.4,,Lilybank Car Park,G12,Glasgow City,2
+55.875376,-4.291877,60150,2,7.0,Type 2,0.4,,Lilybank Car Park,G12,Glasgow City,2
+55.86348,-4.26238,50241,1,22.0,Type 2,0.4,1.0,"Blythswood Square, Glasgow",G2,Glasgow City,2
+55.86348,-4.26238,50241,2,22.0,Type 2,0.4,1.0,"Blythswood Square, Glasgow",G2,Glasgow City,2
+55.85893,-4.26252,70699,1,7.0,Type 2,0.4,0.0,"West Campbell Street, Glasgow",G2,Glasgow City,2
+55.85893,-4.26252,70699,2,7.0,Type 2,0.4,0.0,"West Campbell Street, Glasgow",G2,Glasgow City,2
+55.85893,-4.26252,51354,1,22.0,Type 2,0.4,1.0,"West Campbell Street, Glasgow",G2,Glasgow City,2
+55.85893,-4.26252,51354,2,22.0,Type 2,0.4,1.0,"West Campbell Street, Glasgow",G2,Glasgow City,2
+55.86015,-4.26433,50412,1,22.0,Type 2,0.4,,"Cadogan Street Car Park, Douglas Street, Glasgow",G2,Glasgow City,2
+55.86015,-4.26433,50412,2,22.0,Type 2,0.4,,"Cadogan Street Car Park, Douglas Street, Glasgow",G2,Glasgow City,2
+55.86015,-4.26433,50430,1,22.0,Type 2,0.4,,"Cadogan Street Car Park, Douglas Street, Glasgow",G2,Glasgow City,2
+55.86015,-4.26433,50430,2,22.0,Type 2,0.4,,"Cadogan Street Car Park, Douglas Street, Glasgow",G2,Glasgow City,2
+55.86015,-4.26433,50413,1,22.0,Type 2,0.4,,"Cadogan Street Car Park, Douglas Street, Glasgow",G2,Glasgow City,2
+55.86015,-4.26433,50413,2,22.0,Type 2,0.4,,"Cadogan Street Car Park, Douglas Street, Glasgow",G2,Glasgow City,2
+55.86489,-4.27015,50405,1,22.0,Type 2,0.4,,"Charing Cross Car Park, Elmbank Street, Glasgow",G2,Glasgow City,2
+55.86489,-4.27015,50405,2,22.0,Type 2,0.4,,"Charing Cross Car Park, Elmbank Street, Glasgow",G2,Glasgow City,2
+55.86489,-4.27015,50414,1,22.0,Type 2,0.4,,"Charing Cross Car Park, Elmbank Street, Glasgow",G2,Glasgow City,2
+55.86489,-4.27015,50414,2,22.0,Type 2,0.4,,"Charing Cross Car Park, Elmbank Street, Glasgow",G2,Glasgow City,2
+55.86489,-4.27015,50407,1,7.0,Type 2,0.4,1.0,"Charing Cross Car Park, Elmbank Street, Glasgow",G2,Glasgow City,2
+55.86489,-4.27015,50407,2,7.0,Type 2,0.4,1.0,"Charing Cross Car Park, Elmbank Street, Glasgow",G2,Glasgow City,2
+55.8614059,-4.2620624,60241,1,7.0,Type 2,0.4,,Bothwell Street,G2,Glasgow City,2
+55.8614059,-4.2620624,60241,2,7.0,Type 2,0.4,,Bothwell Street,G2,Glasgow City,2
+55.87094,-4.30968,51349,1,22.0,Type 2,0.4,,"Peel St. Car Club, Glasgow",G11,Glasgow City,2
+55.87094,-4.30968,51349,2,22.0,Type 2,0.4,,"Peel St. Car Club, Glasgow",G11,Glasgow City,2
+55.865944,-4.303933,70342,1,50.0,CCS,0.7,1.0,"Riverside Museum, Glasgow",G3,Glasgow City,2
+55.865944,-4.303933,70342,2,50.0,CHAdeMO,0.7,1.0,"Riverside Museum, Glasgow",G3,Glasgow City,2
+55.865944,-4.303933,70342,3,22.0,Type 2,0.7,1.0,"Riverside Museum, Glasgow",G3,Glasgow City,2
+55.865944,-4.303933,51500,1,50.0,CHAdeMO,0.7,,"Riverside Museum, Glasgow",G3,Glasgow City,2
+55.865944,-4.303933,51500,2,50.0,CCS,0.7,,"Riverside Museum, Glasgow",G3,Glasgow City,2
+55.865944,-4.303933,51500,3,22.0,Type 2,0.7,,"Riverside Museum, Glasgow",G3,Glasgow City,2
+55.865944,-4.303933,50796,1,22.0,Type 2,0.4,,"Riverside Museum, Glasgow",G3,Glasgow City,2
+55.865944,-4.303933,50796,2,22.0,Type 2,0.4,,"Riverside Museum, Glasgow",G3,Glasgow City,2
+55.865944,-4.303933,50797,1,22.0,Type 2,0.4,,"Riverside Museum, Glasgow",G3,Glasgow City,2
+55.865944,-4.303933,50797,2,22.0,Type 2,0.4,,"Riverside Museum, Glasgow",G3,Glasgow City,2
+55.8689065,-4.2963846,52075,1,7.0,Type 2,0.4,,"Bunhouse Road Car Park, Glasgow",G3,Glasgow City,2
+55.8689065,-4.2963846,52075,2,7.0,Type 2,0.4,,"Bunhouse Road Car Park, Glasgow",G3,Glasgow City,2
+55.8689065,-4.2963846,52078,1,7.0,Type 2,0.4,,"Bunhouse Road Car Park, Glasgow",G3,Glasgow City,2
+55.8689065,-4.2963846,52078,2,7.0,Type 2,0.4,,"Bunhouse Road Car Park, Glasgow",G3,Glasgow City,2
+55.8689065,-4.2963846,52077,1,7.0,Type 2,0.4,,"Bunhouse Road Car Park, Glasgow",G3,Glasgow City,2
+55.8689065,-4.2963846,52077,2,7.0,Type 2,0.4,,"Bunhouse Road Car Park, Glasgow",G3,Glasgow City,2
+55.8689065,-4.2963846,52074,1,7.0,Type 2,0.4,,"Bunhouse Road Car Park, Glasgow",G3,Glasgow City,2
+55.8689065,-4.2963846,52074,2,7.0,Type 2,0.4,,"Bunhouse Road Car Park, Glasgow",G3,Glasgow City,2
+55.8689065,-4.2963846,52076,1,7.0,Type 2,0.4,,"Bunhouse Road Car Park, Glasgow",G3,Glasgow City,2
+55.8689065,-4.2963846,52076,2,7.0,Type 2,0.4,,"Bunhouse Road Car Park, Glasgow",G3,Glasgow City,2
+55.8689065,-4.2963846,52071,1,7.0,Type 2,0.4,,"Bunhouse Road Car Park, Glasgow",G3,Glasgow City,2
+55.8689065,-4.2963846,52071,2,7.0,Type 2,0.4,,"Bunhouse Road Car Park, Glasgow",G3,Glasgow City,2
+55.8689065,-4.2963846,52072,1,7.0,Type 2,0.4,,"Bunhouse Road Car Park, Glasgow",G3,Glasgow City,2
+55.8689065,-4.2963846,52072,2,7.0,Type 2,0.4,,"Bunhouse Road Car Park, Glasgow",G3,Glasgow City,2
+55.8689065,-4.2963846,52070,1,7.0,Type 2,0.4,,"Bunhouse Road Car Park, Glasgow",G3,Glasgow City,2
+55.8689065,-4.2963846,52070,2,7.0,Type 2,0.4,,"Bunhouse Road Car Park, Glasgow",G3,Glasgow City,2
+55.8689065,-4.2963846,52073,1,7.0,Type 2,0.4,,"Bunhouse Road Car Park, Glasgow",G3,Glasgow City,2
+55.8689065,-4.2963846,52073,2,7.0,Type 2,0.4,,"Bunhouse Road Car Park, Glasgow",G3,Glasgow City,2
+55.85956,-4.23661,51566,1,51.0,CCS,0.7,,"Duke Street Car Park, Glasgow",G4,Glasgow City,2
+55.85956,-4.23661,51566,2,51.0,CHAdeMO,0.7,,"Duke Street Car Park, Glasgow",G4,Glasgow City,2
+55.85956,-4.23661,51566,3,22.0,Type 2,0.7,,"Duke Street Car Park, Glasgow",G4,Glasgow City,2
+55.85956,-4.23661,50403,1,22.0,Type 2,0.4,,"Duke Street Car Park, Glasgow",G4,Glasgow City,2
+55.85956,-4.23661,50403,2,22.0,Type 2,0.4,,"Duke Street Car Park, Glasgow",G4,Glasgow City,2
+55.85956,-4.23661,51240,1,50.0,CHAdeMO,0.7,,"Duke Street Car Park, Glasgow",G4,Glasgow City,2
+55.85956,-4.23661,51240,2,50.0,CCS,0.7,,"Duke Street Car Park, Glasgow",G4,Glasgow City,2
+55.85956,-4.23661,51240,3,22.0,Type 2,0.7,,"Duke Street Car Park, Glasgow",G4,Glasgow City,2
+55.85956,-4.23661,50402,1,22.0,Type 2,0.4,,"Duke Street Car Park, Glasgow",G4,Glasgow City,2
+55.85956,-4.23661,50402,2,22.0,Type 2,0.4,,"Duke Street Car Park, Glasgow",G4,Glasgow City,2
+55.85956,-4.23661,50408,1,22.0,Type 2,0.4,,"Duke Street Car Park, Glasgow",G4,Glasgow City,2
+55.85956,-4.23661,50408,2,22.0,Type 2,0.4,,"Duke Street Car Park, Glasgow",G4,Glasgow City,2
+55.85956,-4.23661,50415,1,7.0,Type 2,0.4,,"Duke Street Car Park, Glasgow",G4,Glasgow City,2
+55.85956,-4.23661,50415,2,7.0,Type 2,0.4,,"Duke Street Car Park, Glasgow",G4,Glasgow City,2
+55.85956,-4.23661,51565,1,51.0,CCS,0.7,,"Duke Street Car Park, Glasgow",G4,Glasgow City,2
+55.85956,-4.23661,51565,2,51.0,CHAdeMO,0.7,,"Duke Street Car Park, Glasgow",G4,Glasgow City,2
+55.85956,-4.23661,51565,3,22.0,Type 2,0.7,,"Duke Street Car Park, Glasgow",G4,Glasgow City,2
+55.8458,-4.2366,50686,1,22.0,Type 2,0.4,1.0,"Glasgow National Hockey Centre, Glasgow",G40,Glasgow City,2
+55.8458,-4.2366,50686,2,22.0,Type 2,0.4,1.0,"Glasgow National Hockey Centre, Glasgow",G40,Glasgow City,2
+55.8563034,-4.2382168,61620,1,22.0,Type 2,0.4,0.5,Dovehill,G1,Glasgow City,2
+55.8563034,-4.2382168,61620,2,22.0,Type 2,0.4,0.5,Dovehill,G1,Glasgow City,2
+55.8232,-4.34285,50538,1,7.0,Type 2,0.4,,"Pollok Leisure Centre, Glasgow",G53,Glasgow City,2
+55.8232,-4.34285,50538,2,7.0,Type 2,0.4,,"Pollok Leisure Centre, Glasgow",G53,Glasgow City,2
+55.86552,-4.253,50404,1,7.0,Type 2,0.4,,"Concert Square Car Park, Cowcaddens Road, Glasgow",G4,Glasgow City,2
+55.86552,-4.253,50404,2,7.0,Type 2,0.4,,"Concert Square Car Park, Cowcaddens Road, Glasgow",G4,Glasgow City,2
+55.86552,-4.253,50433,1,7.0,Type 2,0.4,1.0,"Concert Square Car Park, Cowcaddens Road, Glasgow",G4,Glasgow City,2
+55.86552,-4.253,50433,2,7.0,Type 2,0.4,1.0,"Concert Square Car Park, Cowcaddens Road, Glasgow",G4,Glasgow City,2
+55.86552,-4.253,50434,1,7.0,Type 2,0.4,,"Concert Square Car Park, Cowcaddens Road, Glasgow",G4,Glasgow City,2
+55.86552,-4.253,50434,2,7.0,Type 2,0.4,,"Concert Square Car Park, Cowcaddens Road, Glasgow",G4,Glasgow City,2
+55.86692,-4.25901,50410,1,7.0,Type 2,0.4,,"Cambridge Street Car Park, Glasgow",G2,Glasgow City,2
+55.86692,-4.25901,50410,2,7.0,Type 2,0.4,,"Cambridge Street Car Park, Glasgow",G2,Glasgow City,2
+55.86692,-4.25901,50411,1,7.0,Type 2,0.4,,"Cambridge Street Car Park, Glasgow",G2,Glasgow City,2
+55.86692,-4.25901,50411,2,7.0,Type 2,0.4,,"Cambridge Street Car Park, Glasgow",G2,Glasgow City,2
+55.86692,-4.25901,50401,1,7.0,Type 2,0.4,,"Cambridge Street Car Park, Glasgow",G2,Glasgow City,2
+55.86692,-4.25901,50401,2,7.0,Type 2,0.4,,"Cambridge Street Car Park, Glasgow",G2,Glasgow City,2
+55.86692,-4.25901,50409,1,7.0,Type 2,0.4,,"Cambridge Street Car Park, Glasgow",G2,Glasgow City,2
+55.86692,-4.25901,50409,2,7.0,Type 2,0.4,,"Cambridge Street Car Park, Glasgow",G2,Glasgow City,2
+55.8681,-4.25852,52187,1,22.0,Type 2,0.4,,"Dundasvale Multi-Storey Car Park, Dundasvale Court, Glasgow",G4,Glasgow City,2
+55.8681,-4.25852,52187,2,22.0,Type 2,0.4,,"Dundasvale Multi-Storey Car Park, Dundasvale Court, Glasgow",G4,Glasgow City,2
+55.8681,-4.25852,52188,1,22.0,Type 2,0.4,,"Dundasvale Multi-Storey Car Park, Dundasvale Court, Glasgow",G4,Glasgow City,2
+55.8681,-4.25852,52188,2,22.0,Type 2,0.4,,"Dundasvale Multi-Storey Car Park, Dundasvale Court, Glasgow",G4,Glasgow City,2
+55.8681,-4.25852,51567,1,50.0,CCS,0.7,,"Dundasvale Multi-Storey Car Park, Dundasvale Court, Glasgow",G4,Glasgow City,2
+55.8681,-4.25852,51567,2,50.0,CHAdeMO,0.7,,"Dundasvale Multi-Storey Car Park, Dundasvale Court, Glasgow",G4,Glasgow City,2
+55.8681,-4.25852,51567,3,22.0,Type 2,0.7,,"Dundasvale Multi-Storey Car Park, Dundasvale Court, Glasgow",G4,Glasgow City,2
+55.8681,-4.25852,52186,1,22.0,Type 2,0.4,,"Dundasvale Multi-Storey Car Park, Dundasvale Court, Glasgow",G4,Glasgow City,2
+55.8681,-4.25852,52186,2,22.0,Type 2,0.4,,"Dundasvale Multi-Storey Car Park, Dundasvale Court, Glasgow",G4,Glasgow City,2
+55.84686,-4.2097,50536,1,7.0,Type 2,0.4,1.0,"Sir Chris Hoy Velodrome, Bridgeton",G40,Glasgow City,2
+55.84686,-4.2097,50536,2,7.0,Type 2,0.4,1.0,"Sir Chris Hoy Velodrome, Bridgeton",G40,Glasgow City,2
+55.84616,-4.22113,52094,1,7.0,Type 2,0.4,,"Ruby Street, Glasgow",G40,Glasgow City,2
+55.84616,-4.22113,52094,2,7.0,Type 2,0.4,,"Ruby Street, Glasgow",G40,Glasgow City,2
+55.843087,-4.208513,50687,1,22.0,Type 2,0.4,,"Athletes Village, London Avenue, Glasgow ",G40,Glasgow City,2
+55.843087,-4.208513,50687,2,22.0,Type 2,0.4,,"Athletes Village, London Avenue, Glasgow ",G40,Glasgow City,2
+55.85204,-4.29414,52733,1,7.0,Type 2,0.4,,"Paisley Road West, Glasgow",G51,Glasgow City,2
+55.85204,-4.29414,52733,2,7.0,Type 2,0.4,,"Paisley Road West, Glasgow",G51,Glasgow City,2
+55.83502,-4.26635,53137,1,22.0,Type 2,0.4,,"Torrisdale Street, Glasgow",G42,Glasgow City,2
+55.83502,-4.26635,53137,2,22.0,Type 2,0.4,,"Torrisdale Street, Glasgow",G42,Glasgow City,2
+55.82845,-4.2835,52090,1,22.0,Type 2,0.4,,"Kilmarnock Road, Glasgow",G41,Glasgow City,2
+55.82845,-4.2835,52090,2,22.0,Type 2,0.4,,"Kilmarnock Road, Glasgow",G41,Glasgow City,2
+55.82845,-4.2835,52089,1,22.0,Type 2,0.4,,"Kilmarnock Road, Glasgow",G41,Glasgow City,2
+55.82845,-4.2835,52089,2,22.0,Type 2,0.4,,"Kilmarnock Road, Glasgow",G41,Glasgow City,2
+55.834625,-4.269339,52730,1,7.0,Type 2,0.4,,Albert Avenue,G42,Glasgow City,2
+55.834625,-4.269339,52730,2,7.0,Type 2,0.4,,Albert Avenue,G42,Glasgow City,2
+55.86581,-4.26155,52919,1,22.0,Type 2,0.4,,"Rose Street, Glasgow",G3,Glasgow City,2
+55.86581,-4.26155,52919,2,22.0,Type 2,0.4,,"Rose Street, Glasgow",G3,Glasgow City,2
+55.84643,-4.15334,52091,1,7.0,Type 2,0.4,0.5,"Balbeggie Street, Glasgow",G32,Glasgow City,2
+55.84643,-4.15334,52091,2,7.0,Type 2,0.4,0.5,"Balbeggie Street, Glasgow",G32,Glasgow City,2
+55.88192,-4.34032,50535,1,7.0,Type 2,0.4,,"Scotstoun Leisure Centre, Glasgow",G14,Glasgow City,2
+55.88192,-4.34032,50535,2,7.0,Type 2,0.4,,"Scotstoun Leisure Centre, Glasgow",G14,Glasgow City,2
+55.8816286,-4.3415843,60263,1,7.0,Type 2,0.4,,Scotstoun Stadium,G14,Glasgow City,2
+55.8816286,-4.3415843,60263,2,7.0,Type 2,0.4,,Scotstoun Stadium,G14,Glasgow City,2
+55.8816286,-4.3415843,60264,1,7.0,Type 2,0.4,,Scotstoun Stadium,G14,Glasgow City,2
+55.8816286,-4.3415843,60264,2,7.0,Type 2,0.4,,Scotstoun Stadium,G14,Glasgow City,2
+55.8816286,-4.3415843,60265,1,22.0,Type 2,0.4,,Scotstoun Stadium,G14,Glasgow City,2
+55.8816286,-4.3415843,60265,2,22.0,Type 2,0.4,,Scotstoun Stadium,G14,Glasgow City,2
+55.8816286,-4.3415843,60266,1,22.0,Type 2,0.4,,Scotstoun Stadium,G14,Glasgow City,2
+55.8816286,-4.3415843,60266,2,22.0,Type 2,0.4,,Scotstoun Stadium,G14,Glasgow City,2
+55.84614,-4.32322,50537,1,22.0,Type 2,0.4,,"Bellahouston Park, Glasgow",G52,Glasgow City,2
+55.84614,-4.32322,50537,2,22.0,Type 2,0.4,,"Bellahouston Park, Glasgow",G52,Glasgow City,2
+55.87665,-4.30619,52087,1,22.0,Type 2,0.4,,"Hyndland Road, Glasgow",G12,Glasgow City,2
+55.87665,-4.30619,52087,2,22.0,Type 2,0.4,,"Hyndland Road, Glasgow",G12,Glasgow City,2
+55.87665,-4.30619,52088,1,22.0,Type 2,0.4,,"Hyndland Road, Glasgow",G12,Glasgow City,2
+55.87665,-4.30619,52088,2,22.0,Type 2,0.4,,"Hyndland Road, Glasgow",G12,Glasgow City,2
+55.87787,-4.3127,51682,1,22.0,Type 2,0.4,,"Dudley Drive, Glasgow",G12,Glasgow City,2
+55.87787,-4.3127,51682,2,22.0,Type 2,0.4,,"Dudley Drive, Glasgow",G12,Glasgow City,2
+55.883221,-4.29057,60998,1,22.0,Type 2,0.4,1.0,Kirklee Road,G12,Glasgow City,2
+55.883221,-4.29057,60998,2,22.0,Type 2,0.4,1.0,Kirklee Road,G12,Glasgow City,2
+55.89479,-4.35175,52085,1,22.0,Type 2,0.4,1.0,"Glasgow BMX Centre, Archerhill Road, Glasgow",G13,Glasgow City,2
+55.89479,-4.35175,52085,2,22.0,Type 2,0.4,1.0,"Glasgow BMX Centre, Archerhill Road, Glasgow",G13,Glasgow City,2
+55.89479,-4.35175,52086,1,22.0,Type 2,0.4,,"Glasgow BMX Centre, Archerhill Road, Glasgow",G13,Glasgow City,2
+55.89479,-4.35175,52086,2,22.0,Type 2,0.4,,"Glasgow BMX Centre, Archerhill Road, Glasgow",G13,Glasgow City,2
+55.89479,-4.35175,52084,1,22.0,Type 2,0.4,1.0,"Glasgow BMX Centre, Archerhill Road, Glasgow",G13,Glasgow City,2
+55.89479,-4.35175,52084,2,22.0,Type 2,0.4,1.0,"Glasgow BMX Centre, Archerhill Road, Glasgow",G13,Glasgow City,2
+55.889425,-4.357201,60119,1,7.0,Type 2,0.4,,Knightswood Library,G13,Glasgow City,2
+55.889425,-4.357201,60119,2,7.0,Type 2,0.4,,Knightswood Library,G13,Glasgow City,2
+55.889425,-4.357201,60121,1,7.0,Type 2,0.4,,Knightswood Library,G13,Glasgow City,2
+55.889425,-4.357201,60121,2,7.0,Type 2,0.4,,Knightswood Library,G13,Glasgow City,2
+55.889425,-4.357201,60120,1,7.0,Type 2,0.4,,Knightswood Library,G13,Glasgow City,2
+55.889425,-4.357201,60120,2,7.0,Type 2,0.4,,Knightswood Library,G13,Glasgow City,2
+55.892481222143,-4.3505953740455,60242,1,22.0,Type 2,0.4,,Lincoln Avenue,G13,Glasgow City,2
+55.892481222143,-4.3505953740455,60242,2,22.0,Type 2,0.4,,Lincoln Avenue,G13,Glasgow City,2
+55.85291,-4.22161,52080,1,22.0,Type 2,0.4,,"Crownpoint Road Sports Centre, Glasgow",G40,Glasgow City,2
+55.85291,-4.22161,52080,2,22.0,Type 2,0.4,,"Crownpoint Road Sports Centre, Glasgow",G40,Glasgow City,2
+55.85291,-4.22161,52079,1,22.0,Type 2,0.4,,"Crownpoint Road Sports Centre, Glasgow",G40,Glasgow City,2
+55.85291,-4.22161,52079,2,22.0,Type 2,0.4,,"Crownpoint Road Sports Centre, Glasgow",G40,Glasgow City,2
+55.85291,-4.22161,52081,1,22.0,Type 2,0.4,,"Crownpoint Road Sports Centre, Glasgow",G40,Glasgow City,2
+55.85291,-4.22161,52081,2,22.0,Type 2,0.4,,"Crownpoint Road Sports Centre, Glasgow",G40,Glasgow City,2
+55.87162,-4.26857,51571,1,22.0,Type 2,0.4,,"Clarendon Place CP1, Glasgow",G20,Glasgow City,2
+55.87162,-4.26857,51571,2,22.0,Type 2,0.4,,"Clarendon Place CP1, Glasgow",G20,Glasgow City,2
+55.87547,-4.270006,61707,1,22.0,Type 2,0.4,1.0,Hopehill Road,G20,Glasgow City,2
+55.87547,-4.270006,61707,2,22.0,Type 2,0.4,1.0,Hopehill Road,G20,Glasgow City,2
+55.87547,-4.270006,61708,1,22.0,Type 2,0.4,1.0,Hopehill Road,G20,Glasgow City,2
+55.87547,-4.270006,61708,2,22.0,Type 2,0.4,1.0,Hopehill Road,G20,Glasgow City,2
+55.87861,-4.27073,51570,1,22.0,Type 2,0.4,,"Hinshaw Street, Glasgow",G20,Glasgow City,2
+55.87861,-4.27073,51570,2,22.0,Type 2,0.4,,"Hinshaw Street, Glasgow",G20,Glasgow City,2
+55.879644,-4.284755,60921,1,22.0,Type 2,0.4,,Queen Margaret Drive,G20,Glasgow City,2
+55.879644,-4.284755,60921,2,22.0,Type 2,0.4,,Queen Margaret Drive,G20,Glasgow City,2
+55.882079,-4.283182,70271,1,22.0,Type 2,0.4,1.0,Hotspur Street,G20,Glasgow City,2
+55.882079,-4.283182,70271,2,22.0,Type 2,0.4,1.0,Hotspur Street,G20,Glasgow City,2
+55.8969829,-4.3355921,60123,1,7.0,Type 2,0.4,,Netherton Community Centre,G13,Glasgow City,2
+55.8969829,-4.3355921,60123,2,7.0,Type 2,0.4,,Netherton Community Centre,G13,Glasgow City,2
+55.8969829,-4.3355921,60122,1,7.0,Type 2,0.4,,Netherton Community Centre,G13,Glasgow City,2
+55.8969829,-4.3355921,60122,2,7.0,Type 2,0.4,,Netherton Community Centre,G13,Glasgow City,2
+55.8969829,-4.3355921,60124,1,7.0,Type 2,0.4,,Netherton Community Centre,G13,Glasgow City,2
+55.8969829,-4.3355921,60124,2,7.0,Type 2,0.4,,Netherton Community Centre,G13,Glasgow City,2
+55.80543,-4.23021,60210,1,7.0,Type 2,0.4,,Castlemilk Pool,G45,Glasgow City,2
+55.80543,-4.23021,60210,2,7.0,Type 2,0.4,,Castlemilk Pool,G45,Glasgow City,2
+55.80543,-4.23021,60211,1,7.0,Type 2,0.4,,Castlemilk Pool,G45,Glasgow City,2
+55.80543,-4.23021,60211,2,7.0,Type 2,0.4,,Castlemilk Pool,G45,Glasgow City,2
+55.80543,-4.23021,60209,1,7.0,Type 2,0.4,,Castlemilk Pool,G45,Glasgow City,2
+55.80543,-4.23021,60209,2,7.0,Type 2,0.4,,Castlemilk Pool,G45,Glasgow City,2
+55.9083052,-4.3808153,60168,1,7.0,Type 2,0.4,,Drumchapel Pool,G15,Glasgow City,2
+55.9083052,-4.3808153,60168,2,7.0,Type 2,0.4,,Drumchapel Pool,G15,Glasgow City,2
+55.9083052,-4.3808153,60169,1,7.0,Type 2,0.4,,Drumchapel Pool,G15,Glasgow City,2
+55.9083052,-4.3808153,60169,2,7.0,Type 2,0.4,,Drumchapel Pool,G15,Glasgow City,2
+55.9111828,-4.3684122,60243,1,22.0,Type 2,0.4,,Linkwood Crescent,G15,Glasgow City,2
+55.9111828,-4.3684122,60243,2,22.0,Type 2,0.4,,Linkwood Crescent,G15,Glasgow City,2
+55.9017473,-4.2443692,60244,1,22.0,Type 2,0.4,,Scaraway,G22,Glasgow City,2
+55.9017473,-4.2443692,60244,2,22.0,Type 2,0.4,,Scaraway,G22,Glasgow City,2
+55.896603,-4.253332,60492,1,7.0,Type 2,0.4,,Milton Centre,G22,Glasgow City,2
+55.896603,-4.253332,60492,2,7.0,Type 2,0.4,,Milton Centre,G22,Glasgow City,2
+55.896603,-4.253332,60493,1,7.0,Type 2,0.4,,Milton Centre,G22,Glasgow City,2
+55.896603,-4.253332,60493,2,7.0,Type 2,0.4,,Milton Centre,G22,Glasgow City,2
+55.896603,-4.253332,60494,1,7.0,Type 2,0.4,,Milton Centre,G22,Glasgow City,2
+55.896603,-4.253332,60494,2,7.0,Type 2,0.4,,Milton Centre,G22,Glasgow City,2
+55.896603,-4.253332,60495,1,7.0,Type 2,0.4,,Milton Centre,G22,Glasgow City,2
+55.896603,-4.253332,60495,2,7.0,Type 2,0.4,,Milton Centre,G22,Glasgow City,2
+55.896603,-4.253332,60496,1,22.0,Type 2,0.4,,Milton Centre,G22,Glasgow City,2
+55.896603,-4.253332,60496,2,22.0,Type 2,0.4,,Milton Centre,G22,Glasgow City,2
+55.896603,-4.253332,60497,1,22.0,Type 2,0.4,,Milton Centre,G22,Glasgow City,2
+55.896603,-4.253332,60497,2,22.0,Type 2,0.4,,Milton Centre,G22,Glasgow City,2
+55.896603,-4.253332,60490,1,7.0,Type 2,0.4,,Milton Centre,G22,Glasgow City,2
+55.896603,-4.253332,60490,2,7.0,Type 2,0.4,,Milton Centre,G22,Glasgow City,2
+55.896603,-4.253332,60491,1,7.0,Type 2,0.4,,Milton Centre,G22,Glasgow City,2
+55.896603,-4.253332,60491,2,7.0,Type 2,0.4,,Milton Centre,G22,Glasgow City,2
+55.8710174,-4.2227432,61619,1,7.0,Type 2,0.4,1.0,Brodick Street,G21,Glasgow City,2
+55.8710174,-4.2227432,61619,2,7.0,Type 2,0.4,1.0,Brodick Street,G21,Glasgow City,2
+55.8710174,-4.2227432,60791,1,7.0,Type 2,0.4,,Brodick Street,G21,Glasgow City,2
+55.8710174,-4.2227432,60791,2,7.0,Type 2,0.4,,Brodick Street,G21,Glasgow City,2
+55.871,-4.228,62203,1,7.0,Type 2,0.6,0.0,Rosemount Business Park,G21,Glasgow City,2
+55.871,-4.228,62203,2,7.0,Type 2,0.6,0.0,Rosemount Business Park,G21,Glasgow City,2
+55.871,-4.228,62201,1,7.0,Type 2,0.6,0.0,Rosemount Business Park,G21,Glasgow City,2
+55.871,-4.228,62201,2,7.0,Type 2,0.6,0.0,Rosemount Business Park,G21,Glasgow City,2
+55.871,-4.228,62202,1,7.0,Type 2,0.6,0.0,Rosemount Business Park,G21,Glasgow City,2
+55.871,-4.228,62202,2,7.0,Type 2,0.6,0.0,Rosemount Business Park,G21,Glasgow City,2
+55.8705551,-4.2334264,62258,1,22.0,Type 2,0.4,0.0,Charles Street,G21,Glasgow City,2
+55.8705551,-4.2334264,62258,2,22.0,Type 2,0.4,0.0,Charles Street,G21,Glasgow City,2
+55.8705551,-4.2334264,62261,1,7.0,Type 2,0.4,0.0,Charles Street,G21,Glasgow City,2
+55.8705551,-4.2334264,62261,2,7.0,Type 2,0.4,0.0,Charles Street,G21,Glasgow City,2
+55.8705551,-4.2334264,62266,1,7.0,Type 2,0.4,0.0,Charles Street,G21,Glasgow City,2
+55.8705551,-4.2334264,62266,2,7.0,Type 2,0.4,0.0,Charles Street,G21,Glasgow City,2
+55.86915,-4.231056,61748,1,7.0,Type 2,0.4,1.0,Glenbarr Street,G21,Glasgow City,2
+55.86915,-4.231056,61748,2,7.0,Type 2,0.4,1.0,Glenbarr Street,G21,Glasgow City,2
+55.86915,-4.231056,61749,1,7.0,Type 2,0.4,1.0,Glenbarr Street,G21,Glasgow City,2
+55.86915,-4.231056,61749,2,7.0,Type 2,0.4,1.0,Glenbarr Street,G21,Glasgow City,2
+55.85753888569,-4.1333648024739,60077,1,7.0,Type 2,0.4,,Barlanark Community Centre,G33,Glasgow City,2
+55.85753888569,-4.1333648024739,60077,2,7.0,Type 2,0.4,,Barlanark Community Centre,G33,Glasgow City,2
+55.85753888569,-4.1333648024739,60075,1,7.0,Type 2,0.4,,Barlanark Community Centre,G33,Glasgow City,2
+55.85753888569,-4.1333648024739,60075,2,7.0,Type 2,0.4,,Barlanark Community Centre,G33,Glasgow City,2
+55.85753888569,-4.1333648024739,60076,1,7.0,Type 2,0.4,,Barlanark Community Centre,G33,Glasgow City,2
+55.85753888569,-4.1333648024739,60076,2,7.0,Type 2,0.4,,Barlanark Community Centre,G33,Glasgow City,2
+55.859172,-4.1097048,60868,1,7.0,Type 2,0.43,0.0,Easterhouse Railway Station,G69,Glasgow City,2
+55.859172,-4.1097048,60868,2,7.0,Type 2,0.43,0.0,Easterhouse Railway Station,G69,Glasgow City,2
+55.859034,-4.22174,60922,1,7.0,Type 2,0.4,,Craigpark,G31,Glasgow City,2
+55.859034,-4.22174,60922,2,7.0,Type 2,0.4,,Craigpark,G31,Glasgow City,2
+55.862323,-4.210806,61988,1,7.0,Type 2,0.4,0.0,"Alexandra Park Street, Glasgow",G31,Glasgow City,2
+55.862323,-4.210806,61988,2,7.0,Type 2,0.4,0.0,"Alexandra Park Street, Glasgow",G31,Glasgow City,2
+55.862323,-4.210806,60920,1,7.0,Type 2,0.4,1.0,"Alexandra Park Street, Glasgow",G31,Glasgow City,2
+55.862323,-4.210806,60920,2,7.0,Type 2,0.4,1.0,"Alexandra Park Street, Glasgow",G31,Glasgow City,2
+55.856887,-4.218546,61744,1,7.0,Type 2,0.4,1.0,Reidvale Street,G31,Glasgow City,2
+55.856887,-4.218546,61744,2,7.0,Type 2,0.4,1.0,Reidvale Street,G31,Glasgow City,2
+55.856887,-4.218546,61743,1,7.0,Type 2,0.4,1.0,Reidvale Street,G31,Glasgow City,2
+55.856887,-4.218546,61743,2,7.0,Type 2,0.4,1.0,Reidvale Street,G31,Glasgow City,2
+55.856515,-4.1770577,61685,1,7.0,Type 2,0.4,0.0,Greenfield Football Centre,G32,Glasgow City,2
+55.856515,-4.1770577,61685,2,7.0,Type 2,0.4,0.0,Greenfield Football Centre,G32,Glasgow City,2
+55.856515,-4.1770577,61686,1,7.0,Type 2,0.4,0.0,Greenfield Football Centre,G32,Glasgow City,2
+55.856515,-4.1770577,61686,2,7.0,Type 2,0.4,0.0,Greenfield Football Centre,G32,Glasgow City,2
+55.856515,-4.1770577,61687,1,7.0,Type 2,0.4,1.0,Greenfield Football Centre,G32,Glasgow City,2
+55.856515,-4.1770577,61687,2,7.0,Type 2,0.4,1.0,Greenfield Football Centre,G32,Glasgow City,2
+55.8677124,-4.1668104,62251,1,22.0,Type 2,0.4,0.0,Cranhill,G33,Glasgow City,2
+55.8677124,-4.1668104,62251,2,22.0,Type 2,0.4,0.0,Cranhill,G33,Glasgow City,2
+55.8677124,-4.1668104,62256,1,7.0,Type 2,0.4,0.0,Cranhill,G33,Glasgow City,2
+55.8677124,-4.1668104,62256,2,7.0,Type 2,0.4,0.0,Cranhill,G33,Glasgow City,2
+55.8677124,-4.1668104,62257,1,7.0,Type 2,0.4,0.0,Cranhill,G33,Glasgow City,2
+55.8677124,-4.1668104,62257,2,7.0,Type 2,0.4,0.0,Cranhill,G33,Glasgow City,2
+55.8297362,-4.3076468,70503,1,22.0,Type 2,0.4,1.0,Pollok Country Park,G43,Glasgow City,2
+55.8297362,-4.3076468,70503,2,22.0,Type 2,0.4,1.0,Pollok Country Park,G43,Glasgow City,2
+55.8297362,-4.3076468,70506,1,7.0,Type 2,0.4,1.0,Pollok Country Park,G43,Glasgow City,2
+55.8297362,-4.3076468,70506,2,7.0,Type 2,0.4,1.0,Pollok Country Park,G43,Glasgow City,2
+55.8297362,-4.3076468,70512,1,22.0,Type 2,0.4,1.0,Pollok Country Park,G43,Glasgow City,2
+55.8297362,-4.3076468,70512,2,22.0,Type 2,0.4,1.0,Pollok Country Park,G43,Glasgow City,2
+55.8297362,-4.3076468,70507,1,7.0,Type 2,0.4,1.0,Pollok Country Park,G43,Glasgow City,2
+55.8297362,-4.3076468,70507,2,7.0,Type 2,0.4,1.0,Pollok Country Park,G43,Glasgow City,2
+55.8297362,-4.3076468,70496,1,22.0,Type 2,0.4,1.0,Pollok Country Park,G43,Glasgow City,2
+55.8297362,-4.3076468,70496,2,22.0,Type 2,0.4,1.0,Pollok Country Park,G43,Glasgow City,2
+55.8297362,-4.3076468,70508,1,7.0,Type 2,0.4,1.0,Pollok Country Park,G43,Glasgow City,2
+55.8297362,-4.3076468,70508,2,7.0,Type 2,0.4,1.0,Pollok Country Park,G43,Glasgow City,2
+55.8297362,-4.3076468,70499,1,7.0,Type 2,0.4,1.0,Pollok Country Park,G43,Glasgow City,2
+55.8297362,-4.3076468,70499,2,7.0,Type 2,0.4,1.0,Pollok Country Park,G43,Glasgow City,2
+55.8297362,-4.3076468,70497,1,7.0,Type 2,0.4,1.0,Pollok Country Park,G43,Glasgow City,2
+55.8297362,-4.3076468,70497,2,7.0,Type 2,0.4,1.0,Pollok Country Park,G43,Glasgow City,2
+55.8297362,-4.3076468,70509,1,7.0,Type 2,0.4,1.0,Pollok Country Park,G43,Glasgow City,2
+55.8297362,-4.3076468,70509,2,7.0,Type 2,0.4,1.0,Pollok Country Park,G43,Glasgow City,2
+55.8297362,-4.3076468,70498,1,7.0,Type 2,0.4,1.0,Pollok Country Park,G43,Glasgow City,2
+55.8297362,-4.3076468,70498,2,7.0,Type 2,0.4,1.0,Pollok Country Park,G43,Glasgow City,2
+55.8297362,-4.3076468,70510,1,7.0,Type 2,0.4,1.0,Pollok Country Park,G43,Glasgow City,2
+55.8297362,-4.3076468,70510,2,7.0,Type 2,0.4,1.0,Pollok Country Park,G43,Glasgow City,2
+55.8297362,-4.3076468,70500,1,7.0,Type 2,0.4,1.0,Pollok Country Park,G43,Glasgow City,2
+55.8297362,-4.3076468,70500,2,7.0,Type 2,0.4,1.0,Pollok Country Park,G43,Glasgow City,2
+55.8297362,-4.3076468,70513,1,22.0,Type 2,0.4,1.0,Pollok Country Park,G43,Glasgow City,2
+55.8297362,-4.3076468,70513,2,22.0,Type 2,0.4,1.0,Pollok Country Park,G43,Glasgow City,2
+55.8297362,-4.3076468,70511,1,7.0,Type 2,0.4,1.0,Pollok Country Park,G43,Glasgow City,2
+55.8297362,-4.3076468,70511,2,7.0,Type 2,0.4,1.0,Pollok Country Park,G43,Glasgow City,2
+55.8297362,-4.3076468,70501,1,7.0,Type 2,0.4,1.0,Pollok Country Park,G43,Glasgow City,2
+55.8297362,-4.3076468,70501,2,7.0,Type 2,0.4,1.0,Pollok Country Park,G43,Glasgow City,2
+55.8297362,-4.3076468,70504,1,22.0,Type 2,0.4,1.0,Pollok Country Park,G43,Glasgow City,2
+55.8297362,-4.3076468,70504,2,22.0,Type 2,0.4,1.0,Pollok Country Park,G43,Glasgow City,2
+55.8297362,-4.3076468,70502,1,7.0,Type 2,0.4,1.0,Pollok Country Park,G43,Glasgow City,2
+55.8297362,-4.3076468,70502,2,7.0,Type 2,0.4,1.0,Pollok Country Park,G43,Glasgow City,2
+55.8297362,-4.3076468,70505,1,7.0,Type 2,0.4,1.0,Pollok Country Park,G43,Glasgow City,2
+55.8297362,-4.3076468,70505,2,7.0,Type 2,0.4,1.0,Pollok Country Park,G43,Glasgow City,2
+55.828286,-4.319875,61666,1,7.0,Type 2,0.4,1.0,Pollok Country Park Riverside Carpark,G43,Glasgow City,2
+55.828286,-4.319875,61666,2,7.0,Type 2,0.4,1.0,Pollok Country Park Riverside Carpark,G43,Glasgow City,2
+55.828286,-4.319875,61664,1,7.0,Type 2,0.4,1.0,Pollok Country Park Riverside Carpark,G43,Glasgow City,2
+55.828286,-4.319875,61664,2,7.0,Type 2,0.4,1.0,Pollok Country Park Riverside Carpark,G43,Glasgow City,2
+55.828286,-4.319875,61665,1,7.0,Type 2,0.4,1.0,Pollok Country Park Riverside Carpark,G43,Glasgow City,2
+55.828286,-4.319875,61665,2,7.0,Type 2,0.4,1.0,Pollok Country Park Riverside Carpark,G43,Glasgow City,2

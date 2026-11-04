@@ -1,0 +1,116 @@
+{
+  "data_groups": [
+    "edinburgh_2023_01",
+    "edinburgh_2023_07",
+    "glasgow_2023_01",
+    "glasgow_2023_07"
+  ],
+  "input_sha256": {
+    "edinburgh_2023_01/sessions.csv": "16a415220dce09e078c5078551c47baacfb7144f0799cb5b468aa3c461b75f87",
+    "edinburgh_2023_01/signals.csv": "582c94ba8dbbce5dc026499bbcd839d6cc813e2815edeec97c8f8967ae697ea4",
+    "edinburgh_2023_07/sessions.csv": "68ab49f03becec19670b7471f44e290852055617712d44c0791875b040e512ac",
+    "edinburgh_2023_07/signals.csv": "b3783cac1431e20a1576753106b406810019d3e97a51eb459fdb4d30e2d77d57",
+    "glasgow_2023_01/sessions.csv": "a60f576e175e4c2c2eb0158cc8f2c34d012be61bb7d2838acac2eba0aab91f13",
+    "glasgow_2023_01/signals.csv": "3b4ff89f6ab28e0a6333ec54cb91b161aa87053b4e22b13e6efa3056700efc26",
+    "glasgow_2023_07/sessions.csv": "d8ee1ca566999248ca61c3c719eb4c9147d56798d9b8d9f0bd23d8eed0c1dcbf",
+    "glasgow_2023_07/signals.csv": "0e7dbd3344e45ed1f17e31265f6548731313419ea68ebe5640858937abe19f8e"
+  },
+  "sites": {
+    "edinburgh": {
+      "eligible_sites": 11,
+      "selected_sites": [
+        "edinburgh_8e938922e75b",
+        "edinburgh_e9d9225d5547",
+        "edinburgh_ab596f64afe9",
+        "edinburgh_7196c2e70852",
+        "edinburgh_f79051b5a7f3",
+        "edinburgh_a99356402203"
+      ]
+    },
+    "glasgow": {
+      "eligible_sites": 47,
+      "selected_sites": [
+        "glasgow_11e418b5ea17",
+        "glasgow_7be77e0a6947",
+        "glasgow_e86fc38853a7",
+        "glasgow_e8f42e28639f",
+        "glasgow_e06be64bb4fe",
+        "glasgow_9ac900651b98"
+      ]
+    }
+  },
+  "preparation": [
+    {
+      "group": "edinburgh_2023_01",
+      "prepared_sessions": 2497,
+      "eligible_ac_sessions": 1797,
+      "invalid": 0,
+      "model_exclusions": {
+        "not_AC_power_proxy_rated_above_22kW": 700
+      },
+      "complete_utc_week_sessions": 1535
+    },
+    {
+      "group": "edinburgh_2023_07",
+      "prepared_sessions": 3796,
+      "eligible_ac_sessions": 2584,
+      "invalid": 0,
+      "model_exclusions": {
+        "not_AC_power_proxy_rated_above_22kW": 1212
+      },
+      "complete_utc_week_sessions": 2397
+    },
+    {
+      "group": "glasgow_2023_01",
+      "prepared_sessions": 12962,
+      "eligible_ac_sessions": 7769,
+      "invalid": 0,
+      "model_exclusions": {
+        "not_AC_power_proxy_rated_above_22kW": 5193
+      },
+      "complete_utc_week_sessions": 6642
+    },
+    {
+      "group": "glasgow_2023_07",
+      "prepared_sessions": 5556,
+      "eligible_ac_sessions": 4471,
+      "invalid": 0,
+      "model_exclusions": {
+        "not_AC_power_proxy_rated_above_22kW": 1085
+      },
+      "complete_utc_week_sessions": 4118
+    }
+  ],
+  "max_sites_per_city": 6,
+  "minimum_complete_sessions_per_week": 5,
+  "minimum_weeks_per_season": 3,
+  "power_cap_kw": 22,
+  "weekly_blocks": "complete Monday-Sunday UTC weeks",
+  "n_case_weeks": 82,
+  "n_sessions": 3506,
+  "n_physical_site_proxies": 12,
+  "alphas": [
+    0,
+    0.25,
+    0.5,
+    1
+  ],
+  "pv_scales_kwp_per_mean_daily_ev_kwh": [
+    0,
+    0.05,
+    0.1,
+    0.2,
+    0.4
+  ],
+  "budget": "same case-level grid-only ASAP electricity cost, unchanged across the entire factorial grid",
+  "battery_kwh_per_mean_daily_ev_kwh": 0.5,
+  "battery_kw_per_mean_daily_ev_kwh": 0.25,
+  "battery_roundtrip_efficiency": 0.9,
+  "battery_wear_gbp_per_kwh_throughput": 0.01,
+  "min_relevant_relative_percent": 5,
+  "min_relevant_g_per_delivered_kwh": 5,
+  "time_limit_s_per_solve": 15,
+  "mip_rel_gap": 0.0001,
+  "completed": true,
+  "n_solutions": 3280
+}

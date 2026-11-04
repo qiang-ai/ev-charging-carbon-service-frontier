@@ -1,0 +1,15 @@
+{
+  "training_year": 2023,
+  "evaluation_year": 2024,
+  "decision_interval_slots": 4,
+  "horizon_slots": 48,
+  "early_checkpoint_min": 30,
+  "pv_scale": 0.2,
+  "battery_fractions": [0.0, 0.5],
+  "policies": ["immediate", "tariff", "carbon"],
+  "forecast": "2023 medians by city, calendar month, UTC half-hour and weekday/weekend; no online historical actuals are fed to forecast",
+  "arrivals": "Known to planner only at or after recorded start; declared energy and window equal the recorded quantities in the replay. Arrivals between decisions use immediate charging until next decision.",
+  "service": "Preserve immediate-charging readiness at the early checkpoint and deliver recorded energy by proxy end for every session.",
+  "cost_control": "Forecast carbon controller cap equals cost of the feasible carry-forward plan plus new active sessions charged immediately. Realized cost is evaluated separately against a common historical ASAP grid-only ceiling.",
+  "terminal_storage": "Every plan returns to 50 percent state of charge by its horizon end. The common study-week end truncates the horizon."
+}

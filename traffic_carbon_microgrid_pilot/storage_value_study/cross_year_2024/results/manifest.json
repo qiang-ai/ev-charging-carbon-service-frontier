@@ -1,0 +1,50 @@
+{
+  "study": "frozen 2023 design, 2024 holdout",
+  "year": 2024,
+  "protocol_sha256": "2bba0b3ab9a4497dd96705f06db82cfa4d9b4ae0aa7f9eb7b8943e46b092b868",
+  "input_sha256": {
+    "edinburgh_2024_01/sessions.csv": "24cc67b27f56bc8312193915136e1c4a23c919876c53887d1f57ec83a97d57cb",
+    "edinburgh_2024_01/signals.csv": "4429673435932f9b63006028b5db26098e41412438bda48c04933f2b5cae200d",
+    "edinburgh_2024_07/sessions.csv": "14dc032fea28faf644aa8a6bc3984f9b8e7d77daf601d8e12f7e65a857248d5f",
+    "edinburgh_2024_07/signals.csv": "0317541e52d9b29596db5453b8a879c45c8146164ada10c6236411c88151ab66",
+    "glasgow_2024_01/sessions.csv": "bf8b5c52093816375ee06f5578fdbb9412d6b57f544d47dc6ed43c0b68b1d3c6",
+    "glasgow_2024_01/signals.csv": "29aeb6bd1b189d1cc4ed5f43cf132925798f0ef5b6af3e9779f171e217bcaa57",
+    "glasgow_2024_07/sessions.csv": "b69d355a71ab7001341e5e36c704fb04ec253afe5f06bc5a11f496287312ba2e",
+    "glasgow_2024_07/signals.csv": "f203ede69f868efa79eb4ec32e59000680148b02a2672b32b0580fd1b0c58484"
+  },
+  "preparation": [
+    {
+      "group": "edinburgh_2024_01",
+      "prepared_sessions": 2868,
+      "eligible_frozen_sessions": 1307,
+      "invalid": 0,
+      "excluded_by_model": 1561
+    },
+    {
+      "group": "edinburgh_2024_07",
+      "prepared_sessions": 2240,
+      "eligible_frozen_sessions": 1304,
+      "invalid": 0,
+      "excluded_by_model": 936
+    },
+    {
+      "group": "glasgow_2024_01",
+      "prepared_sessions": 6320,
+      "eligible_frozen_sessions": 411,
+      "invalid": 0,
+      "excluded_by_model": 5909
+    },
+    {
+      "group": "glasgow_2024_07",
+      "prepared_sessions": 4807,
+      "eligible_frozen_sessions": 321,
+      "invalid": 0,
+      "excluded_by_model": 4486
+    }
+  ],
+  "n_case_weeks": 81,
+  "n_sessions": 2956,
+  "n_coverage_cells": 96,
+  "completed": true,
+  "n_solutions": 1458
+}

@@ -1,0 +1,25 @@
+{
+  "errors": {},
+  "files": {
+    "era5_gti_edinburgh_2023_01.json": {
+      "bytes": 18307,
+      "sha256": "58ebcc0fd73cd4a676017caecec145688d9cd27ef871a5fa097da68d26ccb94f",
+      "url": "https://archive-api.open-meteo.com/v1/archive?latitude=55.9533&longitude=-3.1883&start_date=2023-01-01&end_date=2023-02-01&hourly=global_tilted_irradiance&tilt=35&azimuth=0&timezone=GMT&models=era5"
+    },
+    "era5_gti_edinburgh_2023_07.json": {
+      "bytes": 18785,
+      "sha256": "f68cc2e4ca6f16381e6c976dbf31d2cc984d9dad3e83cdd8445ec07b38f16564",
+      "url": "https://archive-api.open-meteo.com/v1/archive?latitude=55.9533&longitude=-3.1883&start_date=2023-07-01&end_date=2023-08-01&hourly=global_tilted_irradiance&tilt=35&azimuth=0&timezone=GMT&models=era5"
+    },
+    "era5_gti_glasgow_2023_01.json": {
+      "bytes": 18294,
+      "sha256": "e1129a47f8f422fd94439162b386fa18e4c306afd8d4965c71a3a78932576db9",
+      "url": "https://archive-api.open-meteo.com/v1/archive?latitude=55.8642&longitude=-4.2518&start_date=2023-01-01&end_date=2023-02-01&hourly=global_tilted_irradiance&tilt=35&azimuth=0&timezone=GMT&models=era5"
+    },
+    "era5_gti_glasgow_2023_07.json": {
+      "bytes": 18772,
+      "sha256": "651f7eaba6af2d233a1adb537ede8fe8965cc9372d21a6c602658555c47ff4dd",
+      "url": "https://archive-api.open-meteo.com/v1/archive?latitude=55.8642&longitude=-4.2518&start_date=2023-07-01&end_date=2023-08-01&hourly=global_tilted_irradiance&tilt=35&azimuth=0&timezone=GMT&models=era5"
+    }
+  }
+}

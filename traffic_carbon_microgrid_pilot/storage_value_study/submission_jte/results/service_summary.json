@@ -1,0 +1,3417 @@
+{
+  "matched_site_weeks_per_year": 70,
+  "all_site_weeks": {
+    "2023": 82,
+    "2024": 81
+  },
+  "outcomes": 11247,
+  "status_counts": {
+    "infeasible": 39,
+    "optimal": 11208
+  },
+  "summaries": {
+    "2023|main|15|0.0|0.125": {
+      "site_weeks": 70,
+      "sessions": 3368,
+      "energy_kwh": 65681.86,
+      "physical_shortfall_pct": 0.7998217129931732,
+      "shortfall_no_battery_pct": 4.0077104871668464e-16,
+      "shortfall_battery_pct": 9.591693567743745e-09,
+      "readiness_gain_pp_pooled": -9.591693166972697e-09,
+      "readiness_gain_pp": {
+        "q25": -4.428639828712399e-08,
+        "median": -1.9929652729317287e-08,
+        "q75": -9.075539009264772e-09
+      },
+      "positive_readiness_cases": 0,
+      "readiness_gain_at_least_half_pp": 0,
+      "early_full_no_battery_pct": 85.12470308788599,
+      "early_full_battery_pct": 85.12470308788599,
+      "early_full_asap_pct": 85.12470308788599,
+      "readiness_floor_carbon_gain_g_per_kwh": {
+        "q25": 3.293176836482024,
+        "median": 4.207305141522175,
+        "q75": 5.253507950893396
+      },
+      "carbon_gain_above_dual_threshold": 10,
+      "target_reduction_pct": {
+        "q25": 2.3569004085052,
+        "median": 4.032495854220281,
+        "q75": 5.548099340763785
+      },
+      "full_potential_without_readiness_loss_no_battery": 1,
+      "full_potential_without_readiness_loss_battery": 69,
+      "median_compatible_potential_no_battery": {
+        "q25": 0.9003394050850885,
+        "median": 0.950282087034841,
+        "q75": 0.9666120345029874
+      }
+    },
+    "2023|main|15|0.0|0.5": {
+      "site_weeks": 70,
+      "sessions": 3368,
+      "energy_kwh": 65681.86,
+      "physical_shortfall_pct": 0.7998217129931732,
+      "shortfall_no_battery_pct": 4.0077104871668464e-16,
+      "shortfall_battery_pct": 9.591693521640708e-09,
+      "readiness_gain_pp_pooled": -9.59169312086966e-09,
+      "readiness_gain_pp": {
+        "q25": -4.258949761167903e-08,
+        "median": -2.055422595379447e-08,
+        "q75": -9.075539400008747e-09
+      },
+      "positive_readiness_cases": 0,
+      "readiness_gain_at_least_half_pp": 0,
+      "early_full_no_battery_pct": 85.12470308788599,
+      "early_full_battery_pct": 85.12470308788599,
+      "early_full_asap_pct": 85.12470308788599,
+      "readiness_floor_carbon_gain_g_per_kwh": {
+        "q25": 10.938123967289034,
+        "median": 14.393306980790097,
+        "q75": 17.142568460857166
+      },
+      "carbon_gain_above_dual_threshold": 68,
+      "target_reduction_pct": {
+        "q25": 2.3569004085052,
+        "median": 4.032495854220281,
+        "q75": 5.548099340763785
+      },
+      "full_potential_without_readiness_loss_no_battery": 1,
+      "full_potential_without_readiness_loss_battery": 70,
+      "median_compatible_potential_no_battery": {
+        "q25": 0.9003394050850885,
+        "median": 0.950282087034841,
+        "q75": 0.9666120345029874
+      }
+    },
+    "2023|main|15|0.2|0.125": {
+      "site_weeks": 70,
+      "sessions": 3368,
+      "energy_kwh": 65681.86,
+      "physical_shortfall_pct": 0.7998217129931732,
+      "shortfall_no_battery_pct": 1.04646712889287e-15,
+      "shortfall_battery_pct": 9.439446590268724e-09,
+      "readiness_gain_pp_pooled": -9.439445543801596e-09,
+      "readiness_gain_pp": {
+        "q25": -3.9335967020701513e-08,
+        "median": -1.9366714042496767e-08,
+        "q75": -8.566906148268827e-09
+      },
+      "positive_readiness_cases": 0,
+      "readiness_gain_at_least_half_pp": 0,
+      "early_full_no_battery_pct": 85.12470308788599,
+      "early_full_battery_pct": 85.12470308788599,
+      "early_full_asap_pct": 85.12470308788599,
+      "readiness_floor_carbon_gain_g_per_kwh": {
+        "q25": 6.564649475409301,
+        "median": 11.491769051972621,
+        "q75": 17.48558824465227
+      },
+      "carbon_gain_above_dual_threshold": 56,
+      "target_reduction_pct": {
+        "q25": 6.124392573387172,
+        "median": 10.406027037191452,
+        "q75": 16.45925270272065
+      },
+      "full_potential_without_readiness_loss_no_battery": 0,
+      "full_potential_without_readiness_loss_battery": 70,
+      "median_compatible_potential_no_battery": {
+        "q25": 0.919528934696126,
+        "median": 0.944729382700946,
+        "q75": 0.9637054456265052
+      }
+    },
+    "2023|main|15|0.2|0.5": {
+      "site_weeks": 70,
+      "sessions": 3368,
+      "energy_kwh": 65681.86,
+      "physical_shortfall_pct": 0.7998217129931732,
+      "shortfall_no_battery_pct": 1.04646712889287e-15,
+      "shortfall_battery_pct": 9.896194160348075e-09,
+      "readiness_gain_pp_pooled": -9.896193113880946e-09,
+      "readiness_gain_pp": {
+        "q25": -4.2041903770525496e-08,
+        "median": -2.055421248483619e-08,
+        "q75": -9.777803589476498e-09
+      },
+      "positive_readiness_cases": 0,
+      "readiness_gain_at_least_half_pp": 0,
+      "early_full_no_battery_pct": 85.12470308788599,
+      "early_full_battery_pct": 85.12470308788599,
+      "early_full_asap_pct": 85.12470308788599,
+      "readiness_floor_carbon_gain_g_per_kwh": {
+        "q25": 16.34931985337618,
+        "median": 26.526750470079683,
+        "q75": 40.18307520201306
+      },
+      "carbon_gain_above_dual_threshold": 70,
+      "target_reduction_pct": {
+        "q25": 6.124392573387172,
+        "median": 10.406027037191452,
+        "q75": 16.45925270272065
+      },
+      "full_potential_without_readiness_loss_no_battery": 0,
+      "full_potential_without_readiness_loss_battery": 70,
+      "median_compatible_potential_no_battery": {
+        "q25": 0.919528934696126,
+        "median": 0.944729382700946,
+        "q75": 0.9637054456265052
+      }
+    },
+    "2023|main|15|0.4|0.125": {
+      "site_weeks": 70,
+      "sessions": 3368,
+      "energy_kwh": 65681.86,
+      "physical_shortfall_pct": 0.7998217129931732,
+      "shortfall_no_battery_pct": 8.334888406672172e-16,
+      "shortfall_battery_pct": 9.896188917701578e-09,
+      "readiness_gain_pp_pooled": -9.896188084212737e-09,
+      "readiness_gain_pp": {
+        "q25": -4.428643693326132e-08,
+        "median": -2.104168206025792e-08,
+        "q75": -9.834052001227484e-09
+      },
+      "positive_readiness_cases": 0,
+      "readiness_gain_at_least_half_pp": 0,
+      "early_full_no_battery_pct": 85.12470308788599,
+      "early_full_battery_pct": 85.12470308788599,
+      "early_full_asap_pct": 85.12470308788599,
+      "readiness_floor_carbon_gain_g_per_kwh": {
+        "q25": 7.258855494605933,
+        "median": 11.477612226264736,
+        "q75": 15.691886444426672
+      },
+      "carbon_gain_above_dual_threshold": 63,
+      "target_reduction_pct": {
+        "q25": 9.264023630056883,
+        "median": 14.284365248606296,
+        "q75": 22.01942786488909
+      },
+      "full_potential_without_readiness_loss_no_battery": 0,
+      "full_potential_without_readiness_loss_battery": 70,
+      "median_compatible_potential_no_battery": {
+        "q25": 0.9148415682583617,
+        "median": 0.9443627776808201,
+        "q75": 0.9665827280794554
+      }
+    },
+    "2023|main|15|0.4|0.5": {
+      "site_weeks": 70,
+      "sessions": 3368,
+      "energy_kwh": 65681.86,
+      "physical_shortfall_pct": 0.7998217129931732,
+      "shortfall_no_battery_pct": 8.334888406672172e-16,
+      "shortfall_battery_pct": 1.0200685673780944e-08,
+      "readiness_gain_pp_pooled": -1.0200684840292104e-08,
+      "readiness_gain_pp": {
+        "q25": -4.428646637720352e-08,
+        "median": -2.177198130844769e-08,
+        "q75": -9.993785552131468e-09
+      },
+      "positive_readiness_cases": 0,
+      "readiness_gain_at_least_half_pp": 0,
+      "early_full_no_battery_pct": 85.12470308788599,
+      "early_full_battery_pct": 85.12470308788599,
+      "early_full_asap_pct": 85.12470308788599,
+      "readiness_floor_carbon_gain_g_per_kwh": {
+        "q25": 17.929611880133223,
+        "median": 26.284245533988702,
+        "q75": 41.15020372416868
+      },
+      "carbon_gain_above_dual_threshold": 70,
+      "target_reduction_pct": {
+        "q25": 9.264023630056883,
+        "median": 14.284365248606296,
+        "q75": 22.01942786488909
+      },
+      "full_potential_without_readiness_loss_no_battery": 0,
+      "full_potential_without_readiness_loss_battery": 70,
+      "median_compatible_potential_no_battery": {
+        "q25": 0.9148415682583617,
+        "median": 0.9443627776808201,
+        "q75": 0.9665827280794554
+      }
+    },
+    "2023|main|30|0.0|0.125": {
+      "site_weeks": 70,
+      "sessions": 3368,
+      "energy_kwh": 65681.86,
+      "physical_shortfall_pct": 2.4916650418310997,
+      "shortfall_no_battery_pct": 4.0161620065408806e-16,
+      "shortfall_battery_pct": 8.678195342611443e-09,
+      "readiness_gain_pp_pooled": -8.678194940995242e-09,
+      "readiness_gain_pp": {
+        "q25": -3.933595402478027e-08,
+        "median": -1.936672164630098e-08,
+        "q75": -6.14486246880426e-09
+      },
+      "positive_readiness_cases": 0,
+      "readiness_gain_at_least_half_pp": 0,
+      "early_full_no_battery_pct": 78.26603325415677,
+      "early_full_battery_pct": 78.26603325415677,
+      "early_full_asap_pct": 78.26603325415677,
+      "readiness_floor_carbon_gain_g_per_kwh": {
+        "q25": 3.3144437309126915,
+        "median": 4.250768515023422,
+        "q75": 5.281129369801776
+      },
+      "carbon_gain_above_dual_threshold": 9,
+      "target_reduction_pct": {
+        "q25": 2.3569004085052,
+        "median": 4.032495854220281,
+        "q75": 5.548099340763785
+      },
+      "full_potential_without_readiness_loss_no_battery": 0,
+      "full_potential_without_readiness_loss_battery": 69,
+      "median_compatible_potential_no_battery": {
+        "q25": 0.8236968107333533,
+        "median": 0.8996817815319291,
+        "q75": 0.9346918596992777
+      }
+    },
+    "2023|main|30|0.0|0.5": {
+      "site_weeks": 70,
+      "sessions": 3368,
+      "energy_kwh": 65681.86,
+      "physical_shortfall_pct": 2.4916650418310997,
+      "shortfall_no_battery_pct": 4.0161620065408806e-16,
+      "shortfall_battery_pct": 9.439434094760716e-09,
+      "readiness_gain_pp_pooled": -9.439433693144516e-09,
+      "readiness_gain_pp": {
+        "q25": -4.428640395402739e-08,
+        "median": -2.104170815529315e-08,
+        "q75": -8.56684038117198e-09
+      },
+      "positive_readiness_cases": 0,
+      "readiness_gain_at_least_half_pp": 0,
+      "early_full_no_battery_pct": 78.26603325415677,
+      "early_full_battery_pct": 78.26603325415677,
+      "early_full_asap_pct": 78.26603325415677,
+      "readiness_floor_carbon_gain_g_per_kwh": {
+        "q25": 11.174615216231246,
+        "median": 14.601787137556137,
+        "q75": 17.232270911966463
+      },
+      "carbon_gain_above_dual_threshold": 68,
+      "target_reduction_pct": {
+        "q25": 2.3569004085052,
+        "median": 4.032495854220281,
+        "q75": 5.548099340763785
+      },
+      "full_potential_without_readiness_loss_no_battery": 0,
+      "full_potential_without_readiness_loss_battery": 70,
+      "median_compatible_potential_no_battery": {
+        "q25": 0.8236968107333533,
+        "median": 0.8996817815319291,
+        "q75": 0.9346918596992777
+      }
+    },
+    "2023|main|30|0.2|0.125": {
+      "site_weeks": 70,
+      "sessions": 3368,
+      "energy_kwh": 65681.86,
+      "physical_shortfall_pct": 2.4916650418310997,
+      "shortfall_no_battery_pct": 1.1250662590713847e-15,
+      "shortfall_battery_pct": 9.591689783195629e-09,
+      "readiness_gain_pp_pooled": -9.591688658129369e-09,
+      "readiness_gain_pp": {
+        "q25": -4.4286425323863256e-08,
+        "median": -2.055420466109641e-08,
+        "q75": -9.075536974252913e-09
+      },
+      "positive_readiness_cases": 0,
+      "readiness_gain_at_least_half_pp": 0,
+      "early_full_no_battery_pct": 78.26603325415677,
+      "early_full_battery_pct": 78.26603325415677,
+      "early_full_asap_pct": 78.26603325415677,
+      "readiness_floor_carbon_gain_g_per_kwh": {
+        "q25": 6.8740665567250305,
+        "median": 12.10869280245891,
+        "q75": 17.98539178363017
+      },
+      "carbon_gain_above_dual_threshold": 59,
+      "target_reduction_pct": {
+        "q25": 6.124392573387172,
+        "median": 10.406027037191452,
+        "q75": 16.45925270272065
+      },
+      "full_potential_without_readiness_loss_no_battery": 0,
+      "full_potential_without_readiness_loss_battery": 70,
+      "median_compatible_potential_no_battery": {
+        "q25": 0.8400048240075068,
+        "median": 0.8859450615419401,
+        "q75": 0.9167264910954489
+      }
+    },
+    "2023|main|30|0.2|0.5": {
+      "site_weeks": 70,
+      "sessions": 3368,
+      "energy_kwh": 65681.86,
+      "physical_shortfall_pct": 2.4916650418310997,
+      "shortfall_no_battery_pct": 1.1250662590713847e-15,
+      "shortfall_battery_pct": 1.004844304514086e-08,
+      "readiness_gain_pp_pooled": -1.0048441920074602e-08,
+      "readiness_gain_pp": {
+        "q25": -4.338443651249304e-08,
+        "median": -2.1041697252602255e-08,
+        "q75": -9.834057419173506e-09
+      },
+      "positive_readiness_cases": 0,
+      "readiness_gain_at_least_half_pp": 0,
+      "early_full_no_battery_pct": 78.26603325415677,
+      "early_full_battery_pct": 78.26603325415677,
+      "early_full_asap_pct": 78.26603325415677,
+      "readiness_floor_carbon_gain_g_per_kwh": {
+        "q25": 17.220394961977384,
+        "median": 26.67392817878231,
+        "q75": 41.374286157189644
+      },
+      "carbon_gain_above_dual_threshold": 70,
+      "target_reduction_pct": {
+        "q25": 6.124392573387172,
+        "median": 10.406027037191452,
+        "q75": 16.45925270272065
+      },
+      "full_potential_without_readiness_loss_no_battery": 0,
+      "full_potential_without_readiness_loss_battery": 70,
+      "median_compatible_potential_no_battery": {
+        "q25": 0.8400048240075068,
+        "median": 0.8859450615419401,
+        "q75": 0.9167264910954489
+      }
+    },
+    "2023|main|30|0.4|0.125": {
+      "site_weeks": 70,
+      "sessions": 3368,
+      "energy_kwh": 65681.86,
+      "physical_shortfall_pct": 2.4916650418310997,
+      "shortfall_no_battery_pct": 9.222297940945725e-16,
+      "shortfall_battery_pct": 9.591690452217902e-09,
+      "readiness_gain_pp_pooled": -9.591689529988107e-09,
+      "readiness_gain_pp": {
+        "q25": -4.258954275992211e-08,
+        "median": -2.055423404477309e-08,
+        "q75": -9.777782233010457e-09
+      },
+      "positive_readiness_cases": 0,
+      "readiness_gain_at_least_half_pp": 0,
+      "early_full_no_battery_pct": 78.26603325415677,
+      "early_full_battery_pct": 78.26603325415677,
+      "early_full_asap_pct": 78.26603325415677,
+      "readiness_floor_carbon_gain_g_per_kwh": {
+        "q25": 7.371279824755421,
+        "median": 12.30958043251534,
+        "q75": 15.917719814240508
+      },
+      "carbon_gain_above_dual_threshold": 65,
+      "target_reduction_pct": {
+        "q25": 9.264023630056883,
+        "median": 14.284365248606296,
+        "q75": 22.01942786488909
+      },
+      "full_potential_without_readiness_loss_no_battery": 0,
+      "full_potential_without_readiness_loss_battery": 70,
+      "median_compatible_potential_no_battery": {
+        "q25": 0.8355398528349084,
+        "median": 0.8801048786482537,
+        "q75": 0.9194493423751546
+      }
+    },
+    "2023|main|30|0.4|0.5": {
+      "site_weeks": 70,
+      "sessions": 3368,
+      "energy_kwh": 65681.86,
+      "physical_shortfall_pct": 2.4916650418310997,
+      "shortfall_no_battery_pct": 9.222297940945725e-16,
+      "shortfall_battery_pct": 1.0200689393632681e-08,
+      "readiness_gain_pp_pooled": -1.0200688471402887e-08,
+      "readiness_gain_pp": {
+        "q25": -4.428645107921674e-08,
+        "median": -2.1771958608777714e-08,
+        "q75": -9.993814527429116e-09
+      },
+      "positive_readiness_cases": 0,
+      "readiness_gain_at_least_half_pp": 0,
+      "early_full_no_battery_pct": 78.26603325415677,
+      "early_full_battery_pct": 78.26603325415677,
+      "early_full_asap_pct": 78.26603325415677,
+      "readiness_floor_carbon_gain_g_per_kwh": {
+        "q25": 18.325439784386482,
+        "median": 28.47852419821745,
+        "q75": 42.113689243376086
+      },
+      "carbon_gain_above_dual_threshold": 70,
+      "target_reduction_pct": {
+        "q25": 9.264023630056883,
+        "median": 14.284365248606296,
+        "q75": 22.01942786488909
+      },
+      "full_potential_without_readiness_loss_no_battery": 0,
+      "full_potential_without_readiness_loss_battery": 70,
+      "median_compatible_potential_no_battery": {
+        "q25": 0.8355398528349084,
+        "median": 0.8801048786482537,
+        "q75": 0.9194493423751546
+      }
+    },
+    "2023|main|60|0.0|0.125": {
+      "site_weeks": 70,
+      "sessions": 3368,
+      "energy_kwh": 65681.86,
+      "physical_shortfall_pct": 8.35714381413681,
+      "shortfall_no_battery_pct": 0.018157951215124438,
+      "shortfall_battery_pct": 8.982700718297699e-09,
+      "readiness_gain_pp_pooled": 0.01815794223242372,
+      "readiness_gain_pp": {
+        "q25": -3.763878359525582e-08,
+        "median": -1.4330246116594395e-08,
+        "q75": -2.3588820938726425e-09
+      },
+      "positive_readiness_cases": 7,
+      "readiness_gain_at_least_half_pp": 2,
+      "early_full_no_battery_pct": 62.826603325415675,
+      "early_full_battery_pct": 63.00475059382423,
+      "early_full_asap_pct": 63.00475059382423,
+      "readiness_floor_carbon_gain_g_per_kwh": {
+        "q25": 3.396352586165584,
+        "median": 4.272462014545507,
+        "q75": 5.433487161502996
+      },
+      "carbon_gain_above_dual_threshold": 10,
+      "target_reduction_pct": {
+        "q25": 2.3569004085052,
+        "median": 4.032495854220281,
+        "q75": 5.548099340763785
+      },
+      "full_potential_without_readiness_loss_no_battery": 0,
+      "full_potential_without_readiness_loss_battery": 65,
+      "median_compatible_potential_no_battery": {
+        "q25": 0.6794020063000124,
+        "median": 0.8112890937462389,
+        "q75": 0.8872856755266124
+      }
+    },
+    "2023|main|60|0.0|0.5": {
+      "site_weeks": 70,
+      "sessions": 3368,
+      "energy_kwh": 65681.86,
+      "physical_shortfall_pct": 8.35714381413681,
+      "shortfall_no_battery_pct": 0.018157951215124438,
+      "shortfall_battery_pct": 8.221454117391413e-09,
+      "readiness_gain_pp_pooled": 0.01815794299367032,
+      "readiness_gain_pp": {
+        "q25": -2.514600364751742e-08,
+        "median": -1.0386302831151433e-08,
+        "q75": 0.0
+      },
+      "positive_readiness_cases": 7,
+      "readiness_gain_at_least_half_pp": 2,
+      "early_full_no_battery_pct": 62.826603325415675,
+      "early_full_battery_pct": 63.00475059382423,
+      "early_full_asap_pct": 63.00475059382423,
+      "readiness_floor_carbon_gain_g_per_kwh": {
+        "q25": 11.532089309168759,
+        "median": 14.757270593758737,
+        "q75": 17.37714810733818
+      },
+      "carbon_gain_above_dual_threshold": 69,
+      "target_reduction_pct": {
+        "q25": 2.3569004085052,
+        "median": 4.032495854220281,
+        "q75": 5.548099340763785
+      },
+      "full_potential_without_readiness_loss_no_battery": 0,
+      "full_potential_without_readiness_loss_battery": 70,
+      "median_compatible_potential_no_battery": {
+        "q25": 0.6794020063000124,
+        "median": 0.8112890937462389,
+        "q75": 0.8872856755266124
+      }
+    },
+    "2023|main|60|0.2|0.125": {
+      "site_weeks": 70,
+      "sessions": 3368,
+      "energy_kwh": 65681.86,
+      "physical_shortfall_pct": 8.35714381413681,
+      "shortfall_no_battery_pct": 0.0019426770097451334,
+      "shortfall_battery_pct": 9.743936607085413e-09,
+      "readiness_gain_pp_pooled": 0.0019426672658085266,
+      "readiness_gain_pp": {
+        "q25": -3.763879127690212e-08,
+        "median": -1.8818808226644708e-08,
+        "q75": -8.007162918621765e-09
+      },
+      "positive_readiness_cases": 3,
+      "readiness_gain_at_least_half_pp": 0,
+      "early_full_no_battery_pct": 62.826603325415675,
+      "early_full_battery_pct": 63.00475059382423,
+      "early_full_asap_pct": 63.00475059382423,
+      "readiness_floor_carbon_gain_g_per_kwh": {
+        "q25": 7.0137460399039435,
+        "median": 13.273350168265463,
+        "q75": 19.00625624964008
+      },
+      "carbon_gain_above_dual_threshold": 59,
+      "target_reduction_pct": {
+        "q25": 6.124392573387172,
+        "median": 10.406027037191452,
+        "q75": 16.45925270272065
+      },
+      "full_potential_without_readiness_loss_no_battery": 0,
+      "full_potential_without_readiness_loss_battery": 70,
+      "median_compatible_potential_no_battery": {
+        "q25": 0.7278804813055226,
+        "median": 0.8104790532122472,
+        "q75": 0.857481965173668
+      }
+    },
+    "2023|main|60|0.2|0.5": {
+      "site_weeks": 70,
+      "sessions": 3368,
+      "energy_kwh": 65681.86,
+      "physical_shortfall_pct": 8.35714381413681,
+      "shortfall_no_battery_pct": 0.0019426770097451334,
+      "shortfall_battery_pct": 1.0048440401928176e-08,
+      "readiness_gain_pp_pooled": 0.0019426669613047316,
+      "readiness_gain_pp": {
+        "q25": -3.763879566482092e-08,
+        "median": -1.9366744550008786e-08,
+        "q75": -8.56688253661525e-09
+      },
+      "positive_readiness_cases": 3,
+      "readiness_gain_at_least_half_pp": 0,
+      "early_full_no_battery_pct": 62.826603325415675,
+      "early_full_battery_pct": 63.00475059382423,
+      "early_full_asap_pct": 63.00475059382423,
+      "readiness_floor_carbon_gain_g_per_kwh": {
+        "q25": 18.34457486602993,
+        "median": 28.687853209025896,
+        "q75": 45.44524870927427
+      },
+      "carbon_gain_above_dual_threshold": 70,
+      "target_reduction_pct": {
+        "q25": 6.124392573387172,
+        "median": 10.406027037191452,
+        "q75": 16.45925270272065
+      },
+      "full_potential_without_readiness_loss_no_battery": 0,
+      "full_potential_without_readiness_loss_battery": 70,
+      "median_compatible_potential_no_battery": {
+        "q25": 0.7278804813055226,
+        "median": 0.8104790532122472,
+        "q75": 0.857481965173668
+      }
+    },
+    "2023|main|60|0.4|0.125": {
+      "site_weeks": 70,
+      "sessions": 3368,
+      "energy_kwh": 65681.86,
+      "physical_shortfall_pct": 8.35714381413681,
+      "shortfall_no_battery_pct": 0.00233280833929,
+      "shortfall_battery_pct": 9.591695072240968e-09,
+      "readiness_gain_pp_pooled": 0.002332798747594928,
+      "readiness_gain_pp": {
+        "q25": -4.3384414668280725e-08,
+        "median": -1.9929687209924453e-08,
+        "q75": -9.075552917670261e-09
+      },
+      "positive_readiness_cases": 1,
+      "readiness_gain_at_least_half_pp": 0,
+      "early_full_no_battery_pct": 62.975059382422806,
+      "early_full_battery_pct": 63.00475059382423,
+      "early_full_asap_pct": 63.00475059382423,
+      "readiness_floor_carbon_gain_g_per_kwh": {
+        "q25": 8.192793121625675,
+        "median": 12.452422250403858,
+        "q75": 17.40138370794418
+      },
+      "carbon_gain_above_dual_threshold": 66,
+      "target_reduction_pct": {
+        "q25": 9.264023630056883,
+        "median": 14.284365248606296,
+        "q75": 22.01942786488909
+      },
+      "full_potential_without_readiness_loss_no_battery": 0,
+      "full_potential_without_readiness_loss_battery": 62,
+      "median_compatible_potential_no_battery": {
+        "q25": 0.7088886905676504,
+        "median": 0.7947387374338412,
+        "q75": 0.8485432590235225
+      }
+    },
+    "2023|main|60|0.4|0.5": {
+      "site_weeks": 70,
+      "sessions": 3368,
+      "energy_kwh": 65681.86,
+      "physical_shortfall_pct": 8.35714381413681,
+      "shortfall_no_battery_pct": 0.00233280833929,
+      "shortfall_battery_pct": 1.0200689973829486e-08,
+      "readiness_gain_pp_pooled": 0.0023327981386000265,
+      "readiness_gain_pp": {
+        "q25": -4.4286455931440257e-08,
+        "median": -2.1041702834200784e-08,
+        "q75": -9.834041968367901e-09
+      },
+      "positive_readiness_cases": 1,
+      "readiness_gain_at_least_half_pp": 0,
+      "early_full_no_battery_pct": 62.975059382422806,
+      "early_full_battery_pct": 63.00475059382423,
+      "early_full_asap_pct": 63.00475059382423,
+      "readiness_floor_carbon_gain_g_per_kwh": {
+        "q25": 19.54383817430926,
+        "median": 30.205674768627112,
+        "q75": 46.56797804939748
+      },
+      "carbon_gain_above_dual_threshold": 70,
+      "target_reduction_pct": {
+        "q25": 9.264023630056883,
+        "median": 14.284365248606296,
+        "q75": 22.01942786488909
+      },
+      "full_potential_without_readiness_loss_no_battery": 0,
+      "full_potential_without_readiness_loss_battery": 70,
+      "median_compatible_potential_no_battery": {
+        "q25": 0.7088886905676504,
+        "median": 0.7947387374338412,
+        "q75": 0.8485432590235225
+      }
+    },
+    "2023|grid_peak|30|0.2|0.5": {
+      "site_weeks": 70,
+      "sessions": 3368,
+      "energy_kwh": 65681.86,
+      "physical_shortfall_pct": 2.4916650418310997,
+      "shortfall_no_battery_pct": 1.1007258832741672e-15,
+      "shortfall_battery_pct": 1.0200704880872904e-08,
+      "readiness_gain_pp_pooled": -1.020070378014702e-08,
+      "readiness_gain_pp": {
+        "q25": -4.428641251780126e-08,
+        "median": -2.1771993887454146e-08,
+        "q75": -9.834063005835312e-09
+      },
+      "positive_readiness_cases": 0,
+      "readiness_gain_at_least_half_pp": 0,
+      "early_full_no_battery_pct": 78.26603325415677,
+      "early_full_battery_pct": 78.26603325415677,
+      "early_full_asap_pct": 78.26603325415677,
+      "readiness_floor_carbon_gain_g_per_kwh": {
+        "q25": 16.373300137480506,
+        "median": 26.664839240008412,
+        "q75": 41.22048182357523
+      },
+      "carbon_gain_above_dual_threshold": 70,
+      "target_reduction_pct": {
+        "q25": 6.124392573387169,
+        "median": 10.406027037191452,
+        "q75": 16.45925270272065
+      },
+      "full_potential_without_readiness_loss_no_battery": 0,
+      "full_potential_without_readiness_loss_battery": 70,
+      "median_compatible_potential_no_battery": {
+        "q25": 0.8400048240075049,
+        "median": 0.8860219453814184,
+        "q75": 0.9162074592285121
+      }
+    },
+    "2023|common_11kw|30|0.2|0.5": {
+      "site_weeks": 70,
+      "sessions": 3035,
+      "energy_kwh": 57482.24,
+      "physical_shortfall_pct": 4.9848444976705455,
+      "shortfall_no_battery_pct": 1.4568695086947823e-15,
+      "shortfall_battery_pct": 1.1829739229074418e-08,
+      "readiness_gain_pp_pooled": -1.182973777220491e-08,
+      "readiness_gain_pp": {
+        "q25": -4.610938577756113e-08,
+        "median": -2.5137981674029532e-08,
+        "q75": -1.0528466414421273e-08
+      },
+      "positive_readiness_cases": 0,
+      "readiness_gain_at_least_half_pp": 0,
+      "early_full_no_battery_pct": 62.43822075782537,
+      "early_full_battery_pct": 62.43822075782537,
+      "early_full_asap_pct": 62.43822075782537,
+      "readiness_floor_carbon_gain_g_per_kwh": {
+        "q25": 19.923828839394428,
+        "median": 28.334212855121407,
+        "q75": 49.77733206511815
+      },
+      "carbon_gain_above_dual_threshold": 70,
+      "target_reduction_pct": {
+        "q25": 5.371892826800517,
+        "median": 8.2461716814685,
+        "q75": 14.892820883975388
+      },
+      "full_potential_without_readiness_loss_no_battery": 0,
+      "full_potential_without_readiness_loss_battery": 70,
+      "median_compatible_potential_no_battery": {
+        "q25": 0.8018675331121323,
+        "median": 0.86313065847983,
+        "q75": 0.912852302710906
+      }
+    },
+    "2023|common_22kw|30|0.2|0.5": {
+      "site_weeks": 70,
+      "sessions": 3035,
+      "energy_kwh": 57482.24,
+      "physical_shortfall_pct": 1.8015752923569668,
+      "shortfall_no_battery_pct": 1.3180004676300138e-15,
+      "shortfall_battery_pct": 1.1481809971305816e-08,
+      "readiness_gain_pp_pooled": -1.1481808653305348e-08,
+      "readiness_gain_pp": {
+        "q25": -4.42850086918871e-08,
+        "median": -2.4420171091054528e-08,
+        "q75": -1.0017736442760074e-08
+      },
+      "positive_readiness_cases": 0,
+      "readiness_gain_at_least_half_pp": 0,
+      "early_full_no_battery_pct": 80.0329489291598,
+      "early_full_battery_pct": 80.0329489291598,
+      "early_full_asap_pct": 80.0329489291598,
+      "readiness_floor_carbon_gain_g_per_kwh": {
+        "q25": 18.42895180517992,
+        "median": 26.801809749703413,
+        "q75": 46.79336714078679
+      },
+      "carbon_gain_above_dual_threshold": 70,
+      "target_reduction_pct": {
+        "q25": 7.703072817951395,
+        "median": 12.849800783314175,
+        "q75": 20.542165373011365
+      },
+      "full_potential_without_readiness_loss_no_battery": 0,
+      "full_potential_without_readiness_loss_battery": 70,
+      "median_compatible_potential_no_battery": {
+        "q25": 0.8447516777339492,
+        "median": 0.8871621678171322,
+        "q75": 0.9278537211458826
+      }
+    },
+    "2024|main|15|0.0|0.125": {
+      "site_weeks": 70,
+      "sessions": 2565,
+      "energy_kwh": 49465.31,
+      "physical_shortfall_pct": 0.8318468258080485,
+      "shortfall_no_battery_pct": 0.0037914132845453517,
+      "shortfall_battery_pct": 1.2534026649093978e-08,
+      "readiness_gain_pp_pooled": 0.0037914007505187026,
+      "readiness_gain_pp": {
+        "q25": -3.963392736755974e-08,
+        "median": -2.0517464742348337e-08,
+        "q75": -5.804518130781651e-09
+      },
+      "positive_readiness_cases": 3,
+      "readiness_gain_at_least_half_pp": 2,
+      "early_full_no_battery_pct": 84.83430799220272,
+      "early_full_battery_pct": 84.87329434697855,
+      "early_full_asap_pct": 84.87329434697855,
+      "readiness_floor_carbon_gain_g_per_kwh": {
+        "q25": 3.726684885672557,
+        "median": 5.435717834889097,
+        "q75": 9.469265674663756
+      },
+      "carbon_gain_above_dual_threshold": 23,
+      "target_reduction_pct": {
+        "q25": 1.4601639875717776,
+        "median": 3.7645011852893817,
+        "q75": 5.636518526632858
+      },
+      "full_potential_without_readiness_loss_no_battery": 0,
+      "full_potential_without_readiness_loss_battery": 70,
+      "median_compatible_potential_no_battery": {
+        "q25": 0.8754850700255041,
+        "median": 0.9257426366908563,
+        "q75": 0.9574995327617155
+      }
+    },
+    "2024|main|15|0.0|0.5": {
+      "site_weeks": 70,
+      "sessions": 2565,
+      "energy_kwh": 49465.31,
+      "physical_shortfall_pct": 0.8318468258080485,
+      "shortfall_no_battery_pct": 0.0037914132845453517,
+      "shortfall_battery_pct": 1.111888503805528e-08,
+      "readiness_gain_pp_pooled": 0.0037914021656603137,
+      "readiness_gain_pp": {
+        "q25": -3.584894825072777e-08,
+        "median": -1.5746471355840403e-08,
+        "q75": -4.08005515393585e-09
+      },
+      "positive_readiness_cases": 3,
+      "readiness_gain_at_least_half_pp": 2,
+      "early_full_no_battery_pct": 84.83430799220272,
+      "early_full_battery_pct": 84.87329434697855,
+      "early_full_asap_pct": 84.87329434697855,
+      "readiness_floor_carbon_gain_g_per_kwh": {
+        "q25": 12.00658737322799,
+        "median": 17.64216989913148,
+        "q75": 27.77121389486358
+      },
+      "carbon_gain_above_dual_threshold": 63,
+      "target_reduction_pct": {
+        "q25": 1.4601639875717776,
+        "median": 3.7645011852893817,
+        "q75": 5.636518526632858
+      },
+      "full_potential_without_readiness_loss_no_battery": 0,
+      "full_potential_without_readiness_loss_battery": 70,
+      "median_compatible_potential_no_battery": {
+        "q25": 0.8754850700255041,
+        "median": 0.9257426366908563,
+        "q75": 0.9574995327617155
+      }
+    },
+    "2024|main|15|0.2|0.125": {
+      "site_weeks": 70,
+      "sessions": 2565,
+      "energy_kwh": 49465.31,
+      "physical_shortfall_pct": 0.8318468258080485,
+      "shortfall_no_battery_pct": 0.0006751105431155586,
+      "shortfall_battery_pct": 1.2938351880880166e-08,
+      "readiness_gain_pp_pooled": 0.0006750976047636777,
+      "readiness_gain_pp": {
+        "q25": -4.334692685837851e-08,
+        "median": -2.1750265338312855e-08,
+        "q75": -6.887229261801527e-09
+      },
+      "positive_readiness_cases": 1,
+      "readiness_gain_at_least_half_pp": 1,
+      "early_full_no_battery_pct": 84.7953216374269,
+      "early_full_battery_pct": 84.87329434697855,
+      "early_full_asap_pct": 84.87329434697855,
+      "readiness_floor_carbon_gain_g_per_kwh": {
+        "q25": 9.417965687196196,
+        "median": 13.878085295968246,
+        "q75": 23.330351858641542
+      },
+      "carbon_gain_above_dual_threshold": 59,
+      "target_reduction_pct": {
+        "q25": 4.699570368851559,
+        "median": 9.116795749324396,
+        "q75": 13.801188928816536
+      },
+      "full_potential_without_readiness_loss_no_battery": 0,
+      "full_potential_without_readiness_loss_battery": 70,
+      "median_compatible_potential_no_battery": {
+        "q25": 0.8919959919276778,
+        "median": 0.9223757437728296,
+        "q75": 0.9582954238821866
+      }
+    },
+    "2024|main|15|0.2|0.5": {
+      "site_weeks": 70,
+      "sessions": 2565,
+      "energy_kwh": 49465.31,
+      "physical_shortfall_pct": 0.8318468258080485,
+      "shortfall_no_battery_pct": 0.0006751105431155586,
+      "shortfall_battery_pct": 1.3544835343357483e-08,
+      "readiness_gain_pp_pooled": 0.0006750969982802152,
+      "readiness_gain_pp": {
+        "q25": -3.9633942070757106e-08,
+        "median": -2.175026967519137e-08,
+        "q75": -7.811448570253085e-09
+      },
+      "positive_readiness_cases": 1,
+      "readiness_gain_at_least_half_pp": 1,
+      "early_full_no_battery_pct": 84.7953216374269,
+      "early_full_battery_pct": 84.87329434697855,
+      "early_full_asap_pct": 84.87329434697855,
+      "readiness_floor_carbon_gain_g_per_kwh": {
+        "q25": 21.670309979617066,
+        "median": 31.350737798178862,
+        "q75": 54.30750455287859
+      },
+      "carbon_gain_above_dual_threshold": 68,
+      "target_reduction_pct": {
+        "q25": 4.699570368851559,
+        "median": 9.116795749324396,
+        "q75": 13.801188928816536
+      },
+      "full_potential_without_readiness_loss_no_battery": 0,
+      "full_potential_without_readiness_loss_battery": 70,
+      "median_compatible_potential_no_battery": {
+        "q25": 0.8919959919276778,
+        "median": 0.9223757437728296,
+        "q75": 0.9582954238821866
+      }
+    },
+    "2024|main|15|0.4|0.125": {
+      "site_weeks": 70,
+      "sessions": 2565,
+      "energy_kwh": 49465.31,
+      "physical_shortfall_pct": 0.8318468258080485,
+      "shortfall_no_battery_pct": 0.0012671755401871027,
+      "shortfall_battery_pct": 1.3342670150389512e-08,
+      "readiness_gain_pp_pooled": 0.0012671621975169523,
+      "readiness_gain_pp": {
+        "q25": -3.910970917395736e-08,
+        "median": -2.0746005564024182e-08,
+        "q75": -6.970225056103899e-09
+      },
+      "positive_readiness_cases": 2,
+      "readiness_gain_at_least_half_pp": 1,
+      "early_full_no_battery_pct": 84.83430799220272,
+      "early_full_battery_pct": 84.87329434697855,
+      "early_full_asap_pct": 84.87329434697855,
+      "readiness_floor_carbon_gain_g_per_kwh": {
+        "q25": 9.23071203888173,
+        "median": 13.5604124765674,
+        "q75": 23.04437559251704
+      },
+      "carbon_gain_above_dual_threshold": 60,
+      "target_reduction_pct": {
+        "q25": 8.071844522973606,
+        "median": 12.734862912122512,
+        "q75": 19.36913681421356
+      },
+      "full_potential_without_readiness_loss_no_battery": 0,
+      "full_potential_without_readiness_loss_battery": 70,
+      "median_compatible_potential_no_battery": {
+        "q25": 0.8970680489694605,
+        "median": 0.9378569214927469,
+        "q75": 0.9649299732574447
+      }
+    },
+    "2024|main|15|0.4|0.5": {
+      "site_weeks": 70,
+      "sessions": 2565,
+      "energy_kwh": 49465.31,
+      "physical_shortfall_pct": 0.8318468258080485,
+      "shortfall_no_battery_pct": 0.0012671755401871027,
+      "shortfall_battery_pct": 1.3746994187512286e-08,
+      "readiness_gain_pp_pooled": 0.0012671617931929152,
+      "readiness_gain_pp": {
+        "q25": -4.037793196903313e-08,
+        "median": -2.3113224205315428e-08,
+        "q75": -7.811421489001156e-09
+      },
+      "positive_readiness_cases": 2,
+      "readiness_gain_at_least_half_pp": 1,
+      "early_full_no_battery_pct": 84.83430799220272,
+      "early_full_battery_pct": 84.87329434697855,
+      "early_full_asap_pct": 84.87329434697855,
+      "readiness_floor_carbon_gain_g_per_kwh": {
+        "q25": 21.90054021226326,
+        "median": 34.604275587179494,
+        "q75": 61.58970305123435
+      },
+      "carbon_gain_above_dual_threshold": 68,
+      "target_reduction_pct": {
+        "q25": 8.071844522973606,
+        "median": 12.734862912122512,
+        "q75": 19.36913681421356
+      },
+      "full_potential_without_readiness_loss_no_battery": 0,
+      "full_potential_without_readiness_loss_battery": 70,
+      "median_compatible_potential_no_battery": {
+        "q25": 0.8970680489694605,
+        "median": 0.9378569214927469,
+        "q75": 0.9649299732574447
+      }
+    },
+    "2024|main|30|0.0|0.125": {
+      "site_weeks": 70,
+      "sessions": 2565,
+      "energy_kwh": 49465.31,
+      "physical_shortfall_pct": 2.4943786081824033,
+      "shortfall_no_battery_pct": 0.003922817822222493,
+      "shortfall_battery_pct": 1.2534031204200635e-08,
+      "readiness_gain_pp_pooled": 0.003922805288191288,
+      "readiness_gain_pp": {
+        "q25": -3.7929947687459235e-08,
+        "median": -1.9688220390248346e-08,
+        "q75": -5.804555895976722e-09
+      },
+      "positive_readiness_cases": 3,
+      "readiness_gain_at_least_half_pp": 2,
+      "early_full_no_battery_pct": 78.3625730994152,
+      "early_full_battery_pct": 78.3625730994152,
+      "early_full_asap_pct": 78.3625730994152,
+      "readiness_floor_carbon_gain_g_per_kwh": {
+        "q25": 3.6880261452744882,
+        "median": 5.475597769565001,
+        "q75": 9.599971157472023
+      },
+      "carbon_gain_above_dual_threshold": 24,
+      "target_reduction_pct": {
+        "q25": 1.4601639875717776,
+        "median": 3.7645011852893817,
+        "q75": 5.636518526632858
+      },
+      "full_potential_without_readiness_loss_no_battery": 0,
+      "full_potential_without_readiness_loss_battery": 70,
+      "median_compatible_potential_no_battery": {
+        "q25": 0.7644749232858683,
+        "median": 0.8588325725410828,
+        "q75": 0.9193582646108052
+      }
+    },
+    "2024|main|30|0.0|0.5": {
+      "site_weeks": 70,
+      "sessions": 2565,
+      "energy_kwh": 49465.31,
+      "physical_shortfall_pct": 2.4943786081824033,
+      "shortfall_no_battery_pct": 0.003922817822222493,
+      "shortfall_battery_pct": 1.111889361207003e-08,
+      "readiness_gain_pp_pooled": 0.0039228067033288795,
+      "readiness_gain_pp": {
+        "q25": -3.320080331951006e-08,
+        "median": -1.5746463567191294e-08,
+        "q75": -4.080073833171762e-09
+      },
+      "positive_readiness_cases": 3,
+      "readiness_gain_at_least_half_pp": 2,
+      "early_full_no_battery_pct": 78.3625730994152,
+      "early_full_battery_pct": 78.3625730994152,
+      "early_full_asap_pct": 78.3625730994152,
+      "readiness_floor_carbon_gain_g_per_kwh": {
+        "q25": 12.106131940682651,
+        "median": 17.549751964805754,
+        "q75": 27.72223784494032
+      },
+      "carbon_gain_above_dual_threshold": 63,
+      "target_reduction_pct": {
+        "q25": 1.4601639875717776,
+        "median": 3.7645011852893817,
+        "q75": 5.636518526632858
+      },
+      "full_potential_without_readiness_loss_no_battery": 0,
+      "full_potential_without_readiness_loss_battery": 70,
+      "median_compatible_potential_no_battery": {
+        "q25": 0.7644749232858683,
+        "median": 0.8588325725410828,
+        "q75": 0.9193582646108052
+      }
+    },
+    "2024|main|30|0.2|0.125": {
+      "site_weeks": 70,
+      "sessions": 2565,
+      "energy_kwh": 49465.31,
+      "physical_shortfall_pct": 2.4943786081824033,
+      "shortfall_no_battery_pct": 9.497667539144817e-05,
+      "shortfall_battery_pct": 1.3342670230067406e-08,
+      "readiness_gain_pp_pooled": 9.496333272121811e-05,
+      "readiness_gain_pp": {
+        "q25": -4.334691322037321e-08,
+        "median": -2.311322974817102e-08,
+        "q75": -7.241063181028425e-09
+      },
+      "positive_readiness_cases": 1,
+      "readiness_gain_at_least_half_pp": 0,
+      "early_full_no_battery_pct": 78.3625730994152,
+      "early_full_battery_pct": 78.3625730994152,
+      "early_full_asap_pct": 78.3625730994152,
+      "readiness_floor_carbon_gain_g_per_kwh": {
+        "q25": 10.033563396149656,
+        "median": 13.654551060118093,
+        "q75": 24.05756637095712
+      },
+      "carbon_gain_above_dual_threshold": 59,
+      "target_reduction_pct": {
+        "q25": 4.699570368851559,
+        "median": 9.116795749324396,
+        "q75": 13.801188928816536
+      },
+      "full_potential_without_readiness_loss_no_battery": 0,
+      "full_potential_without_readiness_loss_battery": 70,
+      "median_compatible_potential_no_battery": {
+        "q25": 0.7910200829476579,
+        "median": 0.8745445809572076,
+        "q75": 0.9107279991693
+      }
+    },
+    "2024|main|30|0.2|0.5": {
+      "site_weeks": 70,
+      "sessions": 2565,
+      "energy_kwh": 49465.31,
+      "physical_shortfall_pct": 2.4943786081824033,
+      "shortfall_no_battery_pct": 9.497667539144817e-05,
+      "shortfall_battery_pct": 1.3544833090605302e-08,
+      "readiness_gain_pp_pooled": 9.496313055835756e-05,
+      "readiness_gain_pp": {
+        "q25": -4.334692801016821e-08,
+        "median": -2.311320283498354e-08,
+        "q75": -7.811422519557817e-09
+      },
+      "positive_readiness_cases": 1,
+      "readiness_gain_at_least_half_pp": 0,
+      "early_full_no_battery_pct": 78.3625730994152,
+      "early_full_battery_pct": 78.3625730994152,
+      "early_full_asap_pct": 78.3625730994152,
+      "readiness_floor_carbon_gain_g_per_kwh": {
+        "q25": 22.339046051926232,
+        "median": 32.89509195800127,
+        "q75": 55.50348297545964
+      },
+      "carbon_gain_above_dual_threshold": 68,
+      "target_reduction_pct": {
+        "q25": 4.699570368851559,
+        "median": 9.116795749324396,
+        "q75": 13.801188928816536
+      },
+      "full_potential_without_readiness_loss_no_battery": 0,
+      "full_potential_without_readiness_loss_battery": 70,
+      "median_compatible_potential_no_battery": {
+        "q25": 0.7910200829476579,
+        "median": 0.8745445809572076,
+        "q75": 0.9107279991693
+      }
+    },
+    "2024|main|30|0.4|0.125": {
+      "site_weeks": 70,
+      "sessions": 2565,
+      "energy_kwh": 49465.31,
+      "physical_shortfall_pct": 2.4943786081824033,
+      "shortfall_no_battery_pct": 1.1133582936512657e-15,
+      "shortfall_battery_pct": 1.3342677206933157e-08,
+      "readiness_gain_pp_pooled": -1.3342676093574863e-08,
+      "readiness_gain_pp": {
+        "q25": -4.0377939230946746e-08,
+        "median": -2.3113242286276828e-08,
+        "q75": -7.811400194144387e-09
+      },
+      "positive_readiness_cases": 0,
+      "readiness_gain_at_least_half_pp": 0,
+      "early_full_no_battery_pct": 78.3625730994152,
+      "early_full_battery_pct": 78.3625730994152,
+      "early_full_asap_pct": 78.3625730994152,
+      "readiness_floor_carbon_gain_g_per_kwh": {
+        "q25": 8.87886507695632,
+        "median": 13.806742365303487,
+        "q75": 24.056910947380047
+      },
+      "carbon_gain_above_dual_threshold": 60,
+      "target_reduction_pct": {
+        "q25": 8.071844522973606,
+        "median": 12.734862912122512,
+        "q75": 19.36913681421356
+      },
+      "full_potential_without_readiness_loss_no_battery": 0,
+      "full_potential_without_readiness_loss_battery": 70,
+      "median_compatible_potential_no_battery": {
+        "q25": 0.7986604950391687,
+        "median": 0.8735990389734754,
+        "q75": 0.9151316524530306
+      }
+    },
+    "2024|main|30|0.4|0.5": {
+      "site_weeks": 70,
+      "sessions": 2565,
+      "energy_kwh": 49465.31,
+      "physical_shortfall_pct": 2.4943786081824033,
+      "shortfall_no_battery_pct": 1.1133582936512657e-15,
+      "shortfall_battery_pct": 1.3544840967719036e-08,
+      "readiness_gain_pp_pooled": -1.3544839854360742e-08,
+      "readiness_gain_pp": {
+        "q25": -4.334688792498794e-08,
+        "median": -2.4481517046736044e-08,
+        "q75": -9.102205777560189e-09
+      },
+      "positive_readiness_cases": 0,
+      "readiness_gain_at_least_half_pp": 0,
+      "early_full_no_battery_pct": 78.3625730994152,
+      "early_full_battery_pct": 78.3625730994152,
+      "early_full_asap_pct": 78.3625730994152,
+      "readiness_floor_carbon_gain_g_per_kwh": {
+        "q25": 22.87448869154055,
+        "median": 35.61712148577608,
+        "q75": 63.37627129202553
+      },
+      "carbon_gain_above_dual_threshold": 68,
+      "target_reduction_pct": {
+        "q25": 8.071844522973606,
+        "median": 12.734862912122512,
+        "q75": 19.36913681421356
+      },
+      "full_potential_without_readiness_loss_no_battery": 0,
+      "full_potential_without_readiness_loss_battery": 70,
+      "median_compatible_potential_no_battery": {
+        "q25": 0.7986604950391687,
+        "median": 0.8735990389734754,
+        "q75": 0.9151316524530306
+      }
+    },
+    "2024|main|60|0.0|0.125": {
+      "site_weeks": 70,
+      "sessions": 2565,
+      "energy_kwh": 49465.31,
+      "physical_shortfall_pct": 8.791567823547004,
+      "shortfall_no_battery_pct": 0.07365355319004081,
+      "shortfall_battery_pct": 1.273619216559909e-08,
+      "readiness_gain_pp_pooled": 0.07365354045384864,
+      "readiness_gain_pp": {
+        "q25": -3.188048763318632e-08,
+        "median": -1.4771804428717159e-08,
+        "q75": -4.080047684542839e-09
+      },
+      "positive_readiness_cases": 13,
+      "readiness_gain_at_least_half_pp": 9,
+      "early_full_no_battery_pct": 62.41715399610136,
+      "early_full_battery_pct": 62.76803118908382,
+      "early_full_asap_pct": 62.76803118908382,
+      "readiness_floor_carbon_gain_g_per_kwh": {
+        "q25": 3.639060476755232,
+        "median": 5.426513196105217,
+        "q75": 9.663864095919916
+      },
+      "carbon_gain_above_dual_threshold": 23,
+      "target_reduction_pct": {
+        "q25": 1.4601639875717776,
+        "median": 3.7645011852893817,
+        "q75": 5.636518526632858
+      },
+      "full_potential_without_readiness_loss_no_battery": 0,
+      "full_potential_without_readiness_loss_battery": 61,
+      "median_compatible_potential_no_battery": {
+        "q25": 0.5848300404295612,
+        "median": 0.7356322306463483,
+        "q75": 0.8625883355027352
+      }
+    },
+    "2024|main|60|0.0|0.5": {
+      "site_weeks": 70,
+      "sessions": 2565,
+      "energy_kwh": 49465.31,
+      "physical_shortfall_pct": 8.791567823547004,
+      "shortfall_no_battery_pct": 0.07365355319004081,
+      "shortfall_battery_pct": 1.010809510591586e-08,
+      "readiness_gain_pp_pooled": 0.0736535430819457,
+      "readiness_gain_pp": {
+        "q25": -2.798896149543486e-08,
+        "median": -9.840398048954016e-09,
+        "q75": -2.1557728633498186e-16
+      },
+      "positive_readiness_cases": 13,
+      "readiness_gain_at_least_half_pp": 9,
+      "early_full_no_battery_pct": 62.41715399610136,
+      "early_full_battery_pct": 62.76803118908382,
+      "early_full_asap_pct": 62.76803118908382,
+      "readiness_floor_carbon_gain_g_per_kwh": {
+        "q25": 12.126316040647904,
+        "median": 17.628270198042628,
+        "q75": 27.840979203610544
+      },
+      "carbon_gain_above_dual_threshold": 63,
+      "target_reduction_pct": {
+        "q25": 1.4601639875717776,
+        "median": 3.7645011852893817,
+        "q75": 5.636518526632858
+      },
+      "full_potential_without_readiness_loss_no_battery": 0,
+      "full_potential_without_readiness_loss_battery": 70,
+      "median_compatible_potential_no_battery": {
+        "q25": 0.5848300404295612,
+        "median": 0.7356322306463483,
+        "q75": 0.8625883355027352
+      }
+    },
+    "2024|main|60|0.2|0.125": {
+      "site_weeks": 70,
+      "sessions": 2565,
+      "energy_kwh": 49465.31,
+      "physical_shortfall_pct": 8.791567823547004,
+      "shortfall_no_battery_pct": 0.01870105280254666,
+      "shortfall_battery_pct": 1.3342676572540008e-08,
+      "readiness_gain_pp_pooled": 0.018701039459870086,
+      "readiness_gain_pp": {
+        "q25": -3.924608647833092e-08,
+        "median": -2.024216347433747e-08,
+        "q75": -5.804517662095445e-09
+      },
+      "positive_readiness_cases": 5,
+      "readiness_gain_at_least_half_pp": 3,
+      "early_full_no_battery_pct": 62.57309941520468,
+      "early_full_battery_pct": 62.76803118908382,
+      "early_full_asap_pct": 62.76803118908382,
+      "readiness_floor_carbon_gain_g_per_kwh": {
+        "q25": 10.987212230108067,
+        "median": 14.608598538947017,
+        "q75": 24.27116271833079
+      },
+      "carbon_gain_above_dual_threshold": 62,
+      "target_reduction_pct": {
+        "q25": 4.699570368851559,
+        "median": 9.116795749324396,
+        "q75": 13.801188928816536
+      },
+      "full_potential_without_readiness_loss_no_battery": 0,
+      "full_potential_without_readiness_loss_battery": 68,
+      "median_compatible_potential_no_battery": {
+        "q25": 0.6229923035296269,
+        "median": 0.7682885431064047,
+        "q75": 0.8488255524806428
+      }
+    },
+    "2024|main|60|0.2|0.5": {
+      "site_weeks": 70,
+      "sessions": 2565,
+      "energy_kwh": 49465.31,
+      "physical_shortfall_pct": 8.791567823547004,
+      "shortfall_no_battery_pct": 0.01870105280254666,
+      "shortfall_battery_pct": 1.3342678229840207e-08,
+      "readiness_gain_pp_pooled": 0.01870103945986843,
+      "readiness_gain_pp": {
+        "q25": -3.92460518355298e-08,
+        "median": -1.9422551181607772e-08,
+        "q75": -5.8045163683644066e-09
+      },
+      "positive_readiness_cases": 5,
+      "readiness_gain_at_least_half_pp": 3,
+      "early_full_no_battery_pct": 62.57309941520468,
+      "early_full_battery_pct": 62.76803118908382,
+      "early_full_asap_pct": 62.76803118908382,
+      "readiness_floor_carbon_gain_g_per_kwh": {
+        "q25": 22.91925346526488,
+        "median": 33.78653221792575,
+        "q75": 56.4855401863655
+      },
+      "carbon_gain_above_dual_threshold": 69,
+      "target_reduction_pct": {
+        "q25": 4.699570368851559,
+        "median": 9.116795749324396,
+        "q75": 13.801188928816536
+      },
+      "full_potential_without_readiness_loss_no_battery": 0,
+      "full_potential_without_readiness_loss_battery": 70,
+      "median_compatible_potential_no_battery": {
+        "q25": 0.6229923035296269,
+        "median": 0.7682885431064047,
+        "q75": 0.8488255524806428
+      }
+    },
+    "2024|main|60|0.4|0.125": {
+      "site_weeks": 70,
+      "sessions": 2565,
+      "energy_kwh": 49465.31,
+      "physical_shortfall_pct": 8.791567823547004,
+      "shortfall_no_battery_pct": 0.027068200656154003,
+      "shortfall_battery_pct": 1.3544842861191246e-08,
+      "readiness_gain_pp_pooled": 0.027068187111311145,
+      "readiness_gain_pp": {
+        "q25": -3.924606113650668e-08,
+        "median": -1.942259240681128e-08,
+        "q75": -5.804553299936704e-09
+      },
+      "positive_readiness_cases": 6,
+      "readiness_gain_at_least_half_pp": 4,
+      "early_full_no_battery_pct": 62.53411306042885,
+      "early_full_battery_pct": 62.76803118908382,
+      "early_full_asap_pct": 62.76803118908382,
+      "readiness_floor_carbon_gain_g_per_kwh": {
+        "q25": 9.934503514089878,
+        "median": 14.293635780973862,
+        "q75": 25.67365772066023
+      },
+      "carbon_gain_above_dual_threshold": 61,
+      "target_reduction_pct": {
+        "q25": 8.071844522973606,
+        "median": 12.734862912122512,
+        "q75": 19.36913681421356
+      },
+      "full_potential_without_readiness_loss_no_battery": 0,
+      "full_potential_without_readiness_loss_battery": 66,
+      "median_compatible_potential_no_battery": {
+        "q25": 0.6766670188173424,
+        "median": 0.7754457218828659,
+        "q75": 0.8385048396992755
+      }
+    },
+    "2024|main|60|0.4|0.5": {
+      "site_weeks": 70,
+      "sessions": 2565,
+      "energy_kwh": 49465.31,
+      "physical_shortfall_pct": 8.791567823547004,
+      "shortfall_no_battery_pct": 0.027068200656154003,
+      "shortfall_battery_pct": 1.3140516917073463e-08,
+      "readiness_gain_pp_pooled": 0.02706818751563709,
+      "readiness_gain_pp": {
+        "q25": -3.7929964283261845e-08,
+        "median": -1.7680200278985053e-08,
+        "q75": -4.677386619597456e-09
+      },
+      "positive_readiness_cases": 6,
+      "readiness_gain_at_least_half_pp": 4,
+      "early_full_no_battery_pct": 62.53411306042885,
+      "early_full_battery_pct": 62.76803118908382,
+      "early_full_asap_pct": 62.76803118908382,
+      "readiness_floor_carbon_gain_g_per_kwh": {
+        "q25": 24.634873648348208,
+        "median": 37.21345759348064,
+        "q75": 67.52692435176861
+      },
+      "carbon_gain_above_dual_threshold": 68,
+      "target_reduction_pct": {
+        "q25": 8.071844522973606,
+        "median": 12.734862912122512,
+        "q75": 19.36913681421356
+      },
+      "full_potential_without_readiness_loss_no_battery": 0,
+      "full_potential_without_readiness_loss_battery": 70,
+      "median_compatible_potential_no_battery": {
+        "q25": 0.6766670188173424,
+        "median": 0.7754457218828659,
+        "q75": 0.8385048396992755
+      }
+    },
+    "2024|grid_peak|30|0.2|0.5": {
+      "site_weeks": 70,
+      "sessions": 2565,
+      "energy_kwh": 49465.31,
+      "physical_shortfall_pct": 2.4943786081824033,
+      "shortfall_no_battery_pct": 9.4976675391678e-05,
+      "shortfall_battery_pct": 1.3544837950732404e-08,
+      "readiness_gain_pp_pooled": 9.496313055372727e-05,
+      "readiness_gain_pp": {
+        "q25": -4.334692447931476e-08,
+        "median": -2.4481506539107528e-08,
+        "q75": -7.811412454317633e-09
+      },
+      "positive_readiness_cases": 1,
+      "readiness_gain_at_least_half_pp": 0,
+      "early_full_no_battery_pct": 78.3625730994152,
+      "early_full_battery_pct": 78.3625730994152,
+      "early_full_asap_pct": 78.3625730994152,
+      "readiness_floor_carbon_gain_g_per_kwh": {
+        "q25": 22.294095508002055,
+        "median": 32.89509195800128,
+        "q75": 55.50348297545964
+      },
+      "carbon_gain_above_dual_threshold": 68,
+      "target_reduction_pct": {
+        "q25": 4.6922355511393725,
+        "median": 9.064713075325166,
+        "q75": 13.798011293753914
+      },
+      "full_potential_without_readiness_loss_no_battery": 0,
+      "full_potential_without_readiness_loss_battery": 70,
+      "median_compatible_potential_no_battery": {
+        "q25": 0.791139207664025,
+        "median": 0.8745445809572078,
+        "q75": 0.9118264280768402
+      }
+    },
+    "2024|common_11kw|30|0.2|0.5": {
+      "site_weeks": 70,
+      "sessions": 2356,
+      "energy_kwh": 43993.013,
+      "physical_shortfall_pct": 4.840568281452633,
+      "shortfall_no_battery_pct": 0.0003112909645006949,
+      "shortfall_battery_pct": 1.522969295928656e-08,
+      "readiness_gain_pp_pooled": 0.00031127573480773556,
+      "readiness_gain_pp": {
+        "q25": -4.843276224956401e-08,
+        "median": -2.5171896014578154e-08,
+        "q75": -9.114125434072226e-09
+      },
+      "positive_readiness_cases": 2,
+      "readiness_gain_at_least_half_pp": 0,
+      "early_full_no_battery_pct": 62.478777589134125,
+      "early_full_battery_pct": 62.478777589134125,
+      "early_full_asap_pct": 62.478777589134125,
+      "readiness_floor_carbon_gain_g_per_kwh": {
+        "q25": 23.24274221523551,
+        "median": 38.89741374475066,
+        "q75": 62.515178291097165
+      },
+      "carbon_gain_above_dual_threshold": 69,
+      "target_reduction_pct": {
+        "q25": 3.5757086843419077,
+        "median": 7.546965279332385,
+        "q75": 11.189213017681206
+      },
+      "full_potential_without_readiness_loss_no_battery": 0,
+      "full_potential_without_readiness_loss_battery": 70,
+      "median_compatible_potential_no_battery": {
+        "q25": 0.758433229697298,
+        "median": 0.8326546845141793,
+        "q75": 0.9049192679471275
+      }
+    },
+    "2024|common_22kw|30|0.2|0.5": {
+      "site_weeks": 70,
+      "sessions": 2356,
+      "energy_kwh": 43993.013,
+      "physical_shortfall_pct": 2.118263390800009,
+      "shortfall_no_battery_pct": 0.00010679083724062725,
+      "shortfall_battery_pct": 1.522969212219687e-08,
+      "readiness_gain_pp_pooled": 0.00010677560754850506,
+      "readiness_gain_pp": {
+        "q25": -4.874216312101736e-08,
+        "median": -2.5889929871711152e-08,
+        "q75": -9.11408362702964e-09
+      },
+      "positive_readiness_cases": 1,
+      "readiness_gain_at_least_half_pp": 0,
+      "early_full_no_battery_pct": 79.32937181663837,
+      "early_full_battery_pct": 79.32937181663837,
+      "early_full_asap_pct": 79.32937181663837,
+      "readiness_floor_carbon_gain_g_per_kwh": {
+        "q25": 22.23954115730516,
+        "median": 37.89766963422231,
+        "q75": 59.43489896749539
+      },
+      "carbon_gain_above_dual_threshold": 68,
+      "target_reduction_pct": {
+        "q25": 4.980961179216909,
+        "median": 9.84506154392733,
+        "q75": 16.06892239990777
+      },
+      "full_potential_without_readiness_loss_no_battery": 0,
+      "full_potential_without_readiness_loss_battery": 70,
+      "median_compatible_potential_no_battery": {
+        "q25": 0.7940517204843673,
+        "median": 0.8862974645097981,
+        "q75": 0.9181271442430508
+      }
+    }
+  },
+  "fixed_ten_percent_feasibility": {
+    "2023": {
+      "0.0": 57,
+      "0.125": 69,
+      "0.5": 70,
+      "denominator": 70
+    },
+    "2024": {
+      "0.0": 51,
+      "0.125": 68,
+      "0.5": 70,
+      "denominator": 70
+    }
+  },
+  "influence": {
+    "2023": {
+      "leave_one_market_week": {
+        "readiness_gain_pp_pooled": [
+          -1.0295827113547952e-08,
+          -9.916773591313453e-09
+        ],
+        "median_carbon_gain_g_per_kwh": [
+          25.250313425115873,
+          31.931638235184558
+        ]
+      },
+      "leave_one_city": {
+        "readiness_gain_pp_pooled": [
+          -1.5759097923746088e-08,
+          -7.375697248684616e-09
+        ],
+        "median_carbon_gain_g_per_kwh": [
+          26.67392817878231,
+          27.174611045607953
+        ]
+      }
+    },
+    "2024": {
+      "leave_one_market_week": {
+        "readiness_gain_pp_pooled": [
+          -1.325410338688644e-08,
+          0.00011295741284088231
+        ],
+        "median_carbon_gain_g_per_kwh": [
+          32.50358851093446,
+          38.16666879933241
+        ]
+      },
+      "leave_one_city": {
+        "readiness_gain_pp_pooled": [
+          -9.55071313526156e-09,
+          0.0003387956153419673
+        ],
+        "median_carbon_gain_g_per_kwh": [
+          23.037379183399157,
+          48.37191075194795
+        ]
+      }
+    }
+  },
+  "persistence": {
+    "both_positive_readiness": 0,
+    "both_half_pp_readiness": 0,
+    "both_carbon_gain_5g": 69
+  },
+  "frontier": {
+    "2023|15|0.0|0.75|0.0": {
+      "site_weeks": 70,
+      "pooled_avoidable_shortfall_pct": 0.0006933972545729042,
+      "site_weeks_with_avoidable_shortfall_above_half_pp": 0,
+      "pooled_early_full_pct": 85.09501187648456,
+      "site_week_shortfall_pct": {
+        "q25": 0.0,
+        "median": 3.1937327017755465e-16,
+        "q75": 9.291189611137193e-16
+      }
+    },
+    "2023|15|0.0|0.75|0.125": {
+      "site_weeks": 70,
+      "pooled_avoidable_shortfall_pct": 8.069201417173412e-09,
+      "site_weeks_with_avoidable_shortfall_above_half_pp": 0,
+      "pooled_early_full_pct": 85.12470308788599,
+      "site_week_shortfall_pct": {
+        "q25": 2.2921558273812218e-09,
+        "median": 1.8818764857287455e-08,
+        "q75": 3.933596531143123e-08
+      }
+    },
+    "2023|15|0.0|0.75|0.5": {
+      "site_weeks": 70,
+      "pooled_avoidable_shortfall_pct": 8.069203963045721e-09,
+      "site_weeks_with_avoidable_shortfall_above_half_pp": 0,
+      "pooled_early_full_pct": 85.12470308788599,
+      "site_week_shortfall_pct": {
+        "q25": 2.2035263729646822e-09,
+        "median": 1.4330242987356215e-08,
+        "q75": 3.315334442920199e-08
+      }
+    },
+    "2023|15|0.0|0.9|0.0": {
+      "site_weeks": 70,
+      "pooled_avoidable_shortfall_pct": 0.07370292353791458,
+      "site_weeks_with_avoidable_shortfall_above_half_pp": 9,
+      "pooled_early_full_pct": 84.3230403800475,
+      "site_week_shortfall_pct": {
+        "q25": 0.0,
+        "median": 6.771318869984752e-16,
+        "q75": 0.00344420431957469
+      }
+    },
+    "2023|15|0.0|0.9|0.125": {
+      "site_weeks": 70,
+      "pooled_avoidable_shortfall_pct": 5.4809657799288606e-09,
+      "site_weeks_with_avoidable_shortfall_above_half_pp": 0,
+      "pooled_early_full_pct": 85.12470308788599,
+      "site_week_shortfall_pct": {
+        "q25": 1.563267925147187e-16,
+        "median": 6.1519227696560154e-09,
+        "q75": 2.5996845245780696e-08
+      }
+    },
+    "2023|15|0.0|0.9|0.5": {
+      "site_weeks": 70,
+      "pooled_avoidable_shortfall_pct": 7.764704833843101e-09,
+      "site_weeks_with_avoidable_shortfall_above_half_pp": 0,
+      "pooled_early_full_pct": 85.12470308788599,
+      "site_week_shortfall_pct": {
+        "q25": 8.448941499128102e-16,
+        "median": 1.2651891197722497e-08,
+        "q75": 3.650419581486712e-08
+      }
+    },
+    "2023|15|0.0|1.0|0.0": {
+      "site_weeks": 70,
+      "pooled_avoidable_shortfall_pct": 7.256362834647276,
+      "site_weeks_with_avoidable_shortfall_above_half_pp": 69,
+      "pooled_early_full_pct": 50.20783847980998,
+      "site_week_shortfall_pct": {
+        "q25": 4.272500215249551,
+        "median": 7.225711620734849,
+        "q75": 9.884786366011152
+      }
+    },
+    "2023|15|0.0|1.0|0.125": {
+      "site_weeks": 70,
+      "pooled_avoidable_shortfall_pct": 0.00047195574542918304,
+      "site_weeks_with_avoidable_shortfall_above_half_pp": 0,
+      "pooled_early_full_pct": 85.09501187648456,
+      "site_week_shortfall_pct": {
+        "q25": 0.0,
+        "median": 8.327490887302742e-16,
+        "q75": 1.2475181345632294e-08
+      }
+    },
+    "2023|15|0.0|1.0|0.5": {
+      "site_weeks": 70,
+      "pooled_avoidable_shortfall_pct": 6.5467090943188555e-09,
+      "site_weeks_with_avoidable_shortfall_above_half_pp": 0,
+      "pooled_early_full_pct": 85.12470308788599,
+      "site_week_shortfall_pct": {
+        "q25": 5.081216328366254e-16,
+        "median": 1.0029829814196365e-08,
+        "q75": 2.6125820943616383e-08
+      }
+    },
+    "2023|15|0.2|0.75|0.0": {
+      "site_weeks": 70,
+      "pooled_avoidable_shortfall_pct": 1.1925093836761747e-15,
+      "site_weeks_with_avoidable_shortfall_above_half_pp": 0,
+      "pooled_early_full_pct": 85.12470308788599,
+      "site_week_shortfall_pct": {
+        "q25": 7.56037726987286e-16,
+        "median": 1.4779097986980356e-15,
+        "q75": 3.1923936051172018e-15
+      }
+    },
+    "2023|15|0.2|0.75|0.125": {
+      "site_weeks": 70,
+      "pooled_avoidable_shortfall_pct": 9.896197182717047e-09,
+      "site_weeks_with_avoidable_shortfall_above_half_pp": 0,
+      "pooled_early_full_pct": 85.12470308788599,
+      "site_week_shortfall_pct": {
+        "q25": 9.834029870869586e-09,
+        "median": 2.104168751891054e-08,
+        "q75": 4.4286406214993486e-08
+      }
+    },
+    "2023|15|0.2|0.75|0.5": {
+      "site_weeks": 70,
+      "pooled_avoidable_shortfall_pct": 9.591693607508144e-09,
+      "site_weeks_with_avoidable_shortfall_above_half_pp": 0,
+      "pooled_early_full_pct": 85.12470308788599,
+      "site_week_shortfall_pct": {
+        "q25": 8.56690177388174e-09,
+        "median": 1.936670021769901e-08,
+        "q75": 4.204193596724363e-08
+      }
+    },
+    "2023|15|0.2|0.9|0.0": {
+      "site_weeks": 70,
+      "pooled_avoidable_shortfall_pct": 0.019587730356116634,
+      "site_weeks_with_avoidable_shortfall_above_half_pp": 4,
+      "pooled_early_full_pct": 84.29334916864607,
+      "site_week_shortfall_pct": {
+        "q25": 9.878032805051305e-16,
+        "median": 1.9602209425280183e-15,
+        "q75": 3.954349965227539e-15
+      }
+    },
+    "2023|15|0.2|0.9|0.125": {
+      "site_weeks": 70,
+      "pooled_avoidable_shortfall_pct": 9.591696838967706e-09,
+      "site_weeks_with_avoidable_shortfall_above_half_pp": 0,
+      "pooled_early_full_pct": 85.12470308788599,
+      "site_week_shortfall_pct": {
+        "q25": 9.834075214858501e-09,
+        "median": 2.1041674306618296e-08,
+        "q75": 4.428638468946637e-08
+      }
+    },
+    "2023|15|0.2|0.9|0.5": {
+      "site_weeks": 70,
+      "pooled_avoidable_shortfall_pct": 9.591696378254255e-09,
+      "site_weeks_with_avoidable_shortfall_above_half_pp": 0,
+      "pooled_early_full_pct": 85.12470308788599,
+      "site_week_shortfall_pct": {
+        "q25": 8.566930864639196e-09,
+        "median": 1.99296372866721e-08,
+        "q75": 4.2589492135110056e-08
+      }
+    },
+    "2023|15|0.2|1.0|0.0": {
+      "site_weeks": 70,
+      "pooled_avoidable_shortfall_pct": 5.923626464547661,
+      "site_weeks_with_avoidable_shortfall_above_half_pp": 70,
+      "pooled_early_full_pct": 51.157957244655584,
+      "site_week_shortfall_pct": {
+        "q25": 3.461892214944721,
+        "median": 5.858655565677154,
+        "q75": 8.36795474532217
+      }
+    },
+    "2023|15|0.2|1.0|0.125": {
+      "site_weeks": 70,
+      "pooled_avoidable_shortfall_pct": 8.525952677672084e-09,
+      "site_weeks_with_avoidable_shortfall_above_half_pp": 0,
+      "pooled_early_full_pct": 85.12470308788599,
+      "site_week_shortfall_pct": {
+        "q25": 6.837698137245142e-09,
+        "median": 1.936671396234131e-08,
+        "q75": 3.93359402828066e-08
+      }
+    },
+    "2023|15|0.2|1.0|0.5": {
+      "site_weeks": 70,
+      "pooled_avoidable_shortfall_pct": 9.287204886668565e-09,
+      "site_weeks_with_avoidable_shortfall_above_half_pp": 0,
+      "pooled_early_full_pct": 85.12470308788599,
+      "site_week_shortfall_pct": {
+        "q25": 8.007181998924204e-09,
+        "median": 1.9366724803081058e-08,
+        "q75": 4.258949717645883e-08
+      }
+    },
+    "2023|15|0.4|0.75|0.0": {
+      "site_weeks": 70,
+      "pooled_avoidable_shortfall_pct": 0.0007355101036369525,
+      "site_weeks_with_avoidable_shortfall_above_half_pp": 0,
+      "pooled_early_full_pct": 85.09501187648456,
+      "site_week_shortfall_pct": {
+        "q25": 7.067872716036899e-16,
+        "median": 1.269549066175695e-15,
+        "q75": 2.6840251809403364e-15
+      }
+    },
+    "2023|15|0.4|0.75|0.125": {
+      "site_weeks": 70,
+      "pooled_avoidable_shortfall_pct": 9.896184250434518e-09,
+      "site_weeks_with_avoidable_shortfall_above_half_pp": 0,
+      "pooled_early_full_pct": 85.12470308788599,
+      "site_week_shortfall_pct": {
+        "q25": 9.834038871855165e-09,
+        "median": 2.1041717293359356e-08,
+        "q75": 4.428644673630529e-08
+      }
+    },
+    "2023|15|0.4|0.75|0.5": {
+      "site_weeks": 70,
+      "pooled_avoidable_shortfall_pct": 9.89618491911873e-09,
+      "site_weeks_with_avoidable_shortfall_above_half_pp": 0,
+      "pooled_early_full_pct": 85.12470308788599,
+      "site_week_shortfall_pct": {
+        "q25": 9.777796162665365e-09,
+        "median": 2.0554231046392574e-08,
+        "q75": 4.258949419705424e-08
+      }
+    },
+    "2023|15|0.4|0.9|0.0": {
+      "site_weeks": 70,
+      "pooled_avoidable_shortfall_pct": 0.03187097413317727,
+      "site_weeks_with_avoidable_shortfall_above_half_pp": 7,
+      "pooled_early_full_pct": 84.23396674584323,
+      "site_week_shortfall_pct": {
+        "q25": 8.464220416645348e-16,
+        "median": 1.4956782319905617e-15,
+        "q75": 4.327199966673492e-15
+      }
+    },
+    "2023|15|0.4|0.9|0.125": {
+      "site_weeks": 70,
+      "pooled_avoidable_shortfall_pct": 9.896178973517108e-09,
+      "site_weeks_with_avoidable_shortfall_above_half_pp": 0,
+      "pooled_early_full_pct": 85.12470308788599,
+      "site_week_shortfall_pct": {
+        "q25": 9.834024046931126e-09,
+        "median": 2.1041685745213085e-08,
+        "q75": 4.4286428858019164e-08
+      }
+    },
+    "2023|15|0.4|0.9|0.5": {
+      "site_weeks": 70,
+      "pooled_avoidable_shortfall_pct": 9.896178883381656e-09,
+      "site_weeks_with_avoidable_shortfall_above_half_pp": 0,
+      "pooled_early_full_pct": 85.12470308788599,
+      "site_week_shortfall_pct": {
+        "q25": 9.777821456012966e-09,
+        "median": 2.05541975430366e-08,
+        "q75": 4.42864758950792e-08
+      }
+    },
+    "2023|15|0.4|1.0|0.0": {
+      "site_weeks": 70,
+      "pooled_avoidable_shortfall_pct": 4.670070034536389,
+      "site_weeks_with_avoidable_shortfall_above_half_pp": 69,
+      "pooled_early_full_pct": 57.69002375296912,
+      "site_week_shortfall_pct": {
+        "q25": 2.784838634639789,
+        "median": 5.003376805715807,
+        "q75": 7.180933253365419
+      }
+    },
+    "2023|15|0.4|1.0|0.125": {
+      "site_weeks": 70,
+      "pooled_avoidable_shortfall_pct": 9.743937301081927e-09,
+      "site_weeks_with_avoidable_shortfall_above_half_pp": 0,
+      "pooled_early_full_pct": 85.12470308788599,
+      "site_week_shortfall_pct": {
+        "q25": 9.777789802463866e-09,
+        "median": 2.055419620125311e-08,
+        "q75": 4.4286439566511816e-08
+      }
+    },
+    "2023|15|0.4|1.0|0.5": {
+      "site_weeks": 70,
+      "pooled_avoidable_shortfall_pct": 9.896183936249285e-09,
+      "site_weeks_with_avoidable_shortfall_above_half_pp": 0,
+      "pooled_early_full_pct": 85.12470308788599,
+      "site_week_shortfall_pct": {
+        "q25": 9.777805501971832e-09,
+        "median": 2.0554209955881317e-08,
+        "q75": 4.4286430119237683e-08
+      }
+    },
+    "2023|30|0.0|0.75|0.0": {
+      "site_weeks": 70,
+      "pooled_avoidable_shortfall_pct": 0.05311885927643239,
+      "site_weeks_with_avoidable_shortfall_above_half_pp": 8,
+      "pooled_early_full_pct": 77.90973871733966,
+      "site_week_shortfall_pct": {
+        "q25": 0.0,
+        "median": 3.4106072422478326e-16,
+        "q75": 1.3686524921439616e-15
+      }
+    },
+    "2023|30|0.0|0.75|0.125": {
+      "site_weeks": 70,
+      "pooled_avoidable_shortfall_pct": 6.3944609502594855e-09,
+      "site_weeks_with_avoidable_shortfall_above_half_pp": 0,
+      "pooled_early_full_pct": 78.26603325415677,
+      "site_week_shortfall_pct": {
+        "q25": 3.38365255978456e-16,
+        "median": 1.0317492780372952e-08,
+        "q75": 2.5879982937359434e-08
+      }
+    },
+    "2023|30|0.0|0.75|0.5": {
+      "site_weeks": 70,
+      "pooled_avoidable_shortfall_pct": 7.460199010804718e-09,
+      "site_weeks_with_avoidable_shortfall_above_half_pp": 0,
+      "pooled_early_full_pct": 78.26603325415677,
+      "site_week_shortfall_pct": {
+        "q25": 5.058653857567859e-16,
+        "median": 1.144550695142539e-08,
+        "q75": 3.315334400307717e-08
+      }
+    },
+    "2023|30|0.0|0.9|0.0": {
+      "site_weeks": 70,
+      "pooled_avoidable_shortfall_pct": 0.8807574659164183,
+      "site_weeks_with_avoidable_shortfall_above_half_pp": 30,
+      "pooled_early_full_pct": 74.94061757719714,
+      "site_week_shortfall_pct": {
+        "q25": 1.8226782295077593e-16,
+        "median": 0.06931403511753158,
+        "q75": 2.8801261904937987
+      }
+    },
+    "2023|30|0.0|0.9|0.125": {
+      "site_weeks": 70,
+      "pooled_avoidable_shortfall_pct": 4.719720303243682e-09,
+      "site_weeks_with_avoidable_shortfall_above_half_pp": 0,
+      "pooled_early_full_pct": 78.26603325415677,
+      "site_week_shortfall_pct": {
+        "q25": 2.7243954964511493e-17,
+        "median": 1.2960819406551166e-15,
+        "q75": 2.2071941736706018e-08
+      }
+    },
+    "2023|30|0.0|0.9|0.5": {
+      "site_weeks": 70,
+      "pooled_avoidable_shortfall_pct": 6.698959812415223e-09,
+      "site_weeks_with_avoidable_shortfall_above_half_pp": 0,
+      "pooled_early_full_pct": 78.26603325415677,
+      "site_week_shortfall_pct": {
+        "q25": 3.0437693599040854e-16,
+        "median": 1.0623279156642865e-08,
+        "q75": 3.315334546375219e-08
+      }
+    },
+    "2023|30|0.0|1.0|0.0": {
+      "site_weeks": 70,
+      "pooled_avoidable_shortfall_pct": 13.686376802071251,
+      "site_weeks_with_avoidable_shortfall_above_half_pp": 70,
+      "pooled_early_full_pct": 42.3396674584323,
+      "site_week_shortfall_pct": {
+        "q25": 7.436354872309004,
+        "median": 13.919994965215615,
+        "q75": 18.210642276404
+      }
+    },
+    "2023|30|0.0|1.0|0.125": {
+      "site_weeks": 70,
+      "pooled_avoidable_shortfall_pct": 0.019495527814667072,
+      "site_weeks_with_avoidable_shortfall_above_half_pp": 1,
+      "pooled_early_full_pct": 78.20665083135393,
+      "site_week_shortfall_pct": {
+        "q25": 0.0,
+        "median": 6.674194259347785e-16,
+        "q75": 1.064444812598274e-08
+      }
+    },
+    "2023|30|0.0|1.0|0.5": {
+      "site_weeks": 70,
+      "pooled_avoidable_shortfall_pct": 5.328718041838224e-09,
+      "site_weeks_with_avoidable_shortfall_above_half_pp": 0,
+      "pooled_early_full_pct": 78.26603325415677,
+      "site_week_shortfall_pct": {
+        "q25": 2.7247081883906025e-16,
+        "median": 1.2863590062230204e-09,
+        "q75": 2.216857764550432e-08
+      }
+    },
+    "2023|30|0.2|0.75|0.0": {
+      "site_weeks": 70,
+      "pooled_avoidable_shortfall_pct": 0.00894161955061862,
+      "site_weeks_with_avoidable_shortfall_above_half_pp": 2,
+      "pooled_early_full_pct": 77.85035629453682,
+      "site_week_shortfall_pct": {
+        "q25": 5.331417040803924e-16,
+        "median": 1.2212327170947016e-15,
+        "q75": 3.3087711198992626e-15
+      }
+    },
+    "2023|30|0.2|0.75|0.125": {
+      "site_weeks": 70,
+      "pooled_avoidable_shortfall_pct": 9.591687263628672e-09,
+      "site_weeks_with_avoidable_shortfall_above_half_pp": 0,
+      "pooled_early_full_pct": 78.26603325415677,
+      "site_week_shortfall_pct": {
+        "q25": 9.77781642588e-09,
+        "median": 2.0554207295056492e-08,
+        "q75": 4.338441015156965e-08
+      }
+    },
+    "2023|30|0.2|0.75|0.5": {
+      "site_weeks": 70,
+      "pooled_avoidable_shortfall_pct": 9.743943305072984e-09,
+      "site_weeks_with_avoidable_shortfall_above_half_pp": 0,
+      "pooled_early_full_pct": 78.26603325415677,
+      "site_week_shortfall_pct": {
+        "q25": 9.075586881035474e-09,
+        "median": 2.0554201426935616e-08,
+        "q75": 4.2589506708139556e-08
+      }
+    },
+    "2023|30|0.2|0.9|0.0": {
+      "site_weeks": 70,
+      "pooled_avoidable_shortfall_pct": 0.2668533995907349,
+      "site_weeks_with_avoidable_shortfall_above_half_pp": 21,
+      "pooled_early_full_pct": 74.1686460807601,
+      "site_week_shortfall_pct": {
+        "q25": 2.1869916747034046e-15,
+        "median": 0.23737237301855504,
+        "q75": 0.6891376461011041
+      }
+    },
+    "2023|30|0.2|0.9|0.125": {
+      "site_weeks": 70,
+      "pooled_avoidable_shortfall_pct": 9.134946884503453e-09,
+      "site_weeks_with_avoidable_shortfall_above_half_pp": 0,
+      "pooled_early_full_pct": 78.26603325415677,
+      "site_week_shortfall_pct": {
+        "q25": 8.566861344717583e-09,
+        "median": 1.992966649197191e-08,
+        "q75": 4.2589504570176854e-08
+      }
+    },
+    "2023|30|0.2|0.9|0.5": {
+      "site_weeks": 70,
+      "pooled_avoidable_shortfall_pct": 9.896188168051808e-09,
+      "site_weeks_with_avoidable_shortfall_above_half_pp": 0,
+      "pooled_early_full_pct": 78.26603325415677,
+      "site_week_shortfall_pct": {
+        "q25": 9.829733127584697e-09,
+        "median": 2.104171589183814e-08,
+        "q75": 4.4286398626701934e-08
+      }
+    },
+    "2023|30|0.2|1.0|0.0": {
+      "site_weeks": 70,
+      "pooled_avoidable_shortfall_pct": 11.265947978441217,
+      "site_weeks_with_avoidable_shortfall_above_half_pp": 70,
+      "pooled_early_full_pct": 39.78622327790974,
+      "site_week_shortfall_pct": {
+        "q25": 5.637453813250868,
+        "median": 11.442749025788604,
+        "q75": 15.703404870739577
+      }
+    },
+    "2023|30|0.2|1.0|0.125": {
+      "site_weeks": 70,
+      "pooled_avoidable_shortfall_pct": 8.22144885946087e-09,
+      "site_weeks_with_avoidable_shortfall_above_half_pp": 0,
+      "pooled_early_full_pct": 78.26603325415677,
+      "site_week_shortfall_pct": {
+        "q25": 6.081151782228505e-09,
+        "median": 1.936672848999887e-08,
+        "q75": 4.25895026863988e-08
+      }
+    },
+    "2023|30|0.2|1.0|0.5": {
+      "site_weeks": 70,
+      "pooled_avoidable_shortfall_pct": 9.287185922431014e-09,
+      "site_weeks_with_avoidable_shortfall_above_half_pp": 0,
+      "pooled_early_full_pct": 78.26603325415677,
+      "site_week_shortfall_pct": {
+        "q25": 8.007147433435445e-09,
+        "median": 1.936669326043895e-08,
+        "q75": 4.258949269069677e-08
+      }
+    },
+    "2023|30|0.4|0.75|0.0": {
+      "site_weeks": 70,
+      "pooled_avoidable_shortfall_pct": 0.006369908286846129,
+      "site_weeks_with_avoidable_shortfall_above_half_pp": 1,
+      "pooled_early_full_pct": 78.08788598574822,
+      "site_week_shortfall_pct": {
+        "q25": 4.973962755392452e-16,
+        "median": 1.148983461006586e-15,
+        "q75": 2.519168117931114e-15
+      }
+    },
+    "2023|30|0.4|0.75|0.125": {
+      "site_weeks": 70,
+      "pooled_avoidable_shortfall_pct": 9.743935945352576e-09,
+      "site_weeks_with_avoidable_shortfall_above_half_pp": 0,
+      "pooled_early_full_pct": 78.26603325415677,
+      "site_week_shortfall_pct": {
+        "q25": 9.834059351288458e-09,
+        "median": 2.1041694757298643e-08,
+        "q75": 4.428645428110009e-08
+      }
+    },
+    "2023|30|0.4|0.75|0.5": {
+      "site_weeks": 70,
+      "pooled_avoidable_shortfall_pct": 1.0048441187496902e-08,
+      "site_weeks_with_avoidable_shortfall_above_half_pp": 0,
+      "pooled_early_full_pct": 78.26603325415677,
+      "site_week_shortfall_pct": {
+        "q25": 9.834081533714548e-09,
+        "median": 2.104170569914332e-08,
+        "q75": 4.258948731653346e-08
+      }
+    },
+    "2023|30|0.4|0.9|0.0": {
+      "site_weeks": 70,
+      "pooled_avoidable_shortfall_pct": 0.29267800539189515,
+      "site_weeks_with_avoidable_shortfall_above_half_pp": 28,
+      "pooled_early_full_pct": 74.8812351543943,
+      "site_week_shortfall_pct": {
+        "q25": 2.0666728048044457e-15,
+        "median": 0.228407397250532,
+        "q75": 1.070708553726975
+      }
+    },
+    "2023|30|0.4|0.9|0.125": {
+      "site_weeks": 70,
+      "pooled_avoidable_shortfall_pct": 9.439439899940344e-09,
+      "site_weeks_with_avoidable_shortfall_above_half_pp": 0,
+      "pooled_early_full_pct": 78.26603325415677,
+      "site_week_shortfall_pct": {
+        "q25": 9.075507553672345e-09,
+        "median": 1.9929676807272125e-08,
+        "q75": 4.258953984915739e-08
+      }
+    },
+    "2023|30|0.4|0.9|0.5": {
+      "site_weeks": 70,
+      "pooled_avoidable_shortfall_pct": 1.0048431747487822e-08,
+      "site_weeks_with_avoidable_shortfall_above_half_pp": 0,
+      "pooled_early_full_pct": 78.26603325415677,
+      "site_week_shortfall_pct": {
+        "q25": 9.834094495982206e-09,
+        "median": 2.104169394952821e-08,
+        "q75": 4.428641492784375e-08
+      }
+    },
+    "2023|30|0.4|1.0|0.0": {
+      "site_weeks": 70,
+      "pooled_avoidable_shortfall_pct": 8.909635913765483,
+      "site_weeks_with_avoidable_shortfall_above_half_pp": 70,
+      "pooled_early_full_pct": 47.47624703087886,
+      "site_week_shortfall_pct": {
+        "q25": 4.960592175598741,
+        "median": 9.704307676783404,
+        "q75": 14.64720298164661
+      }
+    },
+    "2023|30|0.4|1.0|0.125": {
+      "site_weeks": 70,
+      "pooled_avoidable_shortfall_pct": 9.287194021014938e-09,
+      "site_weeks_with_avoidable_shortfall_above_half_pp": 0,
+      "pooled_early_full_pct": 78.26603325415677,
+      "site_week_shortfall_pct": {
+        "q25": 9.075537708252633e-09,
+        "median": 1.992967625961054e-08,
+        "q75": 4.2589538882581694e-08
+      }
+    },
+    "2023|30|0.4|1.0|0.5": {
+      "site_weeks": 70,
+      "pooled_avoidable_shortfall_pct": 9.896182309120518e-09,
+      "site_weeks_with_avoidable_shortfall_above_half_pp": 0,
+      "pooled_early_full_pct": 78.26603325415677,
+      "site_week_shortfall_pct": {
+        "q25": 9.777804662183346e-09,
+        "median": 2.055422576352619e-08,
+        "q75": 4.4286416086690034e-08
+      }
+    },
+    "2023|60|0.0|0.75|0.0": {
+      "site_weeks": 70,
+      "pooled_avoidable_shortfall_pct": 0.6413417407688699,
+      "site_weeks_with_avoidable_shortfall_above_half_pp": 21,
+      "pooled_early_full_pct": 61.40142517814727,
+      "site_week_shortfall_pct": {
+        "q25": 3.23019156955704e-17,
+        "median": 7.398927489978762e-16,
+        "q75": 1.2222684976127098
+      }
+    },
+    "2023|60|0.0|0.75|0.125": {
+      "site_weeks": 70,
+      "pooled_avoidable_shortfall_pct": 6.089968973049492e-09,
+      "site_weeks_with_avoidable_shortfall_above_half_pp": 0,
+      "pooled_early_full_pct": 63.00475059382423,
+      "site_week_shortfall_pct": {
+        "q25": 2.9087692683743047e-16,
+        "median": 7.175493477156489e-09,
+        "q75": 2.4900269364799886e-08
+      }
+    },
+    "2023|60|0.0|0.75|0.5": {
+      "site_weeks": 70,
+      "pooled_avoidable_shortfall_pct": 7.61246066913937e-09,
+      "site_weeks_with_avoidable_shortfall_above_half_pp": 0,
+      "pooled_early_full_pct": 63.00475059382423,
+      "site_week_shortfall_pct": {
+        "q25": 1.7755555303573436e-15,
+        "median": 1.4330270513245291e-08,
+        "q75": 3.6504168114048865e-08
+      }
+    },
+    "2023|60|0.0|0.9|0.0": {
+      "site_weeks": 70,
+      "pooled_avoidable_shortfall_pct": 4.240390426183317,
+      "site_weeks_with_avoidable_shortfall_above_half_pp": 53,
+      "pooled_early_full_pct": 54.0083135391924,
+      "site_week_shortfall_pct": {
+        "q25": 0.6317084626388864,
+        "median": 3.1912703986344293,
+        "q75": 7.732246536761295
+      }
+    },
+    "2023|60|0.0|0.9|0.125": {
+      "site_weeks": 70,
+      "pooled_avoidable_shortfall_pct": 0.006553924486816533,
+      "site_weeks_with_avoidable_shortfall_above_half_pp": 1,
+      "pooled_early_full_pct": 62.94536817102138,
+      "site_week_shortfall_pct": {
+        "q25": 1.878163033330927e-16,
+        "median": 8.273732962298458e-16,
+        "q75": 1.7413077381637656e-08
+      }
+    },
+    "2023|60|0.0|0.9|0.5": {
+      "site_weeks": 70,
+      "pooled_avoidable_shortfall_pct": 5.937715057067223e-09,
+      "site_weeks_with_avoidable_shortfall_above_half_pp": 0,
+      "pooled_early_full_pct": 63.00475059382423,
+      "site_week_shortfall_pct": {
+        "q25": 3.5081013144188997e-16,
+        "median": 7.175480162498004e-09,
+        "q75": 2.49002615884179e-08
+      }
+    },
+    "2023|60|0.0|1.0|0.0": {
+      "site_weeks": 70,
+      "pooled_avoidable_shortfall_pct": 21.73645939650821,
+      "site_weeks_with_avoidable_shortfall_above_half_pp": 70,
+      "pooled_early_full_pct": 31.53206650831354,
+      "site_week_shortfall_pct": {
+        "q25": 11.38666310609138,
+        "median": 20.443160017585328,
+        "q75": 27.332064240825908
+      }
+    },
+    "2023|60|0.0|1.0|0.125": {
+      "site_weeks": 70,
+      "pooled_avoidable_shortfall_pct": 0.10893515815183928,
+      "site_weeks_with_avoidable_shortfall_above_half_pp": 3,
+      "pooled_early_full_pct": 62.67814726840855,
+      "site_week_shortfall_pct": {
+        "q25": 1.2587124230231494e-16,
+        "median": 5.5847695974725085e-16,
+        "q75": 9.898496150843812e-09
+      }
+    },
+    "2023|60|0.0|1.0|0.5": {
+      "site_weeks": 70,
+      "pooled_avoidable_shortfall_pct": 4.415226458966285e-09,
+      "site_weeks_with_avoidable_shortfall_above_half_pp": 0,
+      "pooled_early_full_pct": 63.00475059382423,
+      "site_week_shortfall_pct": {
+        "q25": 1.403788764579075e-16,
+        "median": 1.1549726716147782e-15,
+        "q75": 1.864221374471532e-08
+      }
+    },
+    "2023|60|0.2|0.75|0.0": {
+      "site_weeks": 70,
+      "pooled_avoidable_shortfall_pct": 0.19025728783391302,
+      "site_weeks_with_avoidable_shortfall_above_half_pp": 15,
+      "pooled_early_full_pct": 61.07482185273159,
+      "site_week_shortfall_pct": {
+        "q25": 7.821445768197554e-16,
+        "median": 2.0950426801492057e-15,
+        "q75": 0.1784262220802532
+      }
+    },
+    "2023|60|0.2|0.75|0.125": {
+      "site_weeks": 70,
+      "pooled_avoidable_shortfall_pct": 9.439441494995595e-09,
+      "site_weeks_with_avoidable_shortfall_above_half_pp": 0,
+      "pooled_early_full_pct": 63.00475059382423,
+      "site_week_shortfall_pct": {
+        "q25": 9.075623962346795e-09,
+        "median": 1.992967094636357e-08,
+        "q75": 4.2589495344665476e-08
+      }
+    },
+    "2023|60|0.2|0.75|0.5": {
+      "site_weeks": 70,
+      "pooled_avoidable_shortfall_pct": 9.896196042247893e-09,
+      "site_weeks_with_avoidable_shortfall_above_half_pp": 0,
+      "pooled_early_full_pct": 63.00475059382423,
+      "site_week_shortfall_pct": {
+        "q25": 9.82971657551402e-09,
+        "median": 2.1041700077205426e-08,
+        "q75": 4.428641431494618e-08
+      }
+    },
+    "2023|60|0.2|0.9|0.0": {
+      "site_weeks": 70,
+      "pooled_avoidable_shortfall_pct": 2.020252351235386,
+      "site_weeks_with_avoidable_shortfall_above_half_pp": 58,
+      "pooled_early_full_pct": 52.70190023752969,
+      "site_week_shortfall_pct": {
+        "q25": 0.8005691556756015,
+        "median": 1.9146938756544207,
+        "q75": 3.1004442426521552
+      }
+    },
+    "2023|60|0.2|0.9|0.125": {
+      "site_weeks": 70,
+      "pooled_avoidable_shortfall_pct": 8.678192933674875e-09,
+      "site_weeks_with_avoidable_shortfall_above_half_pp": 0,
+      "pooled_early_full_pct": 63.00475059382423,
+      "site_week_shortfall_pct": {
+        "q25": 6.2494998323961125e-09,
+        "median": 1.9366733640432332e-08,
+        "q75": 4.258951045773481e-08
+      }
+    },
+    "2023|60|0.2|0.9|0.5": {
+      "site_weeks": 70,
+      "pooled_avoidable_shortfall_pct": 9.59169752926668e-09,
+      "site_weeks_with_avoidable_shortfall_above_half_pp": 0,
+      "pooled_early_full_pct": 63.00475059382423,
+      "site_week_shortfall_pct": {
+        "q25": 8.56687483314076e-09,
+        "median": 1.9929679924037104e-08,
+        "q75": 4.428642020801976e-08
+      }
+    },
+    "2023|60|0.2|1.0|0.0": {
+      "site_weeks": 70,
+      "pooled_avoidable_shortfall_pct": 18.53334480999449,
+      "site_weeks_with_avoidable_shortfall_above_half_pp": 70,
+      "pooled_early_full_pct": 28.859857482185273,
+      "site_week_shortfall_pct": {
+        "q25": 9.815837619489056,
+        "median": 19.397139096554397,
+        "q75": 24.40566721632026
+      }
+    },
+    "2023|60|0.2|1.0|0.125": {
+      "site_weeks": 70,
+      "pooled_avoidable_shortfall_pct": 7.612450252810772e-09,
+      "site_weeks_with_avoidable_shortfall_above_half_pp": 0,
+      "pooled_early_full_pct": 63.00475059382423,
+      "site_week_shortfall_pct": {
+        "q25": 2.4208316827340397e-15,
+        "median": 1.7150963278464415e-08,
+        "q75": 3.76387952212251e-08
+      }
+    },
+    "2023|60|0.2|1.0|0.5": {
+      "site_weeks": 70,
+      "pooled_avoidable_shortfall_pct": 9.13494949036042e-09,
+      "site_weeks_with_avoidable_shortfall_above_half_pp": 0,
+      "pooled_early_full_pct": 63.00475059382423,
+      "site_week_shortfall_pct": {
+        "q25": 6.83763596004703e-09,
+        "median": 1.9114301356456612e-08,
+        "q75": 4.2589501313404026e-08
+      }
+    },
+    "2023|60|0.4|0.75|0.0": {
+      "site_weeks": 70,
+      "pooled_avoidable_shortfall_pct": 0.19990091650240685,
+      "site_weeks_with_avoidable_shortfall_above_half_pp": 19,
+      "pooled_early_full_pct": 61.22327790973872,
+      "site_week_shortfall_pct": {
+        "q25": 7.287193667836874e-16,
+        "median": 1.8321280471063277e-15,
+        "q75": 0.5894573845420438
+      }
+    },
+    "2023|60|0.4|0.75|0.125": {
+      "site_weeks": 70,
+      "pooled_avoidable_shortfall_pct": 9.439444508469342e-09,
+      "site_weeks_with_avoidable_shortfall_above_half_pp": 0,
+      "pooled_early_full_pct": 63.00475059382423,
+      "site_week_shortfall_pct": {
+        "q25": 9.075521914500072e-09,
+        "median": 1.992967434160722e-08,
+        "q75": 3.933594850471504e-08
+      }
+    },
+    "2023|60|0.4|0.75|0.5": {
+      "site_weeks": 70,
+      "pooled_avoidable_shortfall_pct": 9.896191905905283e-09,
+      "site_weeks_with_avoidable_shortfall_above_half_pp": 0,
+      "pooled_early_full_pct": 63.00475059382423,
+      "site_week_shortfall_pct": {
+        "q25": 9.777806648698921e-09,
+        "median": 2.0554210238823177e-08,
+        "q75": 4.428643134653649e-08
+      }
+    },
+    "2023|60|0.4|0.9|0.0": {
+      "site_weeks": 70,
+      "pooled_avoidable_shortfall_pct": 2.0340398883810034,
+      "site_weeks_with_avoidable_shortfall_above_half_pp": 58,
+      "pooled_early_full_pct": 54.21615201900237,
+      "site_week_shortfall_pct": {
+        "q25": 0.8768028165981939,
+        "median": 1.9216943662451964,
+        "q75": 3.9604643464211997
+      }
+    },
+    "2023|60|0.4|0.9|0.125": {
+      "site_weeks": 70,
+      "pooled_avoidable_shortfall_pct": 9.43944258355129e-09,
+      "site_weeks_with_avoidable_shortfall_above_half_pp": 0,
+      "pooled_early_full_pct": 63.00475059382423,
+      "site_week_shortfall_pct": {
+        "q25": 9.075516674437169e-09,
+        "median": 1.9929665994807417e-08,
+        "q75": 4.2589500349439696e-08
+      }
+    },
+    "2023|60|0.4|0.9|0.5": {
+      "site_weeks": 70,
+      "pooled_avoidable_shortfall_pct": 9.896192945611196e-09,
+      "site_weeks_with_avoidable_shortfall_above_half_pp": 0,
+      "pooled_early_full_pct": 63.00475059382423,
+      "site_week_shortfall_pct": {
+        "q25": 9.777828099463214e-09,
+        "median": 2.055420439696263e-08,
+        "q75": 4.4286447873848486e-08
+      }
+    },
+    "2023|60|0.4|1.0|0.0": {
+      "site_weeks": 70,
+      "pooled_avoidable_shortfall_pct": 15.009065325468285,
+      "site_weeks_with_avoidable_shortfall_above_half_pp": 70,
+      "pooled_early_full_pct": 34.441805225653205,
+      "site_week_shortfall_pct": {
+        "q25": 8.250529635006508,
+        "median": 15.69417098159979,
+        "q75": 23.15893057750925
+      }
+    },
+    "2023|60|0.4|1.0|0.125": {
+      "site_weeks": 70,
+      "pooled_avoidable_shortfall_pct": 0.050979491797149626,
+      "site_weeks_with_avoidable_shortfall_above_half_pp": 6,
+      "pooled_early_full_pct": 62.589073634204276,
+      "site_week_shortfall_pct": {
+        "q25": 9.076960961638733e-09,
+        "median": 2.0554221120761174e-08,
+        "q75": 4.748748154719873e-08
+      }
+    },
+    "2023|60|0.4|1.0|0.5": {
+      "site_weeks": 70,
+      "pooled_avoidable_shortfall_pct": 9.89618928779361e-09,
+      "site_weeks_with_avoidable_shortfall_above_half_pp": 0,
+      "pooled_early_full_pct": 63.00475059382423,
+      "site_week_shortfall_pct": {
+        "q25": 9.77783135833862e-09,
+        "median": 2.0554209445157693e-08,
+        "q75": 4.4286436803784276e-08
+      }
+    },
+    "2024|15|0.0|0.75|0.0": {
+      "site_weeks": 70,
+      "pooled_avoidable_shortfall_pct": 0.011035075045631735,
+      "site_weeks_with_avoidable_shortfall_above_half_pp": 4,
+      "pooled_early_full_pct": 84.67836257309942,
+      "site_week_shortfall_pct": {
+        "q25": 0.0,
+        "median": 2.884664949316038e-16,
+        "q75": 1.34772801297748e-15
+      }
+    },
+    "2024|15|0.0|0.75|0.125": {
+      "site_weeks": 70,
+      "pooled_avoidable_shortfall_pct": 1.1523217520305395e-08,
+      "site_weeks_with_avoidable_shortfall_above_half_pp": 0,
+      "pooled_early_full_pct": 84.87329434697855,
+      "site_week_shortfall_pct": {
+        "q25": 4.855651942706959e-09,
+        "median": 2.0242152021337192e-08,
+        "q75": 3.9633927970576345e-08
+      }
+    },
+    "2024|15|0.0|0.75|0.5": {
+      "site_weeks": 70,
+      "pooled_avoidable_shortfall_pct": 1.0714566034162636e-08,
+      "site_weeks_with_avoidable_shortfall_above_half_pp": 0,
+      "pooled_early_full_pct": 84.87329434697855,
+      "site_week_shortfall_pct": {
+        "q25": 3.6088183793962394e-09,
+        "median": 1.2208611657078032e-08,
+        "q75": 3.1880507816272904e-08
+      }
+    },
+    "2024|15|0.0|0.9|0.0": {
+      "site_weeks": 70,
+      "pooled_avoidable_shortfall_pct": 0.1707666332686788,
+      "site_weeks_with_avoidable_shortfall_above_half_pp": 18,
+      "pooled_early_full_pct": 83.46978557504873,
+      "site_week_shortfall_pct": {
+        "q25": 0.0,
+        "median": 6.348753000809945e-16,
+        "q75": 0.5382507811899029
+      }
+    },
+    "2024|15|0.0|0.9|0.125": {
+      "site_weeks": 70,
+      "pooled_avoidable_shortfall_pct": 9.703761897923572e-09,
+      "site_weeks_with_avoidable_shortfall_above_half_pp": 0,
+      "pooled_early_full_pct": 84.87329434697855,
+      "site_week_shortfall_pct": {
+        "q25": 9.260208705777898e-16,
+        "median": 1.2945346401651147e-08,
+        "q75": 3.910971158079846e-08
+      }
+    },
+    "2024|15|0.0|0.9|0.5": {
+      "site_weeks": 70,
+      "pooled_avoidable_shortfall_pct": 1.0310246528411485e-08,
+      "site_weeks_with_avoidable_shortfall_above_half_pp": 0,
+      "pooled_early_full_pct": 84.87329434697855,
+      "site_week_shortfall_pct": {
+        "q25": 3.637519984535885e-14,
+        "median": 1.4995925055088303e-08,
+        "q75": 3.320080772591365e-08
+      }
+    },
+    "2024|15|0.0|1.0|0.0": {
+      "site_weeks": 70,
+      "pooled_avoidable_shortfall_pct": 7.584710108020356,
+      "site_weeks_with_avoidable_shortfall_above_half_pp": 70,
+      "pooled_early_full_pct": 50.175438596491226,
+      "site_week_shortfall_pct": {
+        "q25": 2.9473246657979537,
+        "median": 7.065441068099615,
+        "q75": 10.13972247639572
+      }
+    },
+    "2024|15|0.0|1.0|0.125": {
+      "site_weeks": 70,
+      "pooled_avoidable_shortfall_pct": 7.88429957810974e-09,
+      "site_weeks_with_avoidable_shortfall_above_half_pp": 0,
+      "pooled_early_full_pct": 84.87329434697855,
+      "site_week_shortfall_pct": {
+        "q25": 2.6636868951083023e-16,
+        "median": 5.113174794627516e-09,
+        "q75": 2.768011393723365e-08
+      }
+    },
+    "2024|15|0.0|1.0|0.5": {
+      "site_weeks": 70,
+      "pooled_avoidable_shortfall_pct": 9.501594616721439e-09,
+      "site_weeks_with_avoidable_shortfall_above_half_pp": 0,
+      "pooled_early_full_pct": 84.87329434697855,
+      "site_week_shortfall_pct": {
+        "q25": 1.1307949087725382e-15,
+        "median": 1.2133204571070044e-08,
+        "q75": 3.320079715292854e-08
+      }
+    },
+    "2024|15|0.2|0.75|0.0": {
+      "site_weeks": 70,
+      "pooled_avoidable_shortfall_pct": 0.004577012660562281,
+      "site_weeks_with_avoidable_shortfall_above_half_pp": 1,
+      "pooled_early_full_pct": 84.7953216374269,
+      "site_week_shortfall_pct": {
+        "q25": 7.099270143991249e-16,
+        "median": 1.4648516827935022e-15,
+        "q75": 3.2291118349767623e-15
+      }
+    },
+    "2024|15|0.2|0.75|0.125": {
+      "site_weeks": 70,
+      "pooled_avoidable_shortfall_pct": 1.2938348291559366e-08,
+      "site_weeks_with_avoidable_shortfall_above_half_pp": 0,
+      "pooled_early_full_pct": 84.87329434697855,
+      "site_week_shortfall_pct": {
+        "q25": 6.970248492407816e-09,
+        "median": 2.3113248054590565e-08,
+        "q75": 4.3114082370426716e-08
+      }
+    },
+    "2024|15|0.2|0.75|0.5": {
+      "site_weeks": 70,
+      "pooled_avoidable_shortfall_pct": 1.3746998997532094e-08,
+      "site_weeks_with_avoidable_shortfall_above_half_pp": 0,
+      "pooled_early_full_pct": 84.87329434697855,
+      "site_week_shortfall_pct": {
+        "q25": 9.63800441961704e-09,
+        "median": 2.588995566967234e-08,
+        "q75": 4.447036964170729e-08
+      }
+    },
+    "2024|15|0.2|0.9|0.0": {
+      "site_weeks": 70,
+      "pooled_avoidable_shortfall_pct": 0.060389196312501045,
+      "site_weeks_with_avoidable_shortfall_above_half_pp": 8,
+      "pooled_early_full_pct": 83.4307992202729,
+      "site_week_shortfall_pct": {
+        "q25": 9.114958150634168e-16,
+        "median": 2.2035507946608923e-15,
+        "q75": 0.12017510757215552
+      }
+    },
+    "2024|15|0.2|0.9|0.125": {
+      "site_weeks": 70,
+      "pooled_avoidable_shortfall_pct": 1.2736195545400695e-08,
+      "site_weeks_with_avoidable_shortfall_above_half_pp": 0,
+      "pooled_early_full_pct": 84.87329434697855,
+      "site_week_shortfall_pct": {
+        "q25": 9.102194744663445e-09,
+        "median": 2.5889965973035803e-08,
+        "q75": 4.4470381676277874e-08
+      }
+    },
+    "2024|15|0.2|0.9|0.5": {
+      "site_weeks": 70,
+      "pooled_avoidable_shortfall_pct": 1.3140509691410683e-08,
+      "site_weeks_with_avoidable_shortfall_above_half_pp": 0,
+      "pooled_early_full_pct": 84.87329434697855,
+      "site_week_shortfall_pct": {
+        "q25": 7.811466955972476e-09,
+        "median": 2.5889959906473917e-08,
+        "q75": 4.447037021633229e-08
+      }
+    },
+    "2024|15|0.2|1.0|0.0": {
+      "site_weeks": 70,
+      "pooled_avoidable_shortfall_pct": 6.481678405740578,
+      "site_weeks_with_avoidable_shortfall_above_half_pp": 70,
+      "pooled_early_full_pct": 49.317738791423004,
+      "site_week_shortfall_pct": {
+        "q25": 2.7784112560059695,
+        "median": 5.499948216200597,
+        "q75": 9.090844898064256
+      }
+    },
+    "2024|15|0.2|1.0|0.125": {
+      "site_weeks": 70,
+      "pooled_avoidable_shortfall_pct": 1.1927547451067337e-08,
+      "site_weeks_with_avoidable_shortfall_above_half_pp": 0,
+      "pooled_early_full_pct": 84.87329434697855,
+      "site_week_shortfall_pct": {
+        "q25": 6.970245250461802e-09,
+        "median": 2.588997685779167e-08,
+        "q75": 4.447037101004051e-08
+      }
+    },
+    "2024|15|0.2|1.0|0.5": {
+      "site_weeks": 70,
+      "pooled_avoidable_shortfall_pct": 1.2736197282603231e-08,
+      "site_weeks_with_avoidable_shortfall_above_half_pp": 0,
+      "pooled_early_full_pct": 84.87329434697855,
+      "site_week_shortfall_pct": {
+        "q25": 7.811467502748582e-09,
+        "median": 2.588998009810607e-08,
+        "q75": 4.4470377722759415e-08
+      }
+    },
+    "2024|15|0.4|0.75|0.0": {
+      "site_weeks": 70,
+      "pooled_avoidable_shortfall_pct": 0.0038317810109700246,
+      "site_weeks_with_avoidable_shortfall_above_half_pp": 1,
+      "pooled_early_full_pct": 84.7953216374269,
+      "site_week_shortfall_pct": {
+        "q25": 1.309900522983815e-16,
+        "median": 1.0252321118202357e-15,
+        "q75": 2.560979579172353e-15
+      }
+    },
+    "2024|15|0.4|0.75|0.125": {
+      "site_weeks": 70,
+      "pooled_avoidable_shortfall_pct": 1.3140505804925002e-08,
+      "site_weeks_with_avoidable_shortfall_above_half_pp": 0,
+      "pooled_early_full_pct": 84.87329434697855,
+      "site_week_shortfall_pct": {
+        "q25": 7.2410070194573236e-09,
+        "median": 2.3113218790576765e-08,
+        "q75": 4.3325496443358285e-08
+      }
+    },
+    "2024|15|0.4|0.75|0.5": {
+      "site_weeks": 70,
+      "pooled_avoidable_shortfall_pct": 1.3544832047891e-08,
+      "site_weeks_with_avoidable_shortfall_above_half_pp": 0,
+      "pooled_early_full_pct": 84.87329434697855,
+      "site_week_shortfall_pct": {
+        "q25": 9.102171999232594e-09,
+        "median": 2.5889949783798122e-08,
+        "q75": 4.447038462388895e-08
+      }
+    },
+    "2024|15|0.4|0.9|0.0": {
+      "site_weeks": 70,
+      "pooled_avoidable_shortfall_pct": 0.058379673368666514,
+      "site_weeks_with_avoidable_shortfall_above_half_pp": 8,
+      "pooled_early_full_pct": 83.74269005847954,
+      "site_week_shortfall_pct": {
+        "q25": 1.0151508251580514e-15,
+        "median": 2.3913936494406697e-15,
+        "q75": 0.0686731960580839
+      }
+    },
+    "2024|15|0.4|0.9|0.125": {
+      "site_weeks": 70,
+      "pooled_avoidable_shortfall_pct": 1.2938343147285182e-08,
+      "site_weeks_with_avoidable_shortfall_above_half_pp": 0,
+      "pooled_early_full_pct": 84.87329434697855,
+      "site_week_shortfall_pct": {
+        "q25": 7.811437245810204e-09,
+        "median": 2.5889973682503173e-08,
+        "q75": 4.447037977838766e-08
+      }
+    },
+    "2024|15|0.4|0.9|0.5": {
+      "site_weeks": 70,
+      "pooled_avoidable_shortfall_pct": 1.3544834769676646e-08,
+      "site_weeks_with_avoidable_shortfall_above_half_pp": 0,
+      "pooled_early_full_pct": 84.87329434697855,
+      "site_week_shortfall_pct": {
+        "q25": 9.637984559822329e-09,
+        "median": 2.5889957142168755e-08,
+        "q75": 4.447038976421408e-08
+      }
+    },
+    "2024|15|0.4|1.0|0.0": {
+      "site_weeks": 70,
+      "pooled_avoidable_shortfall_pct": 5.6347029616024935,
+      "site_weeks_with_avoidable_shortfall_above_half_pp": 70,
+      "pooled_early_full_pct": 54.113060428849906,
+      "site_week_shortfall_pct": {
+        "q25": 2.5174344266895465,
+        "median": 4.865829286706367,
+        "q75": 8.391063926774681
+      }
+    },
+    "2024|15|0.4|1.0|0.125": {
+      "site_weeks": 70,
+      "pooled_avoidable_shortfall_pct": 1.2129708199131037e-08,
+      "site_weeks_with_avoidable_shortfall_above_half_pp": 0,
+      "pooled_early_full_pct": 84.87329434697855,
+      "site_week_shortfall_pct": {
+        "q25": 6.97023653414706e-09,
+        "median": 2.448151708858526e-08,
+        "q75": 4.35583492296109e-08
+      }
+    },
+    "2024|15|0.4|1.0|0.5": {
+      "site_weeks": 70,
+      "pooled_avoidable_shortfall_pct": 1.273618912807576e-08,
+      "site_weeks_with_avoidable_shortfall_above_half_pp": 0,
+      "pooled_early_full_pct": 84.87329434697855,
+      "site_week_shortfall_pct": {
+        "q25": 7.811433731449259e-09,
+        "median": 2.5889936188456534e-08,
+        "q75": 4.4470382265298286e-08
+      }
+    },
+    "2024|30|0.0|0.75|0.0": {
+      "site_weeks": 70,
+      "pooled_avoidable_shortfall_pct": 0.09906980081050754,
+      "site_weeks_with_avoidable_shortfall_above_half_pp": 12,
+      "pooled_early_full_pct": 77.85575048732943,
+      "site_week_shortfall_pct": {
+        "q25": 0.0,
+        "median": 8.028757678811214e-16,
+        "q75": 2.5412299261112026e-15
+      }
+    },
+    "2024|30|0.0|0.75|0.125": {
+      "site_weeks": 70,
+      "pooled_avoidable_shortfall_pct": 1.1321062639901384e-08,
+      "site_weeks_with_avoidable_shortfall_above_half_pp": 0,
+      "pooled_early_full_pct": 78.3625730994152,
+      "site_week_shortfall_pct": {
+        "q25": 4.855703119181286e-09,
+        "median": 2.02421482894819e-08,
+        "q75": 3.9633921196914104e-08
+      }
+    },
+    "2024|30|0.0|0.75|0.5": {
+      "site_weeks": 70,
+      "pooled_avoidable_shortfall_pct": 1.0310250751339878e-08,
+      "site_weeks_with_avoidable_shortfall_above_half_pp": 0,
+      "pooled_early_full_pct": 78.3625730994152,
+      "site_week_shortfall_pct": {
+        "q25": 4.303653479005327e-15,
+        "median": 1.3220218491417254e-08,
+        "q75": 3.100611745328004e-08
+      }
+    },
+    "2024|30|0.0|0.9|0.0": {
+      "site_weeks": 70,
+      "pooled_avoidable_shortfall_pct": 1.6584231529419773,
+      "site_weeks_with_avoidable_shortfall_above_half_pp": 44,
+      "pooled_early_full_pct": 72.28070175438596,
+      "site_week_shortfall_pct": {
+        "q25": 8.583435885422423e-16,
+        "median": 1.5479756197788226,
+        "q75": 2.6417795311069288
+      }
+    },
+    "2024|30|0.0|0.9|0.125": {
+      "site_weeks": 70,
+      "pooled_avoidable_shortfall_pct": 8.490799565782316e-09,
+      "site_weeks_with_avoidable_shortfall_above_half_pp": 0,
+      "pooled_early_full_pct": 78.3625730994152,
+      "site_week_shortfall_pct": {
+        "q25": 8.112553279218646e-16,
+        "median": 6.891409267271582e-09,
+        "q75": 3.1561161857592333e-08
+      }
+    },
+    "2024|30|0.0|0.9|0.5": {
+      "site_weeks": 70,
+      "pooled_avoidable_shortfall_pct": 9.29944695266575e-09,
+      "site_weeks_with_avoidable_shortfall_above_half_pp": 0,
+      "pooled_early_full_pct": 78.3625730994152,
+      "site_week_shortfall_pct": {
+        "q25": 2.179164341580831e-15,
+        "median": 9.840378903483313e-09,
+        "q75": 3.1006130522662377e-08
+      }
+    },
+    "2024|30|0.0|1.0|0.0": {
+      "site_weeks": 70,
+      "pooled_avoidable_shortfall_pct": 14.060255633984815,
+      "site_weeks_with_avoidable_shortfall_above_half_pp": 70,
+      "pooled_early_full_pct": 43.23586744639376,
+      "site_week_shortfall_pct": {
+        "q25": 4.870143647668804,
+        "median": 13.497068102587573,
+        "q75": 19.05370209033301
+      }
+    },
+    "2024|30|0.0|1.0|0.125": {
+      "site_weeks": 70,
+      "pooled_avoidable_shortfall_pct": 7.277828989560124e-09,
+      "site_weeks_with_avoidable_shortfall_above_half_pp": 0,
+      "pooled_early_full_pct": 78.3625730994152,
+      "site_week_shortfall_pct": {
+        "q25": 5.623864839024491e-16,
+        "median": 4.323284506606237e-09,
+        "q75": 2.3401963716957907e-08
+      }
+    },
+    "2024|30|0.0|1.0|0.5": {
+      "site_weeks": 70,
+      "pooled_avoidable_shortfall_pct": 8.692959761711873e-09,
+      "site_weeks_with_avoidable_shortfall_above_half_pp": 0,
+      "pooled_early_full_pct": 78.3625730994152,
+      "site_week_shortfall_pct": {
+        "q25": 1.1514506807248753e-15,
+        "median": 7.300108518130065e-09,
+        "q75": 2.7988947128349337e-08
+      }
+    },
+    "2024|30|0.2|0.75|0.0": {
+      "site_weeks": 70,
+      "pooled_avoidable_shortfall_pct": 0.030272436875859066,
+      "site_weeks_with_avoidable_shortfall_above_half_pp": 5,
+      "pooled_early_full_pct": 77.77777777777777,
+      "site_week_shortfall_pct": {
+        "q25": 1.0325456203341236e-15,
+        "median": 2.4626870208831305e-15,
+        "q75": 4.976389484518241e-15
+      }
+    },
+    "2024|30|0.2|0.75|0.125": {
+      "site_weeks": 70,
+      "pooled_avoidable_shortfall_pct": 1.3342677077428525e-08,
+      "site_weeks_with_avoidable_shortfall_above_half_pp": 0,
+      "pooled_early_full_pct": 78.3625730994152,
+      "site_week_shortfall_pct": {
+        "q25": 9.637961838635874e-09,
+        "median": 2.5889965606109878e-08,
+        "q75": 4.447038098084426e-08
+      }
+    },
+    "2024|30|0.2|0.75|0.5": {
+      "site_weeks": 70,
+      "pooled_avoidable_shortfall_pct": 1.334267495148764e-08,
+      "site_weeks_with_avoidable_shortfall_above_half_pp": 0,
+      "pooled_early_full_pct": 78.3625730994152,
+      "site_week_shortfall_pct": {
+        "q25": 7.811439413717253e-09,
+        "median": 2.5099154147620632e-08,
+        "q75": 4.447037214426784e-08
+      }
+    },
+    "2024|30|0.2|0.9|0.0": {
+      "site_weeks": 70,
+      "pooled_avoidable_shortfall_pct": 0.670625920945114,
+      "site_weeks_with_avoidable_shortfall_above_half_pp": 34,
+      "pooled_early_full_pct": 71.3840155945419,
+      "site_week_shortfall_pct": {
+        "q25": 2.97212412299856e-15,
+        "median": 0.4482856751861819,
+        "q75": 1.2509607442087431
+      }
+    },
+    "2024|30|0.2|0.9|0.125": {
+      "site_weeks": 70,
+      "pooled_avoidable_shortfall_pct": 1.2129714224799843e-08,
+      "site_weeks_with_avoidable_shortfall_above_half_pp": 0,
+      "pooled_early_full_pct": 78.3625730994152,
+      "site_week_shortfall_pct": {
+        "q25": 6.970334167844923e-09,
+        "median": 2.588998067394788e-08,
+        "q75": 4.447038473781349e-08
+      }
+    },
+    "2024|30|0.2|0.9|0.5": {
+      "site_weeks": 70,
+      "pooled_avoidable_shortfall_pct": 1.2938356239373202e-08,
+      "site_weeks_with_avoidable_shortfall_above_half_pp": 0,
+      "pooled_early_full_pct": 78.3625730994152,
+      "site_week_shortfall_pct": {
+        "q25": 7.811433907249785e-09,
+        "median": 2.5889961246451515e-08,
+        "q75": 4.447036504596182e-08
+      }
+    },
+    "2024|30|0.2|1.0|0.0": {
+      "site_weeks": 70,
+      "pooled_avoidable_shortfall_pct": 12.065496840719977,
+      "site_weeks_with_avoidable_shortfall_above_half_pp": 70,
+      "pooled_early_full_pct": 38.9083820662768,
+      "site_week_shortfall_pct": {
+        "q25": 4.65931251845161,
+        "median": 9.497929779812942,
+        "q75": 17.082951619237793
+      }
+    },
+    "2024|30|0.2|1.0|0.125": {
+      "site_weeks": 70,
+      "pooled_avoidable_shortfall_pct": 1.1927547986817012e-08,
+      "site_weeks_with_avoidable_shortfall_above_half_pp": 0,
+      "pooled_early_full_pct": 78.3625730994152,
+      "site_week_shortfall_pct": {
+        "q25": 6.970316965413912e-09,
+        "median": 2.588997726116869e-08,
+        "q75": 4.44703720835499e-08
+      }
+    },
+    "2024|30|0.2|1.0|0.5": {
+      "site_weeks": 70,
+      "pooled_avoidable_shortfall_pct": 1.2331879600016968e-08,
+      "site_weeks_with_avoidable_shortfall_above_half_pp": 0,
+      "pooled_early_full_pct": 78.3625730994152,
+      "site_week_shortfall_pct": {
+        "q25": 6.9702589345472474e-09,
+        "median": 2.4481524326974938e-08,
+        "q75": 4.355831333743402e-08
+      }
+    },
+    "2024|30|0.4|0.75|0.0": {
+      "site_weeks": 70,
+      "pooled_avoidable_shortfall_pct": 0.028703808692577045,
+      "site_weeks_with_avoidable_shortfall_above_half_pp": 5,
+      "pooled_early_full_pct": 77.89473684210526,
+      "site_week_shortfall_pct": {
+        "q25": 7.973725765942545e-16,
+        "median": 1.5912434139874079e-15,
+        "q75": 4.49696486248067e-15
+      }
+    },
+    "2024|30|0.4|0.75|0.125": {
+      "site_weeks": 70,
+      "pooled_avoidable_shortfall_pct": 1.3544840831481059e-08,
+      "site_weeks_with_avoidable_shortfall_above_half_pp": 0,
+      "pooled_early_full_pct": 78.3625730994152,
+      "site_week_shortfall_pct": {
+        "q25": 9.10217001037375e-09,
+        "median": 2.448152110020682e-08,
+        "q75": 4.3346896498556185e-08
+      }
+    },
+    "2024|30|0.4|0.75|0.5": {
+      "site_weeks": 70,
+      "pooled_avoidable_shortfall_pct": 1.3544848184965137e-08,
+      "site_weeks_with_avoidable_shortfall_above_half_pp": 0,
+      "pooled_early_full_pct": 78.3625730994152,
+      "site_week_shortfall_pct": {
+        "q25": 9.102200861542326e-09,
+        "median": 2.588995216928929e-08,
+        "q75": 4.447037773715483e-08
+      }
+    },
+    "2024|30|0.4|0.9|0.0": {
+      "site_weeks": 70,
+      "pooled_avoidable_shortfall_pct": 0.5379375986841638,
+      "site_weeks_with_avoidable_shortfall_above_half_pp": 35,
+      "pooled_early_full_pct": 73.48927875243665,
+      "site_week_shortfall_pct": {
+        "q25": 1.86924869711201e-15,
+        "median": 0.46722493722406305,
+        "q75": 1.2756808574262195
+      }
+    },
+    "2024|30|0.4|0.9|0.125": {
+      "site_weeks": 70,
+      "pooled_avoidable_shortfall_pct": 1.2736200201283055e-08,
+      "site_weeks_with_avoidable_shortfall_above_half_pp": 0,
+      "pooled_early_full_pct": 78.3625730994152,
+      "site_week_shortfall_pct": {
+        "q25": 7.811420910214112e-09,
+        "median": 2.5889960701751186e-08,
+        "q75": 4.447037783542944e-08
+      }
+    },
+    "2024|30|0.4|0.9|0.5": {
+      "site_weeks": 70,
+      "pooled_avoidable_shortfall_pct": 1.3342677850416321e-08,
+      "site_weeks_with_avoidable_shortfall_above_half_pp": 0,
+      "pooled_early_full_pct": 78.3625730994152,
+      "site_week_shortfall_pct": {
+        "q25": 9.10220180730968e-09,
+        "median": 2.5889938043191162e-08,
+        "q75": 4.447037704923255e-08
+      }
+    },
+    "2024|30|0.4|1.0|0.0": {
+      "site_weeks": 70,
+      "pooled_avoidable_shortfall_pct": 10.571373002289468,
+      "site_weeks_with_avoidable_shortfall_above_half_pp": 70,
+      "pooled_early_full_pct": 43.89863547758284,
+      "site_week_shortfall_pct": {
+        "q25": 4.171283364815445,
+        "median": 9.507596589076334,
+        "q75": 15.303344448567561
+      }
+    },
+    "2024|30|0.4|1.0|0.125": {
+      "site_weeks": 70,
+      "pooled_avoidable_shortfall_pct": 1.192755648698943e-08,
+      "site_weeks_with_avoidable_shortfall_above_half_pp": 0,
+      "pooled_early_full_pct": 78.3625730994152,
+      "site_week_shortfall_pct": {
+        "q25": 6.887307003322141e-09,
+        "median": 2.4481533753844216e-08,
+        "q75": 4.3558360149394616e-08
+      }
+    },
+    "2024|30|0.4|1.0|0.5": {
+      "site_weeks": 70,
+      "pooled_avoidable_shortfall_pct": 1.2534032798656299e-08,
+      "site_weeks_with_avoidable_shortfall_above_half_pp": 0,
+      "pooled_early_full_pct": 78.3625730994152,
+      "site_week_shortfall_pct": {
+        "q25": 7.2409748088238106e-09,
+        "median": 2.588993162758826e-08,
+        "q75": 4.44703936795486e-08
+      }
+    },
+    "2024|60|0.0|0.75|0.0": {
+      "site_weeks": 70,
+      "pooled_avoidable_shortfall_pct": 1.1984896130225555,
+      "site_weeks_with_avoidable_shortfall_above_half_pp": 35,
+      "pooled_early_full_pct": 59.53216374269006,
+      "site_week_shortfall_pct": {
+        "q25": 4.246428308124682e-16,
+        "median": 0.41302612027624297,
+        "q75": 2.333055508439927
+      }
+    },
+    "2024|60|0.0|0.75|0.125": {
+      "site_weeks": 70,
+      "pooled_avoidable_shortfall_pct": 9.09727832894721e-09,
+      "site_weeks_with_avoidable_shortfall_above_half_pp": 0,
+      "pooled_early_full_pct": 62.76803118908382,
+      "site_week_shortfall_pct": {
+        "q25": 1.342974991348091e-15,
+        "median": 9.618097576324624e-09,
+        "q75": 3.156115145095869e-08
+      }
+    },
+    "2024|60|0.0|0.75|0.5": {
+      "site_weeks": 70,
+      "pooled_avoidable_shortfall_pct": 9.703767493219525e-09,
+      "site_weeks_with_avoidable_shortfall_above_half_pp": 0,
+      "pooled_early_full_pct": 62.76803118908382,
+      "site_week_shortfall_pct": {
+        "q25": 2.5966019702340567e-15,
+        "median": 1.1057303415261259e-08,
+        "q75": 2.894313493882553e-08
+      }
+    },
+    "2024|60|0.0|0.9|0.0": {
+      "site_weeks": 70,
+      "pooled_avoidable_shortfall_pct": 6.011988491046645,
+      "site_weeks_with_avoidable_shortfall_above_half_pp": 57,
+      "pooled_early_full_pct": 50.721247563352826,
+      "site_week_shortfall_pct": {
+        "q25": 1.672949191770887,
+        "median": 4.465855071760979,
+        "q75": 9.284972489026961
+      }
+    },
+    "2024|60|0.0|0.9|0.125": {
+      "site_weeks": 70,
+      "pooled_avoidable_shortfall_pct": 0.040633377277675874,
+      "site_weeks_with_avoidable_shortfall_above_half_pp": 1,
+      "pooled_early_full_pct": 62.57309941520468,
+      "site_week_shortfall_pct": {
+        "q25": 8.651242609123412e-16,
+        "median": 5.000824294028464e-09,
+        "q75": 3.111822255616781e-08
+      }
+    },
+    "2024|60|0.0|0.9|0.5": {
+      "site_weeks": 70,
+      "pooled_avoidable_shortfall_pct": 7.884311592526185e-09,
+      "site_weeks_with_avoidable_shortfall_above_half_pp": 0,
+      "pooled_early_full_pct": 62.76803118908382,
+      "site_week_shortfall_pct": {
+        "q25": 7.705996817235789e-16,
+        "median": 5.113228770399829e-09,
+        "q75": 2.2142995373596276e-08
+      }
+    },
+    "2024|60|0.0|1.0|0.0": {
+      "site_weeks": 70,
+      "pooled_avoidable_shortfall_pct": 22.51719191651612,
+      "site_weeks_with_avoidable_shortfall_above_half_pp": 70,
+      "pooled_early_full_pct": 30.487329434697855,
+      "site_week_shortfall_pct": {
+        "q25": 8.707049430631553,
+        "median": 20.06407436226094,
+        "q75": 29.463337222893628
+      }
+    },
+    "2024|60|0.0|1.0|0.125": {
+      "site_weeks": 70,
+      "pooled_avoidable_shortfall_pct": 0.48097130673015454,
+      "site_weeks_with_avoidable_shortfall_above_half_pp": 8,
+      "pooled_early_full_pct": 61.52046783625731,
+      "site_week_shortfall_pct": {
+        "q25": 8.651242609123412e-16,
+        "median": 5.303203080398991e-09,
+        "q75": 4.7232999269789e-08
+      }
+    },
+    "2024|60|0.0|1.0|0.5": {
+      "site_weeks": 70,
+      "pooled_avoidable_shortfall_pct": 7.075664705705705e-09,
+      "site_weeks_with_avoidable_shortfall_above_half_pp": 0,
+      "pooled_early_full_pct": 62.76803118908382,
+      "site_week_shortfall_pct": {
+        "q25": 5.171693603241966e-16,
+        "median": 2.0078390606218098e-09,
+        "q75": 1.969953739383337e-08
+      }
+    },
+    "2024|60|0.2|0.75|0.0": {
+      "site_weeks": 70,
+      "pooled_avoidable_shortfall_pct": 0.44506641614652553,
+      "site_weeks_with_avoidable_shortfall_above_half_pp": 24,
+      "pooled_early_full_pct": 60.07797270955166,
+      "site_week_shortfall_pct": {
+        "q25": 1.0323499530746354e-15,
+        "median": 3.922667278337665e-15,
+        "q75": 0.8492585715500713
+      }
+    },
+    "2024|60|0.2|0.75|0.125": {
+      "site_weeks": 70,
+      "pooled_avoidable_shortfall_pct": 1.2736190956290653e-08,
+      "site_weeks_with_avoidable_shortfall_above_half_pp": 0,
+      "pooled_early_full_pct": 62.76803118908382,
+      "site_week_shortfall_pct": {
+        "q25": 7.811446227324417e-09,
+        "median": 2.5889960492659035e-08,
+        "q75": 4.447037525087146e-08
+      }
+    },
+    "2024|60|0.2|0.75|0.5": {
+      "site_weeks": 70,
+      "pooled_avoidable_shortfall_pct": 1.3342682503268676e-08,
+      "site_weeks_with_avoidable_shortfall_above_half_pp": 0,
+      "pooled_early_full_pct": 62.76803118908382,
+      "site_week_shortfall_pct": {
+        "q25": 9.102144579816971e-09,
+        "median": 2.5889958964387458e-08,
+        "q75": 4.447036348859071e-08
+      }
+    },
+    "2024|60|0.2|0.9|0.0": {
+      "site_weeks": 70,
+      "pooled_avoidable_shortfall_pct": 3.404320009978553,
+      "site_weeks_with_avoidable_shortfall_above_half_pp": 54,
+      "pooled_early_full_pct": 48.84990253411306,
+      "site_week_shortfall_pct": {
+        "q25": 0.5440840311009719,
+        "median": 2.3824592603567694,
+        "q75": 5.188214004140564
+      }
+    },
+    "2024|60|0.2|0.9|0.125": {
+      "site_weeks": 70,
+      "pooled_avoidable_shortfall_pct": 1.2129705577054981e-08,
+      "site_weeks_with_avoidable_shortfall_above_half_pp": 0,
+      "pooled_early_full_pct": 62.76803118908382,
+      "site_week_shortfall_pct": {
+        "q25": 7.241023383551809e-09,
+        "median": 2.588994636450519e-08,
+        "q75": 4.4470364547077435e-08
+      }
+    },
+    "2024|60|0.2|0.9|0.5": {
+      "site_weeks": 70,
+      "pooled_avoidable_shortfall_pct": 1.2331868596499774e-08,
+      "site_weeks_with_avoidable_shortfall_above_half_pp": 0,
+      "pooled_early_full_pct": 62.76803118908382,
+      "site_week_shortfall_pct": {
+        "q25": 6.970265817193793e-09,
+        "median": 2.4481519725808453e-08,
+        "q75": 4.3558317677422074e-08
+      }
+    },
+    "2024|60|0.2|1.0|0.0": {
+      "site_weeks": 70,
+      "pooled_avoidable_shortfall_pct": 19.53181744818439,
+      "site_weeks_with_avoidable_shortfall_above_half_pp": 70,
+      "pooled_early_full_pct": 26.82261208576998,
+      "site_week_shortfall_pct": {
+        "q25": 7.166945299642326,
+        "median": 15.513634656224454,
+        "q75": 27.698906129096045
+      }
+    },
+    "2024|60|0.2|1.0|0.125": {
+      "site_weeks": 70,
+      "pooled_avoidable_shortfall_pct": 0.4161624608538059,
+      "site_weeks_with_avoidable_shortfall_above_half_pp": 2,
+      "pooled_early_full_pct": 61.63742690058479,
+      "site_week_shortfall_pct": {
+        "q25": 6.470615447670184e-09,
+        "median": 2.448152600960805e-08,
+        "q75": 4.7232991077726295e-08
+      }
+    },
+    "2024|60|0.2|1.0|0.5": {
+      "site_weeks": 70,
+      "pooled_avoidable_shortfall_pct": 1.1927544020990105e-08,
+      "site_weeks_with_avoidable_shortfall_above_half_pp": 0,
+      "pooled_early_full_pct": 62.76803118908382,
+      "site_week_shortfall_pct": {
+        "q25": 6.970272529447444e-09,
+        "median": 2.4481539533588715e-08,
+        "q75": 4.355833769024195e-08
+      }
+    },
+    "2024|60|0.4|0.75|0.0": {
+      "site_weeks": 70,
+      "pooled_avoidable_shortfall_pct": 0.3722954258686388,
+      "site_weeks_with_avoidable_shortfall_above_half_pp": 22,
+      "pooled_early_full_pct": 60.70175438596491,
+      "site_week_shortfall_pct": {
+        "q25": 1.0722850279135678e-15,
+        "median": 2.9182206151133485e-15,
+        "q75": 0.753401295659955
+      }
+    },
+    "2024|60|0.4|0.75|0.125": {
+      "site_weeks": 70,
+      "pooled_avoidable_shortfall_pct": 1.3140519613104069e-08,
+      "site_weeks_with_avoidable_shortfall_above_half_pp": 0,
+      "pooled_early_full_pct": 62.76803118908382,
+      "site_week_shortfall_pct": {
+        "q25": 7.811415148957311e-09,
+        "median": 2.5889973443638036e-08,
+        "q75": 4.4470366254675244e-08
+      }
+    },
+    "2024|60|0.4|0.75|0.5": {
+      "site_weeks": 70,
+      "pooled_avoidable_shortfall_pct": 1.3544841396520773e-08,
+      "site_weeks_with_avoidable_shortfall_above_half_pp": 0,
+      "pooled_early_full_pct": 62.76803118908382,
+      "site_week_shortfall_pct": {
+        "q25": 9.102150898335515e-09,
+        "median": 2.5889958726896768e-08,
+        "q75": 4.447036829528081e-08
+      }
+    },
+    "2024|60|0.4|0.9|0.0": {
+      "site_weeks": 70,
+      "pooled_avoidable_shortfall_pct": 2.8439655069371077,
+      "site_weeks_with_avoidable_shortfall_above_half_pp": 56,
+      "pooled_early_full_pct": 51.15009746588694,
+      "site_week_shortfall_pct": {
+        "q25": 0.8106415698850872,
+        "median": 2.7258851901972756,
+        "q75": 3.884542316513101
+      }
+    },
+    "2024|60|0.4|0.9|0.125": {
+      "site_weeks": 70,
+      "pooled_avoidable_shortfall_pct": 1.2129710857791588e-08,
+      "site_weeks_with_avoidable_shortfall_above_half_pp": 0,
+      "pooled_early_full_pct": 62.76803118908382,
+      "site_week_shortfall_pct": {
+        "q25": 6.970191994327722e-09,
+        "median": 2.448153092087379e-08,
+        "q75": 4.447037655034816e-08
+      }
+    },
+    "2024|60|0.4|0.9|0.5": {
+      "site_weeks": 70,
+      "pooled_avoidable_shortfall_pct": 1.2938358565182156e-08,
+      "site_weeks_with_avoidable_shortfall_above_half_pp": 0,
+      "pooled_early_full_pct": 62.76803118908382,
+      "site_week_shortfall_pct": {
+        "q25": 7.811415688158317e-09,
+        "median": 2.588995425363236e-08,
+        "q75": 4.447037260434104e-08
+      }
+    },
+    "2024|60|0.4|1.0|0.0": {
+      "site_weeks": 70,
+      "pooled_avoidable_shortfall_pct": 17.26051914425876,
+      "site_weeks_with_avoidable_shortfall_above_half_pp": 70,
+      "pooled_early_full_pct": 30.721247563352826,
+      "site_week_shortfall_pct": {
+        "q25": 6.681862746918247,
+        "median": 13.715755688323755,
+        "q75": 24.801097947998237
+      }
+    },
+    "2024|60|0.4|1.0|0.125": {
+      "site_weeks": 70,
+      "pooled_avoidable_shortfall_pct": 0.2819266547350325,
+      "site_weeks_with_avoidable_shortfall_above_half_pp": 3,
+      "pooled_early_full_pct": 61.63742690058479,
+      "site_week_shortfall_pct": {
+        "q25": 6.887249324501676e-09,
+        "median": 2.4481516191756134e-08,
+        "q75": 4.843278862435363e-08
+      }
+    },
+    "2024|60|0.4|1.0|0.5": {
+      "site_weeks": 70,
+      "pooled_avoidable_shortfall_pct": 1.2534034145886044e-08,
+      "site_weeks_with_avoidable_shortfall_above_half_pp": 0,
+      "pooled_early_full_pct": 62.76803118908382,
+      "site_week_shortfall_pct": {
+        "q25": 7.24102963148263e-09,
+        "median": 2.5889963319934377e-08,
+        "q75": 4.44703820987944e-08
+      }
+    }
+  }
+}

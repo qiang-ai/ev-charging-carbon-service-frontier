@@ -1,0 +1,82 @@
+{
+  "all_pass": true,
+  "outcomes_checked": 13203,
+  "site_weeks": 163,
+  "matched_site_weeks_per_year": 70,
+  "matched_summary_groups_checked": 162,
+  "exploratory_primary_effects": [
+    {
+      "year": 2023,
+      "target_share": 0.75,
+      "pooled_shortfall_no_storage_pct": 0.008941619550618621,
+      "pooled_shortfall_main_storage_pct": 9.743943305072984e-09,
+      "pooled_improvement_percentage_points": 0.008941609806675316
+    },
+    {
+      "year": 2023,
+      "target_share": 0.9,
+      "pooled_shortfall_no_storage_pct": 0.26685339959073484,
+      "pooled_shortfall_main_storage_pct": 9.896188168051808e-09,
+      "pooled_improvement_percentage_points": 0.2668533896945467
+    },
+    {
+      "year": 2023,
+      "target_share": 1.0,
+      "pooled_shortfall_no_storage_pct": 11.265947978441217,
+      "pooled_shortfall_main_storage_pct": 9.287185922431014e-09,
+      "pooled_improvement_percentage_points": 11.26594796915403
+    },
+    {
+      "year": 2024,
+      "target_share": 0.75,
+      "pooled_shortfall_no_storage_pct": 0.030272436875859066,
+      "pooled_shortfall_main_storage_pct": 1.3342674951487639e-08,
+      "pooled_improvement_percentage_points": 0.030272423533184115
+    },
+    {
+      "year": 2024,
+      "target_share": 0.9,
+      "pooled_shortfall_no_storage_pct": 0.670625920945114,
+      "pooled_shortfall_main_storage_pct": 1.2938356239373202e-08,
+      "pooled_improvement_percentage_points": 0.6706259080067577
+    },
+    {
+      "year": 2024,
+      "target_share": 1.0,
+      "pooled_shortfall_no_storage_pct": 12.065496840719977,
+      "pooled_shortfall_main_storage_pct": 1.2331879600016966e-08,
+      "pooled_improvement_percentage_points": 12.065496828388097
+    }
+  ],
+  "max_absolute_residuals": {
+    "frontier anchor best_no_battery_carbon_kg": 0.0,
+    "frontier anchor budget_gbp": 0.0,
+    "frontier anchor energy_kwh": 0.0,
+    "frontier anchor fixed_carbon_kg": 0.0,
+    "frontier anchor n_sessions": 0.0,
+    "frontier budget excess GBP": 4.263256414560601e-14,
+    "frontier carbon excess kg": 1.0231815394945443e-12,
+    "frontier carbon-target nesting": 4.547473508864641e-12,
+    "frontier later-checkpoint readiness nesting": 2.2737367544323206e-13,
+    "frontier no-storage carbon relative to minimum": 0.0,
+    "frontier nonnegative carbon": 0.0,
+    "frontier nonnegative early energy kWh": 0.0,
+    "frontier objective gap": 0.0,
+    "frontier objective lower-bound ordering": 4.547473508864641e-12,
+    "frontier physical early energy maximum kWh": 1.8189894035458565e-12,
+    "frontier physically possible full count": 0.0,
+    "frontier pooled matched full-session percent": 0.0,
+    "frontier pooled matched shortfall percent": 1.7763568394002505e-15,
+    "frontier recalculated avoidable shortfall kWh": 1.8599566331545248e-12,
+    "frontier recalculated shortfall percent": 6.228778665675607e-14,
+    "frontier recomputed carbon cap kg": 0.0,
+    "frontier reported residual above tolerance": 0.0,
+    "frontier site-week shortfall percent quartiles": 0.0,
+    "frontier storage capacity nesting": 4.547473508864641e-12,
+    "frontier tighter than main half-potential cap": 4.547473508864641e-12,
+    "frozen equipment basis": 0.0,
+    "main recomputed carbon cap kg": 0.0,
+    "prepared-session lineage": 0.0
+  },
+  "check_scope": "CSV and recorded solver summaries, anchors and monotonicity; no frontier decision vectors were saved"
+}

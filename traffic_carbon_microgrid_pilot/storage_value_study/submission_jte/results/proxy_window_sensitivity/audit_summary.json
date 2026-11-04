@@ -1,0 +1,23 @@
+{
+  "pass": true,
+  "site_weeks": 140,
+  "unique_sessions": 5933,
+  "windows": 41531,
+  "outcomes": 12740,
+  "max_absolute_residuals": {
+    "session lineage": 0.0,
+    "endpoint adjustment": 0.0,
+    "logged actual shift": 0.0,
+    "energy feasible after perturbation": 7.152571868118685e-10,
+    "connector and study-week boundary": 0.0,
+    "cost ceiling": 0.0,
+    "fixed service residual": 6.084022174945858e-14,
+    "carbon ceiling": 1.0000003953791747e-06,
+    "nested window full-carbon optimum": 8.881784197001252e-16,
+    "larger-storage optimum": 1.0000518280151027e-07,
+    "zero-offset interaction replication": 5.329070518200751e-15,
+    "zero-offset fixed-service replication": 0.0,
+    "zero-offset strict-cap replication": 1.7763568394002505e-15
+  },
+  "scope": "Original session lineage, exact perturbation and occupancy caps, objective output bounds, nesting, and reproduction of the archived zero-offset results. Individual schedule vectors are checked by the solver at run time and are not archived."
+}

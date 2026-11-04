@@ -1,0 +1,19 @@
+{
+  "service_protocol_sha256": "78ce9a8bbfa0cfcf52860eeaec4a60fe76b32a439a89475317b2b2ac904dda3d",
+  "holdout_protocol_sha256": "2bba0b3ab9a4497dd96705f06db82cfa4d9b4ae0aa7f9eb7b8943e46b092b868",
+  "prior_results_sha256": {
+    "2023": {
+      "cases.csv": "0e9b52017eb73659ab334635a0951c4bb912312bb54db0591fc05750ca739cf7",
+      "outcomes.csv": "b65b0f225605a4c3f5d019c42362b00a07da05603b15d5c3b82d4869865f9915",
+      "manifest.json": "4f6a4c7d59c4d88624ecc6c7902ff648d316c0e76622cfc1947bb06fb71be0fa"
+    },
+    "2024": {
+      "cases.csv": "6963a7e80a2f4f80f0059354121e0457453af89446d97b0eff1de4f984d769ce",
+      "outcomes.csv": "a224b869249a3f56886342e59fb96f4f05298a06916ed525fd9e6c7c1f9637e4",
+      "manifest.json": "40a2b10f019de46618495da541a0db5d54738278e15aca2e9738093e265454f3"
+    }
+  },
+  "site_weeks": 163,
+  "outcomes": 11247,
+  "outcome_sha256": "1a00ee359305aee04c5ea49d2f4502db6ce20894e42d0c50451ec85d1b14f3f2"
+}

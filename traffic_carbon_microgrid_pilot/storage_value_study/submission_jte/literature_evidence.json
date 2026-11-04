@@ -1,0 +1,1299 @@
+[
+  {
+    "id": "Bayram2023",
+    "doi": "10.1109/ACCESS.2023.3293091",
+    "year": 2023,
+    "reference": "Bayram, I. S., A. Saad, R. Sims, A. Babu, C. Edmunds, and S. Galloway. 2023. \"Statistical characterization of public AC EV chargers in the U.K.\" IEEE Access 11: 70274–70287. https://doi.org/10.1109/ACCESS.2023.3293091.",
+    "abstract_source": "https://strathprints.strath.ac.uk/91162/1/Bayram_etal_IEEEAccess_2023_Statistical_characterization_of_public_AC_EV.pdf#page=1",
+    "intro_source": "https://strathprints.strath.ac.uk/91162/1/Bayram_etal_IEEEAccess_2023_Statistical_characterization_of_public_AC_EV.pdf#page=2",
+    "abstract_evidence": "Analyzes close to 12,000 sessions at 595 UK public AC sockets, measuring use, arrival and departure, connected duration, energy and non-charging overstay.",
+    "intro_evidence": "Section I describes public AC charging as understudied in the United Kingdom and sets out arrival–departure clustering, separate weekday/weekend utilization and overstay analyses, and two examples of using overstay to shift load.",
+    "manuscript_use": "Direct precedent for empirical UK public AC heterogeneity and for using connected time to shift load. Cite while distinguishing their observed overstay characterization from this study's modeled transaction-window proxy and storage counterfactual.",
+    "crossref_verification": {
+      "source": "https://api.crossref.org/works/10.1109/ACCESS.2023.3293091",
+      "title": "Statistical Characterization of Public AC EV Chargers in the U.K.",
+      "publication_dates": {
+        "published": [
+          2023
+        ],
+        "published-print": [
+          2023
+        ],
+        "issued": [
+          2023
+        ]
+      },
+      "type": "journal-article",
+      "venue": "IEEE Access",
+      "authors": [
+        "Bayram",
+        "Saad",
+        "Sims",
+        "Babu",
+        "Edmunds",
+        "Galloway"
+      ],
+      "locator": {
+        "volume": "11",
+        "page": "70274-70287"
+      }
+    }
+  },
+  {
+    "id": "Davies2024",
+    "doi": "10.3390/wevj15120570",
+    "year": 2024,
+    "reference": "Davies, K., E. Hart, and S. Galloway. 2024. \"Plugging-In Caledonia: Location and utilisation of public electric vehicle chargers in Scotland.\" World Electr. Veh. J. 15 (12): 570. https://doi.org/10.3390/wevj15120570.",
+    "abstract_source": "https://strathprints.strath.ac.uk/91516/1/Davies-etal-WEVJ-2024-location-and-utilisation-of-public-electric-vehicle-chargers.pdf#page=1",
+    "intro_source": "https://strathprints.strath.ac.uk/91516/1/Davies-etal-WEVJ-2024-location-and-utilisation-of-public-electric-vehicle-chargers.pdf#page=2",
+    "abstract_evidence": "Characterizes ChargePlace Scotland transactions from October 2022 to March 2024 across 2,786 chargers. Reports urban–rural differences, utilization differences by charger speed, and a reduction in observed sessions after charging tariffs were introduced.",
+    "intro_evidence": "Section 1 motivates public charging for drivers lacking home access and argues that equitable Scottish expansion needs evidence on existing locations, tariffs, power ratings, and actual patterns of use.",
+    "manuscript_use": "Anchor the regional context and situate the current case replay as a complementary dispatch analysis on a subset of the same public network.",
+    "crossref_verification": {
+      "source": "https://api.crossref.org/works/10.3390/wevj15120570",
+      "title": "Plugging-In Caledonia: Location and Utilisation of Public Electric Vehicle Chargers in Scotland",
+      "publication_dates": {
+        "published": [
+          2024,
+          12,
+          11
+        ],
+        "published-online": [
+          2024,
+          12,
+          11
+        ],
+        "issued": [
+          2024,
+          12,
+          11
+        ]
+      },
+      "type": "journal-article",
+      "venue": "World Electric Vehicle Journal",
+      "authors": [
+        "Davies",
+        "Hart",
+        "Galloway"
+      ],
+      "locator": {
+        "volume": "15",
+        "issue": "12",
+        "page": "570"
+      }
+    }
+  },
+  {
+    "id": "Feng2026",
+    "doi": "10.1016/j.jtrangeo.2026.104667",
+    "year": 2026,
+    "reference": "Feng, Z., Q. Zhao, and A. Heppenstall. 2026. \"Exploring the influencing factors of public electric vehicle charger usage in Great Britain.\" J. Transp. Geogr. 134: 104667. https://doi.org/10.1016/j.jtrangeo.2026.104667.",
+    "abstract_source": "https://eprints.gla.ac.uk/383364/",
+    "intro_source": "https://doi.org/10.1016/j.jtrangeo.2026.104667",
+    "abstract_evidence": "Uses 15-min availability data from 4,566 public chargers in Greater London, Greater Manchester and the Central Belt of Scotland to compare usage and its local spatial determinants.",
+    "intro_evidence": "Section 1 distinguishes status-derived day/night occupation shares from individual transaction logs and motivates a comparative design because results from a single area may not generalize to a region with a different urban form or housing composition.",
+    "manuscript_use": "Support checking site and city heterogeneity and state the distinction between charger status, transaction records and actual service delivered.",
+    "crossref_verification": {
+      "source": "https://api.crossref.org/works/10.1016/j.jtrangeo.2026.104667",
+      "title": "Exploring the influencing factors of public electric vehicle charger usage in Great Britain",
+      "publication_dates": {
+        "published": [
+          2026,
+          6
+        ],
+        "published-print": [
+          2026,
+          6
+        ],
+        "issued": [
+          2026,
+          6
+        ]
+      },
+      "type": "journal-article",
+      "venue": "Journal of Transport Geography",
+      "authors": [
+        "Feng",
+        "Zhao",
+        "Heppenstall"
+      ],
+      "locator": {
+        "volume": "134",
+        "page": "104667",
+        "article-number": "104667"
+      }
+    }
+  },
+  {
+    "id": "Hecht2022",
+    "doi": "10.1016/j.isci.2022.105634",
+    "year": 2022,
+    "reference": "Hecht, C., J. Figgener, and D. U. Sauer. 2022. \"Analysis of electric vehicle charging station usage and profitability in Germany based on empirical data.\" iScience 25 (12): 105634. https://doi.org/10.1016/j.isci.2022.105634.",
+    "abstract_source": "https://publications.rwth-aachen.de/record/856952/files/856952.pdf#page=2",
+    "intro_source": "https://publications.rwth-aachen.de/record/856952/files/856952.pdf#page=2",
+    "abstract_evidence": "Presents representative energy, arrival and event-duration statistics and operating profitability estimates for public charging infrastructure in Germany, with heterogeneous patterns across area types and power levels.",
+    "intro_evidence": "The Introduction frames the need to allocate charging points efficiently as vehicle-to-charger ratios rise and explains the coverage and filtering of station records from 2019–2021 before analyzing use and profitability.",
+    "manuscript_use": "Support heterogeneity of charging demand and keep site operating comparisons separate from investment profitability.",
+    "crossref_verification": {
+      "source": "https://api.crossref.org/works/10.1016/j.isci.2022.105634",
+      "title": "Analysis of electric vehicle charging station usage and profitability in Germany based on empirical data",
+      "publication_dates": {
+        "published": [
+          2022,
+          12
+        ],
+        "published-print": [
+          2022,
+          12
+        ],
+        "issued": [
+          2022,
+          12
+        ]
+      },
+      "type": "journal-article",
+      "venue": "iScience",
+      "authors": [
+        "Hecht",
+        "Figgener",
+        "Sauer"
+      ],
+      "locator": {
+        "volume": "25",
+        "issue": "12",
+        "page": "105634",
+        "article-number": "105634"
+      }
+    }
+  },
+  {
+    "id": "Lei2022",
+    "doi": "10.1016/j.trc.2022.103822",
+    "year": 2022,
+    "reference": "Lei, T., S. Guo, X. Qian, and L. Gong. 2022. \"Understanding charging dynamics of fully-electrified taxi services using large-scale trajectory data.\" Transp. Res. Part C Emerging Technol. 143: 103822. https://doi.org/10.1016/j.trc.2022.103822.",
+    "abstract_source": "https://www.sciencedirect.com/science/article/pii/S0968090X22002455",
+    "intro_source": "https://arxiv.org/html/2109.09799#S1",
+    "abstract_evidence": "Combines trajectory records for more than 20,000 Shenzhen electric taxis with charging infrastructure data. Finds temporal regularities linked to shifts and drivers' persistent preferences for a limited set of stations.",
+    "intro_evidence": "Section 1 argues that electrification changes taxi behavior because charging differs from refueling and introduces an empirical design for linking system-level demand, station use, and driver behavior.",
+    "manuscript_use": "Illustrate the transport mechanism that activities and duty schedules determine charging opportunities. Treat fleet patterns as a separate operating context from public AC transactions.",
+    "crossref_verification": {
+      "source": "https://api.crossref.org/works/10.1016/j.trc.2022.103822",
+      "title": "Understanding charging dynamics of fully-electrified taxi services using large-scale trajectory data",
+      "publication_dates": {
+        "published": [
+          2022,
+          10
+        ],
+        "published-print": [
+          2022,
+          10
+        ],
+        "issued": [
+          2022,
+          10
+        ]
+      },
+      "type": "journal-article",
+      "venue": "Transportation Research Part C: Emerging Technologies",
+      "authors": [
+        "Lei",
+        "Guo",
+        "Qian",
+        "Gong"
+      ],
+      "locator": {
+        "volume": "143",
+        "page": "103822",
+        "article-number": "103822"
+      }
+    }
+  },
+  {
+    "id": "Rempel2024",
+    "doi": "10.1177/00187208231215242",
+    "year": 2024,
+    "reference": "Rempel, D., C. Cullen, M. Matteson Bryan, and G. Vianna Cezar. 2024. \"Reliability of open public electric vehicle direct current fast chargers.\" Hum. Factors 66 (11): 2528–2538. https://doi.org/10.1177/00187208231215242.",
+    "abstract_source": "https://journals.sagepub.com/doi/pdf/10.1177/00187208231215242?download=true",
+    "intro_source": "https://www.osti.gov/servlets/purl/2327095#page=1",
+    "abstract_evidence": "Field-tested 655 public CCS fast-charging ports at 182 San Francisco Bay Area stations using an actual charging criterion. Measured functionality fell below reported network uptime.",
+    "intro_evidence": "The opening Background section uses reported user failures and inconsistent operational reporting to motivate testing whether a member of the public can initiate and sustain a charge, beyond inventory presence.",
+    "manuscript_use": "Separate hardware and service availability from the modeled energy delivered to retained successful AC sessions. The DCFC failure percentage is context, with no extrapolation to Scotland.",
+    "crossref_verification": {
+      "source": "https://api.crossref.org/works/10.1177/00187208231215242",
+      "title": "Reliability of Open Public Electric Vehicle Direct Current Fast Chargers",
+      "publication_dates": {
+        "published": [
+          2023,
+          11,
+          30
+        ],
+        "published-print": [
+          2024,
+          11
+        ],
+        "published-online": [
+          2023,
+          11,
+          30
+        ],
+        "issued": [
+          2023,
+          11,
+          30
+        ]
+      },
+      "type": "journal-article",
+      "venue": "Human Factors: The Journal of the Human Factors and Ergonomics Society",
+      "authors": [
+        "Rempel",
+        "Cullen",
+        "Matteson Bryan",
+        "Vianna Cezar"
+      ],
+      "locator": {
+        "volume": "66",
+        "issue": "11",
+        "page": "2528-2538"
+      }
+    }
+  },
+  {
+    "id": "Winschermann2023",
+    "doi": "10.1016/j.rser.2023.113600",
+    "year": 2023,
+    "reference": "Winschermann, L., N. Bañol Arias, G. Hoogsteen, and J. L. Hurink. 2023. \"Assessing the value of information for electric vehicle charging strategies at office buildings.\" Renewable Sustainable Energy Rev. 185: 113600. https://doi.org/10.1016/j.rser.2023.113600.",
+    "abstract_source": "https://research.utwente.nl/files/316386486/1_s2.0_S1364032123004574_main.pdf#page=1",
+    "intro_source": "https://research.utwente.nl/files/316386486/1_s2.0_S1364032123004574_main.pdf#page=1",
+    "abstract_evidence": "Using records from an office site with 125 chargers, the authors assess the value of historical demand and dwell information for both day-ahead and real-time decisions, reporting a peak-versus-unserved-energy tradeoff.",
+    "intro_evidence": "Section 1 contrasts site capacity data available to schedulers with missing individual EV constraints and motivates benchmarking how historical records represent actual vehicle demand and dwell.",
+    "manuscript_use": "Support the separate analysis of information regimes and the assumption that realized energy and proxy end are provided at connection in the current controlled replay.",
+    "crossref_verification": {
+      "source": "https://api.crossref.org/works/10.1016/j.rser.2023.113600",
+      "title": "Assessing the value of information for electric vehicle charging strategies at office buildings",
+      "publication_dates": {
+        "published": [
+          2023,
+          10
+        ],
+        "published-print": [
+          2023,
+          10
+        ],
+        "issued": [
+          2023,
+          10
+        ]
+      },
+      "type": "journal-article",
+      "venue": "Renewable and Sustainable Energy Reviews",
+      "authors": [
+        "Winschermann",
+        "Bañol Arias",
+        "Hoogsteen",
+        "Hurink"
+      ],
+      "locator": {
+        "volume": "185",
+        "page": "113600",
+        "article-number": "113600"
+      }
+    }
+  },
+  {
+    "id": "Winschermann2026",
+    "doi": "10.1287/opre.2024.1044",
+    "year": 2026,
+    "reference": "Winschermann, L., A. Antoniadis, M. E. T. Gerards, G. Hoogsteen, and J. L. Hurink. 2026. \"Relating electric vehicle charging to speed scaling with job-specific speed limits.\" Oper. Res. 74 (3): 1165–1186. https://doi.org/10.1287/opre.2024.1044.",
+    "abstract_source": "https://pubsonline.informs.org/doi/pdf/10.1287/opre.2024.1044#page=1",
+    "intro_source": "https://pubsonline.informs.org/doi/pdf/10.1287/opre.2024.1044#page=1",
+    "abstract_evidence": "Relates preemptive EV charging with heterogeneous charging rate limits to speed scaling, proposes a flow-based offline scheduler, and analyzes online versions.",
+    "intro_evidence": "Section 1 explicitly discusses uncertain availability and energy requirements, predictive rescheduling at intervals or arrival/departure events, and deterministic minimum-energy-by-time guarantees as existing approaches.",
+    "manuscript_use": "Acknowledge that deterministic charging guarantees and repeated online rescheduling predate this study. Distinguish this study's session-specific immediate-achievable benchmark, storage comparisons and carbon accounting.",
+    "crossref_verification": {
+      "source": "https://api.crossref.org/works/10.1287/opre.2024.1044",
+      "title": "Relating Electric Vehicle Charging to Speed Scaling with Job-Specific Speed Limits",
+      "publication_dates": {
+        "published": [
+          2026,
+          5
+        ],
+        "published-print": [
+          2026,
+          5
+        ],
+        "issued": [
+          2026,
+          5
+        ]
+      },
+      "type": "journal-article",
+      "venue": "Operations Research",
+      "authors": [
+        "Winschermann",
+        "Antoniadis",
+        "Gerards",
+        "Hoogsteen",
+        "Hurink"
+      ],
+      "locator": {
+        "volume": "74",
+        "issue": "3",
+        "page": "1165-1186"
+      }
+    }
+  },
+  {
+    "id": "Yang2026",
+    "doi": "10.1061/JITSE4.ISENG-2833",
+    "year": 2026,
+    "reference": "Yang, M., P. Lang, S. Zhang, and S. Pathak. 2026. \"Population density–informed framework for optimal EV charging station deployment: Evidence from Chengdu, China.\" J. Infrastruct. Syst. 32 (3): 04026010. https://doi.org/10.1061/JITSE4.ISENG-2833.",
+    "abstract_source": "https://ascelibrary.com/doi/10.1061/JITSE4.ISENG-2833",
+    "intro_source": "https://ascelibrary.com/doi/10.1061/JITSE4.ISENG-2833",
+    "abstract_evidence": "Combines clustering, regression and genetic optimization to choose station locations and allocate capacity in Chengdu based on population density and deployment cost.",
+    "intro_evidence": "The Introduction identifies underestimation of demand in dense areas as a limitation of existing siting practice and proposes infrastructure allocations differentiated by urban density to improve accessibility and resource use.",
+    "manuscript_use": "Separate network siting and service coverage from service timing at a fixed public site. Relevant ASCE infrastructure comparator published in Journal of Infrastructure Systems, a distinct journal.",
+    "crossref_verification": {
+      "source": "https://api.crossref.org/works/10.1061/JITSE4.ISENG-2833",
+      "title": "Population Density–Informed Framework for Optimal EV Charging Station Deployment: Evidence from Chengdu, China",
+      "publication_dates": {
+        "published": [
+          2026,
+          9,
+          1
+        ],
+        "published-print": [
+          2026,
+          9,
+          1
+        ],
+        "issued": [
+          2026,
+          9,
+          1
+        ]
+      },
+      "type": "journal-article",
+      "venue": "Journal of Infrastructure Systems",
+      "authors": [
+        "Yang",
+        "Lang",
+        "Zhang",
+        "Pathak"
+      ],
+      "locator": {
+        "volume": "32",
+        "issue": "3",
+        "article-number": "04026010"
+      }
+    }
+  },
+  {
+    "id": "Zhao2025",
+    "doi": "10.1080/19475683.2025.2472781",
+    "year": 2025,
+    "reference": "Zhao, M., D. Wang, and W. Li. 2025. \"Idle occupancy and dead piles: New challenges in public charging station promotion.\" Ann. GIS 31 (2): 251–271. https://doi.org/10.1080/19475683.2025.2472781.",
+    "abstract_source": "https://www.tandfonline.com/doi/pdf/10.1080/19475683.2025.2472781#page=2",
+    "intro_source": "https://www.tandfonline.com/doi/pdf/10.1080/19475683.2025.2472781#page=2",
+    "abstract_evidence": "Finds spatial and temporal clustering of idle occupation and unusable charging points in Shenzhen and associations with later charging rates and nearby charging pressure.",
+    "intro_evidence": "Section 1 contrasts preference surveys and individual-behavior models with the need for supply-side evidence on realized network operation, and identifies idle occupancy and unusable equipment as distinct constraints on turnover.",
+    "manuscript_use": "Distinguish infrastructure congestion and turnover effects from readiness for sessions already observed. The replay does not infer waiting, idle occupation or broken chargers.",
+    "crossref_verification": {
+      "source": "https://api.crossref.org/works/10.1080/19475683.2025.2472781",
+      "title": "Idle occupancy and dead piles: new challenges in public charging station promotion",
+      "publication_dates": {
+        "published": [
+          2025,
+          3,
+          10
+        ],
+        "published-print": [
+          2025,
+          4,
+          3
+        ],
+        "published-online": [
+          2025,
+          3,
+          10
+        ],
+        "issued": [
+          2025,
+          3,
+          10
+        ]
+      },
+      "type": "journal-article",
+      "venue": "Annals of GIS",
+      "authors": [
+        "Zhao",
+        "Wang",
+        "Li"
+      ],
+      "locator": {
+        "volume": "31",
+        "issue": "2",
+        "page": "251-271"
+      }
+    }
+  },
+  {
+    "id": "Powell2022",
+    "doi": "10.1038/s41560-022-01105-7",
+    "year": 2022,
+    "reference": "Powell, S., G. V. Cezar, L. Min, I. M. L. Azevedo, and R. Rajagopal. 2022. \"Charging infrastructure access and operation to reduce the grid impacts of deep electric vehicle adoption.\" Nat. Energy 7 (10): 932–945. https://doi.org/10.1038/s41560-022-01105-7.",
+    "abstract_source": "https://www.nature.com/articles/s41560-022-01105-7#Abs1",
+    "intro_source": "https://www.nature.com/articles/s41560-022-01105-7#Sec1",
+    "abstract_evidence": "A data-driven charging-demand model and a 2035 Western Interconnection dispatch model compare infrastructure and control scenarios. The modeled shift toward daytime charging can decrease grid storage requirements, ramping, excess non-fossil generation, and emissions.",
+    "intro_evidence": "The opening Main section distinguishes charging controls that change timing or power within a session from infrastructure access that changes where and when sessions take place. The authors argue that extrapolating early adopters' behavior or using only centralized controls misses important future charging and generation effects.",
+    "manuscript_use": "Motivate the interaction of charging access, operating control and power-system outcomes. The storage result concerns grid-scale requirements in modeled adoption scenarios, whereas the present study compares stationary batteries at fixed public sites.",
+    "crossref_verification": {
+      "source": "https://api.crossref.org/works/10.1038/s41560-022-01105-7",
+      "title": "Charging infrastructure access and operation to reduce the grid impacts of deep electric vehicle adoption",
+      "publication_dates": {
+        "published": [
+          2022,
+          9,
+          22
+        ],
+        "published-online": [
+          2022,
+          9,
+          22
+        ],
+        "issued": [
+          2022,
+          9,
+          22
+        ]
+      },
+      "type": "journal-article",
+      "venue": "Nature Energy",
+      "authors": [
+        "Powell",
+        "Cezar",
+        "Min",
+        "Azevedo",
+        "Rajagopal"
+      ],
+      "locator": {
+        "volume": "7",
+        "issue": "10",
+        "page": "932-945"
+      }
+    }
+  },
+  {
+    "id": "Cheng2022",
+    "doi": "10.1109/SmartGridComm52983.2022.9960988",
+    "year": 2022,
+    "reference": "Cheng, K.-W., Y. Bian, Y. Shi, and Y. Chen. 2022. \"Carbon-aware EV charging.\" In Proc., 2022 IEEE Int. Conf. on Communications, Control, and Computing Technologies for Smart Grids (SmartGridComm), 186–192. Piscataway, NJ: IEEE. https://doi.org/10.1109/SmartGridComm52983.2022.9960988.",
+    "abstract_source": "https://arxiv.org/abs/2209.12373",
+    "intro_source": "https://arxiv.org/html/2209.12373#S1",
+    "abstract_evidence": "Using measured charging records and California generation data, the authors compare charging schedules that use forecast carbon intensity subject to transformer and vehicle constraints. They report a 3.81% emissions improvement in their high-service case, and 26.00% when accepting a 12.61% decrease in total delivered energy.",
+    "intro_evidence": "Section I motivates direct carbon optimization with California's intraday average-intensity variation, while arguing that each session's timing and energy requirements matter. It positions carbon-intensity forecasts as a means of extending offline scheduling to online station control and states the charging-emissions accounting boundary.",
+    "manuscript_use": "Cite as a direct carbon-aware station-scheduling and forecast precedent. Distinguish their allowed loss of total energy in the high-savings case from the present work's fixed final delivery and separately measured early readiness.",
+    "crossref_verification": {
+      "source": "https://api.crossref.org/works/10.1109/SmartGridComm52983.2022.9960988",
+      "title": "Carbon-Aware EV Charging",
+      "publication_dates": {
+        "published": [
+          2022,
+          10,
+          25
+        ],
+        "published-print": [
+          2022,
+          10,
+          25
+        ],
+        "issued": [
+          2022,
+          10,
+          25
+        ]
+      },
+      "type": "proceedings-article",
+      "venue": "2022 IEEE International Conference on Communications, Control, and Computing Technologies for Smart Grids (SmartGridComm)",
+      "authors": [
+        "Cheng",
+        "Bian",
+        "Shi",
+        "Chen"
+      ],
+      "locator": {
+        "page": "186-192"
+      }
+    }
+  },
+  {
+    "id": "LiJenn2022",
+    "doi": "10.1021/acs.est.1c06231",
+    "year": 2022,
+    "reference": "Li, X., and A. Jenn. 2022. \"Energy, emissions, and cost impacts of charging price strategies for electric vehicles.\" Environ. Sci. Technol. 56 (9): 5724–5733. https://doi.org/10.1021/acs.est.1c06231.",
+    "abstract_source": "https://pubs.acs.org/doi/10.1021/acs.est.1c06231",
+    "intro_source": "https://www.alanjenn.com/_files/ugd/4145f9_a65e9e26ad604e479c01982efc0e4406.pdf#page=1",
+    "abstract_evidence": "A San Diego charging and infrastructure-placement model compares flat, time-of-use and real-time rates. Relative to its flat-rate case, the model reports 20.2% more emissions under time-of-use pricing and 0.7% less under real-time pricing. Carbon pricing interacts with the base charging rate.",
+    "intro_evidence": "The introduction argues that cost shifting and environmental outcomes should be studied jointly, and criticizes scheduling studies that do not represent when drivers are dwelling near charging infrastructure or assume unrealistically complete price response.",
+    "manuscript_use": "Support the claim that a rate-based policy cannot be assumed to reduce charging emissions. Treat the effect sizes as results of their price-response and infrastructure model, not estimates for Scottish public sites.",
+    "crossref_verification": {
+      "source": "https://api.crossref.org/works/10.1021/acs.est.1c06231",
+      "title": "Energy, Emissions, and Cost Impacts of Charging Price Strategies for Electric Vehicles",
+      "publication_dates": {
+        "published": [
+          2022,
+          4,
+          14
+        ],
+        "published-print": [
+          2022,
+          5,
+          3
+        ],
+        "published-online": [
+          2022,
+          4,
+          14
+        ],
+        "issued": [
+          2022,
+          4,
+          14
+        ]
+      },
+      "type": "journal-article",
+      "venue": "Environmental Science &amp; Technology",
+      "authors": [
+        "Li",
+        "Jenn"
+      ],
+      "locator": {
+        "volume": "56",
+        "issue": "9",
+        "page": "5724-5733"
+      }
+    }
+  },
+  {
+    "id": "Daneshzand2023",
+    "doi": "10.1016/j.apenergy.2023.121482",
+    "year": 2023,
+    "reference": "Daneshzand, F., P. J. Coker, B. Potter, and S. T. Smith. 2023. \"EV smart charging: How tariff selection influences grid stress and carbon reduction.\" Appl. Energy 348: 121482. https://doi.org/10.1016/j.apenergy.2023.121482.",
+    "abstract_source": "https://centaur.reading.ac.uk/112635/1/Daneshzand%20et%20al%202023_EV%20smart%20charging.pdf#page=2",
+    "intro_source": "https://centaur.reading.ac.uk/112635/1/Daneshzand%20et%20al%202023_EV%20smart%20charging.pdf#page=3",
+    "abstract_evidence": "Stochastic demand sampled from the UK Electric Nation trial is used to simulate several tariffs and a carbon-oriented control case. Step tariffs can synchronize charging enough to raise peaks, and carbon-oriented timing can outperform these tariffs on emissions. Local capacity management prevents simulated secondary-substation overload in the evaluated cases.",
+    "intro_evidence": "Section 1 presents conflicting retail, carbon and network incentives, and explains how charging sessions can be longer than the time needed to transfer requested energy. It distinguishes instantaneous uncontrolled charging at connection from strategies that change charging time or rate and reviews the implications of heterogeneous EV behavior for grid impact estimates.",
+    "manuscript_use": "Use for UK evidence that charge timing, local capacity and the choice of tariff are separate operational levers. The study uses residential trials; the present evidence concerns public AC charging under a proxy-based early-service rule.",
+    "crossref_verification": {
+      "source": "https://api.crossref.org/works/10.1016/j.apenergy.2023.121482",
+      "title": "EV smart charging: How tariff selection influences grid stress and carbon reduction",
+      "publication_dates": {
+        "published": [
+          2023,
+          10
+        ],
+        "published-print": [
+          2023,
+          10
+        ],
+        "issued": [
+          2023,
+          10
+        ]
+      },
+      "type": "journal-article",
+      "venue": "Applied Energy",
+      "authors": [
+        "Daneshzand",
+        "Coker",
+        "Potter",
+        "Smith"
+      ],
+      "locator": {
+        "volume": "348",
+        "page": "121482",
+        "article-number": "121482"
+      }
+    }
+  },
+  {
+    "id": "LiEtAl2023",
+    "doi": "10.1016/j.scs.2023.104708",
+    "year": 2023,
+    "reference": "Li, J., G. Wang, X. Wang, and Y. Du. 2023. \"Smart charging strategy for electric vehicles based on marginal carbon emission factors and time-of-use price.\" Sustain. Cities Soc. 96: 104708. https://doi.org/10.1016/j.scs.2023.104708.",
+    "abstract_source": "https://www.sciencedirect.com/science/article/abs/pii/S2210670723003190",
+    "intro_source": "https://www.sciencedirect.com/science/article/pii/S2210670723003190",
+    "abstract_evidence": "Four strategies are simulated using more than 47,000 recorded charging events from 45 Tianjin stations. The proposed schedule combines time-of-use prices and estimated marginal carbon factors and reports cost and emissions reductions of up to 27% and 16% relative to uncontrolled charging.",
+    "intro_evidence": "The introduction contrasts TOU policies for load smoothing with carbon-aware scheduling and reviews earlier uses of hourly marginal factors. It motivates a joint price and marginal-carbon objective for charging start times and compares weekday and weekend demand.",
+    "manuscript_use": "Use as a direct precedent for comparing cost and carbon objectives on public-session inputs. Its marginal signal and simultaneous objective differ from the present average-based accounting and matched cost or service constraints.",
+    "crossref_verification": {
+      "source": "https://api.crossref.org/works/10.1016/j.scs.2023.104708",
+      "title": "Smart charging strategy for electric vehicles based on marginal carbon emission factors and time-of-use price",
+      "publication_dates": {
+        "published": [
+          2023,
+          9
+        ],
+        "published-print": [
+          2023,
+          9
+        ],
+        "issued": [
+          2023,
+          9
+        ]
+      },
+      "type": "journal-article",
+      "venue": "Sustainable Cities and Society",
+      "authors": [
+        "Li",
+        "Wang",
+        "Wang",
+        "Du"
+      ],
+      "locator": {
+        "volume": "96",
+        "page": "104708",
+        "article-number": "104708"
+      }
+    }
+  },
+  {
+    "id": "Powell2024",
+    "doi": "10.1016/j.enpol.2024.114131",
+    "year": 2024,
+    "reference": "Powell, S., S. Martin, R. Rajagopal, I. M. L. Azevedo, and J. de Chalendar. 2024. \"Future-proof rates for controlled electric vehicle charging: Comparing multi-year impacts of different emission factor signals.\" Energy Policy 190: 114131. https://doi.org/10.1016/j.enpol.2024.114131.",
+    "abstract_source": "https://www.research-collection.ethz.ch/bitstreams/d6e29779-f1c2-4d19-a55f-907fa3322879/download#page=2",
+    "intro_source": "https://www.research-collection.ethz.ch/bitstreams/d6e29779-f1c2-4d19-a55f-907fa3322879/download#page=2",
+    "abstract_evidence": "Western U.S. scenarios through 2037 couple data-driven EV demand with grid dispatch. The study compares average, short-run marginal and medium-run marginal emission-factor-based rate signals. Medium-run factors perform more consistently across years, with results constrained by available flexibility and the presence of supply-side carbon pricing.",
+    "intro_evidence": "Section 1 distinguishes emissions factors for accounting from emissions factors for demand response. It explains why infrequently updated, simple rate profiles and decentralized decisions differ from dynamic central dispatch, and why charger availability and stochastic behavior limit the achievable response.",
+    "manuscript_use": "Support separating a carbon-accounting metric from an operational signal, and motivate evaluating a frozen rate or forecast profile on another year instead of assuming its performance transfers.",
+    "crossref_verification": {
+      "source": "https://api.crossref.org/works/10.1016/j.enpol.2024.114131",
+      "title": "Future-proof rates for controlled electric vehicle charging: Comparing multi-year impacts of different emission factor signals",
+      "publication_dates": {
+        "published": [
+          2024,
+          7
+        ],
+        "published-print": [
+          2024,
+          7
+        ],
+        "issued": [
+          2024,
+          7
+        ]
+      },
+      "type": "journal-article",
+      "venue": "Energy Policy",
+      "authors": [
+        "Powell",
+        "Martin",
+        "Rajagopal",
+        "Azevedo",
+        "de Chalendar"
+      ],
+      "locator": {
+        "volume": "190",
+        "page": "114131",
+        "article-number": "114131"
+      }
+    }
+  },
+  {
+    "id": "Will2024",
+    "doi": "10.1016/j.apenergy.2024.123549",
+    "year": 2024,
+    "reference": "Will, C., F. Zimmermann, A. Ensslen, C. Fraunholz, P. Jochem, and D. Keles. 2024. \"Can electric vehicle charging be carbon neutral? Uniting smart charging and renewables.\" Appl. Energy 371: 123549. https://doi.org/10.1016/j.apenergy.2024.123549.",
+    "abstract_source": "https://backend.orbit.dtu.dk/ws/files/371894845/1-s2.0-S0306261924009322-main.pdf#page=2",
+    "intro_source": "https://backend.orbit.dtu.dk/ws/files/371894845/1-s2.0-S0306261924009322-main.pdf#page=2",
+    "abstract_evidence": "A ten-market Central European simulation evaluates spot-price and renewable-availability charging strategies. All tested smart strategies lower spot prices and renewable curtailment in the modeled settings, but near-zero allocated charging emissions can coexist with little change in total modeled European emissions.",
+    "intro_evidence": "Section 1 frames the question around how price or real-time renewable matching affects the power system, its aggregate emissions and the separate emissions allocated to EV purchases. It explicitly compares different allocation approaches for France and Germany.",
+    "manuscript_use": "Support the distinction between a station's attributed operational footprint and effects on system dispatch emissions. Near-zero contractual allocation in their model is a different accounting construct from the present grid-average footprint.",
+    "crossref_verification": {
+      "source": "https://api.crossref.org/works/10.1016/j.apenergy.2024.123549",
+      "title": "Can electric vehicle charging be carbon neutral? Uniting smart charging and renewables",
+      "publication_dates": {
+        "published": [
+          2024,
+          10
+        ],
+        "published-print": [
+          2024,
+          10
+        ],
+        "issued": [
+          2024,
+          10
+        ]
+      },
+      "type": "journal-article",
+      "venue": "Applied Energy",
+      "authors": [
+        "Will",
+        "Zimmermann",
+        "Ensslen",
+        "Fraunholz",
+        "Jochem",
+        "Keles"
+      ],
+      "locator": {
+        "volume": "371",
+        "page": "123549",
+        "article-number": "123549"
+      }
+    }
+  },
+  {
+    "id": "Romano2025",
+    "doi": "10.1021/acs.est.4c13270",
+    "year": 2025,
+    "reference": "Romano, E., B. Koirala, M. Rüdisüli, and S. Eggimann. 2025. \"Emission-responsive charging of electric cars and carsharing to improve the security of electricity supply for Switzerland.\" Environ. Sci. Technol. 59 (29): 15057–15069. https://doi.org/10.1021/acs.est.4c13270.",
+    "abstract_source": "https://pubs.acs.org/doi/full/10.1021/acs.est.4c13270",
+    "intro_source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12312090/",
+    "abstract_evidence": "A Swiss hourly charging model based on carsharing reservations finds a large tradeoff between optimizing charging cost and emissions. The original abstract's cost savings figure was corrected from 27% to 21% in the authors' 2026 correction at https://doi.org/10.1021/acs.est.5c18347. The reported 82% emissions improvement was retained.",
+    "intro_evidence": "Section 1 connects electricity emissions to when a vehicle is available, explains that frequent shared-vehicle use can constrain scheduling, and contrasts constant emissions factors with time-dependent charging emissions.",
+    "manuscript_use": "Provide an example of tariff-carbon divergence and mobility availability limiting flexibility. Avoid carrying over model-specific Swiss effects or the superseded cost figure.",
+    "crossref_verification": {
+      "source": "https://api.crossref.org/works/10.1021/acs.est.4c13270",
+      "title": "Emission-Responsive Charging of Electric Cars and Carsharing to Improve the Security of Electricity Supply for Switzerland",
+      "publication_dates": {
+        "published": [
+          2025,
+          7,
+          17
+        ],
+        "published-print": [
+          2025,
+          7,
+          29
+        ],
+        "published-online": [
+          2025,
+          7,
+          17
+        ],
+        "issued": [
+          2025,
+          7,
+          17
+        ]
+      },
+      "type": "journal-article",
+      "venue": "Environmental Science &amp; Technology",
+      "authors": [
+        "Romano",
+        "Koirala",
+        "Rüdisüli",
+        "Eggimann"
+      ],
+      "locator": {
+        "volume": "59",
+        "issue": "29",
+        "page": "15057-15069"
+      }
+    }
+  },
+  {
+    "id": "Fungyai2025",
+    "doi": "10.1016/j.segy.2025.100190",
+    "year": 2025,
+    "reference": "Fungyai, K., R. Passey, and B. Yildiz. 2025. \"Electric vehicle charging emissions under different control strategies and temporal resolutions: Case study for Australia.\" Smart Energy 19: 100190. https://doi.org/10.1016/j.segy.2025.100190.",
+    "abstract_source": "https://www.sciencedirect.com/science/article/pii/S2666955225000188",
+    "intro_source": "https://www.sciencedirect.com/science/article/pii/S2666955225000188",
+    "abstract_evidence": "The authors evaluate four charging control strategies against average and marginal emissions in the Australian National Electricity Market. Solar-aligned charging produced the lowest modeled emissions. Coarsening temporal resolution changed estimates by as much as 6.3%, and marginal factors exceeded averages in two high-renewable states.",
+    "intro_evidence": "Section 1 identifies the joint importance of charging behavior, generation mix, the average-versus-marginal definition and temporal resolution. It motivates the use of 184 Queensland participants' residential data with five-minute grid emissions rather than a single coarse or static factor.",
+    "manuscript_use": "Justify retaining half-hour signal resolution and labeling the national-average emissions scope explicitly. The Australian temporal-resolution effect is not a transferable error bound for Great Britain.",
+    "crossref_verification": {
+      "source": "https://api.crossref.org/works/10.1016/j.segy.2025.100190",
+      "title": "Electric vehicle charging emissions under different control strategies and temporal resolutions: Case study for Australia",
+      "publication_dates": {
+        "published": [
+          2025,
+          8
+        ],
+        "published-print": [
+          2025,
+          8
+        ],
+        "issued": [
+          2025,
+          8
+        ]
+      },
+      "type": "journal-article",
+      "venue": "Smart Energy",
+      "authors": [
+        "Fungyai",
+        "Passey",
+        "Yildiz"
+      ],
+      "locator": {
+        "volume": "19",
+        "page": "100190",
+        "article-number": "100190"
+      }
+    }
+  },
+  {
+    "id": "Kang2025",
+    "doi": "10.1016/j.energy.2025.138184",
+    "year": 2025,
+    "reference": "Kang, Z., Z. Ye, and S.-C. Hsu. 2025. \"Minimizing carbon footprint from power generation for electric vehicle charging considering demand uncertainty and grid operation constraints.\" Energy 335: 138184. https://doi.org/10.1016/j.energy.2025.138184.",
+    "abstract_source": "https://www.sciencedirect.com/science/article/abs/pii/S0360544225038265",
+    "intro_source": "https://www.sciencedirect.com/science/article/pii/S0360544225038265",
+    "abstract_evidence": "A rolling-horizon controller uses a power envelope computed from distribution load flow and California workplace charging records. Simulations report up to 20% daily emissions savings versus uncontrolled charging and a gap below 3.3% in emission reduction versus their offline comparison.",
+    "intro_evidence": "The introduction argues that arrival times, energy requests and departures are ordinarily unavailable before vehicles arrive and that charging at the same low-carbon times can violate distribution constraints. It reviews price mechanisms, shifts of charging start time and variable-power modulation before proposing an online load-flow-constrained controller.",
+    "manuscript_use": "Cite as a close precedent for online versus offline carbon scheduling under unknown arrivals. Differentiate the present matched PV-storage comparison, early-readiness requirement and equal-realized-cost benchmark from their modeled feeder limits and workplace setting.",
+    "crossref_verification": {
+      "source": "https://api.crossref.org/works/10.1016/j.energy.2025.138184",
+      "title": "Minimizing carbon footprint from power generation for electric vehicle charging considering demand uncertainty and grid operation constraints",
+      "publication_dates": {
+        "published": [
+          2025,
+          10
+        ],
+        "published-print": [
+          2025,
+          10
+        ],
+        "issued": [
+          2025,
+          10
+        ]
+      },
+      "type": "journal-article",
+      "venue": "Energy",
+      "authors": [
+        "Kang",
+        "Ye",
+        "Hsu"
+      ],
+      "locator": {
+        "volume": "335",
+        "page": "138184",
+        "article-number": "138184"
+      }
+    }
+  },
+  {
+    "id": "Martin2025",
+    "doi": "10.1038/s41467-025-64979-7",
+    "year": 2025,
+    "reference": "Martin, S., S. Powell, and R. Rajagopal. 2025. \"Cascading marginal emissions signals for green charging with growing electric vehicle adoption.\" Nat. Commun. 16: 10150. https://doi.org/10.1038/s41467-025-64979-7.",
+    "abstract_source": "https://www.nature.com/articles/s41467-025-64979-7",
+    "intro_source": "https://www.nature.com/articles/s41467-025-64979-7.pdf#page=2",
+    "abstract_evidence": "Observed charging data and a Western U.S. dispatch model are combined to evaluate average and marginal grid signals as EV adoption rises. A single common signal can increase system emissions under some conditions. Sequentially updating marginal signals for groups of vehicles lowers added emissions by 10–28% in the modeled high-adoption scenarios.",
+    "intro_evidence": "The opening section separates costs from emissions and defines average factors as generation-wide attribution and short-run marginal factors as the incremental dispatch response. It explains that correlated responses and the marginal generator can change the emissions effect of shifting load.",
+    "manuscript_use": "Support an explicit boundary around exogenous average-intensity accounting. A reduction in the modeled station footprint does not establish a change in consequential grid emissions, particularly when scaling the intervention.",
+    "crossref_verification": {
+      "source": "https://api.crossref.org/works/10.1038/s41467-025-64979-7",
+      "title": "Cascading marginal emissions signals for green charging with growing electric vehicle adoption",
+      "publication_dates": {
+        "published": [
+          2025,
+          11,
+          19
+        ],
+        "published-online": [
+          2025,
+          11,
+          19
+        ],
+        "issued": [
+          2025,
+          11,
+          19
+        ]
+      },
+      "type": "journal-article",
+      "venue": "Nature Communications",
+      "authors": [
+        "Martin",
+        "Powell",
+        "Rajagopal"
+      ],
+      "locator": {
+        "volume": "16",
+        "issue": "1",
+        "article-number": "10150"
+      }
+    }
+  },
+  {
+    "id": "CabreraTobar2022",
+    "doi": "10.1016/j.segan.2022.100769",
+    "year": 2022,
+    "reference": "Cabrera-Tobar, A., A. Massi Pavan, N. Blasuttigh, G. Petrone, and G. Spagnuolo. 2022. \"Real time energy management system of a photovoltaic based e-vehicle charging station using explicit model predictive control accounting for uncertainties.\" Sustainable Energy, Grids and Networks 31: 100769. https://doi.org/10.1016/j.segan.2022.100769.",
+    "abstract_source": "https://arts.units.it/retrieve/776d05d9-6905-4e00-9f92-645a850df5b7/1-s2.0-S235246772200087X-main-Post_print.pdf#page=1",
+    "intro_source": "https://arts.units.it/retrieve/776d05d9-6905-4e00-9f92-645a850df5b7/1-s2.0-S235246772200087X-main-Post_print.pdf#page=1",
+    "abstract_evidence": "An explicit MPC computes control laws offline and evaluates them online for a grid-connected PV and stationary-battery EV station. The uncertainty parameters include PV, price, battery SOC, and EV power; grid CO₂ is included.",
+    "intro_evidence": "The introduction links energy fulfillment, grid CO₂, and purchase price, and contrasts deterministic schedules with actual operation in which PV, EV power, and other inputs are uncertain.",
+    "manuscript_use": "Cite as direct prior work on carbon-aware PV/BESS charging control and on the gap between deterministic planning and operational information.",
+    "crossref_verification": {
+      "source": "https://api.crossref.org/works/10.1016/j.segan.2022.100769",
+      "title": "Real time Energy Management System of a photovoltaic based e-vehicle charging station using Explicit Model Predictive Control accounting for uncertainties",
+      "publication_dates": {
+        "published": [
+          2022,
+          9
+        ],
+        "published-print": [
+          2022,
+          9
+        ],
+        "issued": [
+          2022,
+          9
+        ]
+      },
+      "type": "journal-article",
+      "venue": "Sustainable Energy, Grids and Networks",
+      "authors": [
+        "Cabrera-Tobar",
+        "Pavan",
+        "Blasuttigh",
+        "Petrone",
+        "Spagnuolo"
+      ],
+      "locator": {
+        "volume": "31",
+        "page": "100769",
+        "article-number": "100769"
+      }
+    }
+  },
+  {
+    "id": "Rehman2022",
+    "doi": "10.1016/j.apenergy.2022.118745",
+    "year": 2022,
+    "reference": "ur Rehman, W., R. Bo, H. Mehdipourpicha, and J. W. Kimball. 2022. \"Sizing battery energy storage and PV system in an extreme fast charging station considering uncertainties and battery degradation.\" Applied Energy 313: 118745. https://doi.org/10.1016/j.apenergy.2022.118745.",
+    "abstract_source": "https://mst.elsevierpure.com/files/40305075/Sizing%20Battery%20Energy%20Storage%20and%20PV%20System%20in%20an%20Extreme%20Fast%20Ch.pdf#page=2",
+    "intro_source": "https://mst.elsevierpure.com/files/40305075/Sizing%20Battery%20Energy%20Storage%20and%20PV%20System%20in%20an%20Extreme%20Fast%20Ch.pdf#page=2",
+    "abstract_evidence": "MILP sizes PV and BESS for an extreme fast charging station and schedules arbitrage; the robust version accounts for electricity prices, PV output and station demand, while the model includes demand charges and battery aging.",
+    "intro_evidence": "The introduction motivates local storage with high-power charging and emphasizes that demand profiles, utility tariffs, and degradation influence the case for battery investment.",
+    "manuscript_use": "Distinguish lifecycle cost and high-power infrastructure sizing from the Scottish replay of normalized equipment scenarios and operating carbon at AC sites.",
+    "crossref_verification": {
+      "source": "https://api.crossref.org/works/10.1016/j.apenergy.2022.118745",
+      "title": "Sizing battery energy storage and PV system in an extreme fast charging station considering uncertainties and battery degradation",
+      "publication_dates": {
+        "published": [
+          2022,
+          5
+        ],
+        "published-print": [
+          2022,
+          5
+        ],
+        "issued": [
+          2022,
+          5
+        ]
+      },
+      "type": "journal-article",
+      "venue": "Applied Energy",
+      "authors": [
+        "Rehman",
+        "Bo",
+        "Mehdipourpicha",
+        "Kimball"
+      ],
+      "locator": {
+        "volume": "313",
+        "page": "118745",
+        "article-number": "118745"
+      }
+    }
+  },
+  {
+    "id": "CabreraTobar2024",
+    "doi": "10.1016/j.segan.2024.101381",
+    "year": 2024,
+    "reference": "Cabrera-Tobar, A., N. Blasuttigh, A. Massi Pavan, and G. Spagnuolo. 2024. \"Demand response of an electric vehicle charging station using a robust-explicit model predictive control considering uncertainties to minimize carbon intensity.\" Sustainable Energy, Grids and Networks 38: 101381. https://doi.org/10.1016/j.segan.2024.101381.",
+    "abstract_source": "https://re.public.polimi.it/retrieve/4b199ca7-9647-4882-a0dc-87839723b486/1-s2.0-S2352467724001103-main.pdf#page=1",
+    "intro_source": "https://re.public.polimi.it/retrieve/4b199ca7-9647-4882-a0dc-87839723b486/1-s2.0-S2352467724001103-main.pdf#page=2",
+    "abstract_evidence": "A two-stage station EMS combines planning with robust explicit MPC and models PV output, EV demand, and battery state uncertainty to limit grid purchases and CO₂.",
+    "intro_evidence": "The introduction identifies uncertain connection/disconnection and charging demand and the practical challenge of handling emissions, renewables, and battery state in both day-ahead and real-time operation.",
+    "manuscript_use": "Closest carbon-aware control predecessor. The present replay contrasts identical information sets and matches early service across storage cases, rather than claiming a new robust-MPC controller.",
+    "crossref_verification": {
+      "source": "https://api.crossref.org/works/10.1016/j.segan.2024.101381",
+      "title": "Demand response of an Electric Vehicle charging station using a robust-explicit model predictive control considering uncertainties to minimize carbon intensity",
+      "publication_dates": {
+        "published": [
+          2024,
+          6
+        ],
+        "published-print": [
+          2024,
+          6
+        ],
+        "issued": [
+          2024,
+          6
+        ]
+      },
+      "type": "journal-article",
+      "venue": "Sustainable Energy, Grids and Networks",
+      "authors": [
+        "Cabrera-Tobar",
+        "Blasuttigh",
+        "Pavan",
+        "Spagnuolo"
+      ],
+      "locator": {
+        "volume": "38",
+        "page": "101381",
+        "article-number": "101381"
+      }
+    }
+  },
+  {
+    "id": "Hull2024",
+    "doi": "10.1016/j.apenergy.2024.123990",
+    "year": 2024,
+    "reference": "Hull, C., J. Wust, M. J. Booysen, and M. D. McCulloch. 2024. \"Techno-economic optimization and assessment of solar-battery charging station under grid constraints with varying levels of fleet EV penetration.\" Applied Energy 374: 123990. https://doi.org/10.1016/j.apenergy.2024.123990.",
+    "abstract_source": "https://ora.ox.ac.uk/objects/uuid%3Ade6ebd70-acb3-4c84-9c71-07178fa4cf10",
+    "intro_source": "https://www.researchgate.net/publication/382944846_Techno-economic_optimization_and_assessment_of_solar-battery_charging_station_under_grid_constraints_with_varying_levels_of_fleet_EV_penetration",
+    "abstract_evidence": "The model tests PV/storage sizing under different grid constraints and electrification shares using a South African paratransit fleet. It identifies a role for flexible low-rate charging where fleet demand has peaks at the start and end of the day.",
+    "intro_evidence": "The introduction asks how load shedding or active network limits and the fraction of fleet demand electrified affect the economics of a PV/storage charging station. The introduction was checked in the published copy posted by co-author M. J. Booysen.",
+    "manuscript_use": "Cite for dependence of solar/storage economics on grid limits and charging load, then distinguish a frozen-size public AC replay and per-session service metric.",
+    "crossref_verification": {
+      "source": "https://api.crossref.org/works/10.1016/j.apenergy.2024.123990",
+      "title": "Techno-economic optimization and assessment of solar-battery charging station under grid constraints with varying levels of fleet EV penetration",
+      "publication_dates": {
+        "published": [
+          2024,
+          11
+        ],
+        "published-print": [
+          2024,
+          11
+        ],
+        "issued": [
+          2024,
+          11
+        ]
+      },
+      "type": "journal-article",
+      "venue": "Applied Energy",
+      "authors": [
+        "Hull",
+        "Wust",
+        "Booysen",
+        "McCulloch"
+      ],
+      "locator": {
+        "volume": "374",
+        "page": "123990",
+        "article-number": "123990"
+      }
+    }
+  },
+  {
+    "id": "Saleem2024",
+    "doi": "10.1016/j.enbuild.2024.114993",
+    "year": 2024,
+    "reference": "Saleem, M. I., S. Saha, U. Izhar, and L. Ang. 2024. \"A stochastic MPC-based energy management system for integrating solar PV, battery storage, and EV charging in residential complexes.\" Energy and Buildings 325: 114993. https://doi.org/10.1016/j.enbuild.2024.114993.",
+    "abstract_source": "https://research.usc.edu.au/esploro/outputs/journalArticle/A-stochastic-MPC-based-energy-management-system/991087897402621",
+    "intro_source": "https://research.usc.edu.au/esploro/outputs/journalArticle/A-stochastic-MPC-based-energy-management-system/991087897402621",
+    "abstract_evidence": "Stochastic MPC coordinates PV, stationary storage, and EV load in a residential complex with scenario inputs, degradation and inverter reactive power, and validation on a real-time simulator.",
+    "intro_evidence": "The full article available from the university record identifies shortcomings in addressing voltage, wear, and uncertain solar and EV demand together in residential EMS studies.",
+    "manuscript_use": "Use to frame stochastic MPC as a richer operational alternative and identify the public-AC replay's distinct service and carbon outcome.",
+    "crossref_verification": {
+      "source": "https://api.crossref.org/works/10.1016/j.enbuild.2024.114993",
+      "title": "A stochastic MPC-based energy management system for integrating solar PV, battery storage, and EV charging in residential complexes",
+      "publication_dates": {
+        "published": [
+          2024,
+          12
+        ],
+        "published-print": [
+          2024,
+          12
+        ],
+        "issued": [
+          2024,
+          12
+        ]
+      },
+      "type": "journal-article",
+      "venue": "Energy and Buildings",
+      "authors": [
+        "Saleem",
+        "Saha",
+        "Izhar",
+        "Ang"
+      ],
+      "locator": {
+        "volume": "325",
+        "page": "114993",
+        "article-number": "114993"
+      }
+    }
+  },
+  {
+    "id": "Yang2024",
+    "doi": "10.1109/ACCESS.2024.3386659",
+    "year": 2024,
+    "reference": "Yang, Y., H.-G. Yeh, and N. C. T. Dam. 2024. \"Optimal infrastructure design and power management for a photovoltaic and battery assisted electric vehicle charging station in Southern California.\" IEEE Access 12: 54101–54114. https://doi.org/10.1109/ACCESS.2024.3386659.",
+    "abstract_source": "https://doi.org/10.1109/ACCESS.2024.3386659",
+    "intro_source": "https://www.researchgate.net/publication/379716817_Optimal_Infrastructure_Design_and_Power_Management_for_a_Photovoltaic_and_Battery_Assisted_Electric_Vehicle_Charging_Station_in_Southern_California",
+    "abstract_evidence": "A two-stage design-and-operation method selects charger, PV, and battery capacity for profit under operating uncertainty and evaluates station energy management with MPC.",
+    "intro_evidence": "The introduction explains that long operating records and uncertain charging make joint infrastructure and operation optimization expensive. For a given infrastructure, a scheduling policy must account for customer demand and operator revenue.",
+    "manuscript_use": "Cite for coupling station infrastructure and controller comparisons; the target here is attributed carbon with fixed sizes, a common operating ceiling, and an energy-by-checkpoint requirement.",
+    "crossref_verification": {
+      "source": "https://api.crossref.org/works/10.1109/ACCESS.2024.3386659",
+      "title": "Optimal Infrastructure Design and Power Management for a Photovoltaic and Battery Assisted Electric Vehicle Charging Station in Southern California",
+      "publication_dates": {
+        "published": [
+          2024
+        ],
+        "published-print": [
+          2024
+        ],
+        "issued": [
+          2024
+        ]
+      },
+      "type": "journal-article",
+      "venue": "IEEE Access",
+      "authors": [
+        "Yang",
+        "Yeh",
+        "Dam"
+      ],
+      "locator": {
+        "volume": "12",
+        "page": "54101-54114"
+      }
+    }
+  },
+  {
+    "id": "Xin2025",
+    "doi": "10.1016/j.apenergy.2025.126345",
+    "year": 2025,
+    "reference": "Xin, W., Z. Lu, Z. Yu, Z. He, H. Pu, and B. Ye. 2025. \"Aggregator-driven optimisation of electric vehicle charging stations in Shenzhen: Synergising smart charging, renewable energy integration and energy storage.\" Applied Energy 397: 126345. https://doi.org/10.1016/j.apenergy.2025.126345.",
+    "abstract_source": "https://www.sciencedirect.com/science/article/abs/pii/S030626192501075X",
+    "intro_source": "https://www.sciencedirect.com/science/article/pii/S030626192501075X#sec0010",
+    "abstract_evidence": "A framework informed by 1,682 Shenzhen stations contrasts charging strategies in renewable/storage scenarios. The paper reports that adding storage can raise emissions with on-demand operation and lower them when coupled with smart charging.",
+    "intro_evidence": "The publisher introduction argues that charging-behavior forecasts often omit renewable-system integration while some renewable integration analyses simplify charging behavior. It combines real charging records with a microgrid model for techno-economic and environmental comparison.",
+    "manuscript_use": "Cite as a close predecessor on conditional storage effects. Define the added result as same-site matched-year estimates and two service-conditioned contrasts, plus a restricted-information rolling benchmark.",
+    "crossref_verification": {
+      "source": "https://api.crossref.org/works/10.1016/j.apenergy.2025.126345",
+      "title": "Aggregator-driven optimisation of electric vehicle charging stations in Shenzhen: Synergising smart charging, renewable energy integration and energy storage",
+      "publication_dates": {
+        "published": [
+          2025,
+          11
+        ],
+        "published-print": [
+          2025,
+          11
+        ],
+        "issued": [
+          2025,
+          11
+        ]
+      },
+      "type": "journal-article",
+      "venue": "Applied Energy",
+      "authors": [
+        "Xin",
+        "Lu",
+        "Yu",
+        "He",
+        "Pu",
+        "Ye"
+      ],
+      "locator": {
+        "volume": "397",
+        "page": "126345",
+        "article-number": "126345"
+      }
+    }
+  },
+  {
+    "id": "Li2026",
+    "doi": "10.3390/su18136534",
+    "year": 2026,
+    "reference": "Li, Z., Y. Zhou, Z. Miao, and F. Jin. 2026. \"Tariff-aware and carbon-aware supervisory energy management for the sustainable operation of a grid-connected photovoltaic–battery energy storage–electric vehicle charging station: A dual-time-scale evaluation.\" Sustainability 18 (13): 6534. https://doi.org/10.3390/su18136534.",
+    "abstract_source": "https://www.mdpi.com/2071-1050/18/13/6534",
+    "intro_source": "https://www.mdpi.com/2071-1050/18/13/6534#sec1",
+    "abstract_evidence": "A bounded rule-based supervisor is evaluated against PV self-consumption and MILP baselines, with daily cost, carbon, peak import, service, and cycling metrics and short-duration converter reference checks.",
+    "intro_evidence": "The introduction identifies limited linkage between daily tariff/carbon scheduling and short-term converter traceability. It explains why price and carbon are separate signals and states that the carbon scenarios are designed profiles.",
+    "manuscript_use": "Cite for tariff versus carbon objectives and transparent same-metric comparison. Distinguish the GB historical signals, per-session checkpoint constraints, and cross-year rolling test from prescribed scenarios and converter studies.",
+    "crossref_verification": {
+      "source": "https://api.crossref.org/works/10.3390/su18136534",
+      "title": "Tariff-Aware and Carbon-Aware Supervisory Energy Management for the Sustainable Operation of a Grid-Connected Photovoltaic–Battery Energy Storage–Electric Vehicle Charging Station: A Dual-Time-Scale Evaluation",
+      "publication_dates": {
+        "published": [
+          2026,
+          6,
+          26
+        ],
+        "published-online": [
+          2026,
+          6,
+          26
+        ],
+        "issued": [
+          2026,
+          6,
+          26
+        ]
+      },
+      "type": "journal-article",
+      "venue": "Sustainability",
+      "authors": [
+        "Li",
+        "Zhou",
+        "Miao",
+        "Jin"
+      ],
+      "locator": {
+        "volume": "18",
+        "issue": "13",
+        "page": "6534"
+      }
+    }
+  },
+  {
+    "id": "Gumus2026",
+    "doi": "10.1016/j.apenergy.2026.128201",
+    "year": 2026,
+    "reference": "Gumus, E. 2026. \"Techno-economic optimization and operational performance analysis of a solar-powered EV charging station: A campus case study.\" Applied Energy 421: 128201. https://doi.org/10.1016/j.apenergy.2026.128201.",
+    "abstract_source": "https://www.sciencedirect.com/science/article/pii/S0306261926008536",
+    "intro_source": "https://www.sciencedirect.com/science/article/pii/S0306261926008536#sec0010",
+    "abstract_evidence": "A campus sizing and scalability study finds a grid-connected configuration without storage to be economically optimal under its daytime demand, solar conditions, and model assumptions.",
+    "intro_evidence": "The introduction identifies concurrent daytime base load, commuter dwell, and solar output as a mechanism that increases direct self-consumption and can reduce the value of stationary storage.",
+    "manuscript_use": "Cite to support the context dependence of storage benefit, while distinguishing campus investment economics and site-level energy alignment from the public charging service and attributed-carbon comparison.",
+    "crossref_verification": {
+      "source": "https://api.crossref.org/works/10.1016/j.apenergy.2026.128201",
+      "title": "Techno-economic optimization and operational performance analysis of a solar-powered EV charging station: A campus case study",
+      "publication_dates": {
+        "published": [
+          2026,
+          10
+        ],
+        "published-print": [
+          2026,
+          10
+        ],
+        "issued": [
+          2026,
+          10
+        ]
+      },
+      "type": "journal-article",
+      "venue": "Applied Energy",
+      "authors": [
+        "Gumus"
+      ],
+      "locator": {
+        "volume": "421",
+        "page": "128201",
+        "article-number": "128201"
+      }
+    }
+  }
+]

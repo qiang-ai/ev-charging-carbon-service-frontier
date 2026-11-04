@@ -1,0 +1,14 @@
+{
+  "cases": 70,
+  "outcomes": 420,
+  "protocol_sha256": "34ef9c6db9d988eaf450c219352873ffd9571b03ae48faf917f87c134e6d5aee",
+  "training_signal_sha256": {
+    "edinburgh_2023_01": "1654b8b501f557a8052068bee5d3ffd3fba1b0b5568426dcc5fb8fb8b8c2ecad",
+    "edinburgh_2023_07": "93ddd6eaa6d966e28a59dab9f2a05e9412db70b3452cd09f61049c90fdb70945",
+    "glasgow_2023_01": "721cd15e002c1ee9c40138ab1fc24242c83012eb564e898af46c74effe76c249",
+    "glasgow_2023_07": "4a8eec8b5cbbfbc16e1ff8605038623983286446432051851ebfaefc72d4842b"
+  },
+  "outcomes_sha256": "de96f30f4c2625b7ae41dfa6aafdd2d7087830daed26c05325551b3a20324696",
+  "information_prefix_test": "pass",
+  "planner_signals": "2023_frozen_medians"
+}

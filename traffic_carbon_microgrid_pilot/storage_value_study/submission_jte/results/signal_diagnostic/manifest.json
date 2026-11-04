@@ -1,0 +1,9 @@
+{
+  "cases": 70,
+  "outcomes": 140,
+  "protocol_sha256": "34ef9c6db9d988eaf450c219352873ffd9571b03ae48faf917f87c134e6d5aee",
+  "training_signal_sha256": {},
+  "outcomes_sha256": "73413219fac5d53f75082e57fb42c01f384db7d6add6462b73b70fb1a9929333",
+  "information_prefix_test": "not_applicable_future_signals_supplied",
+  "planner_signals": "realized_diagnostic"
+}

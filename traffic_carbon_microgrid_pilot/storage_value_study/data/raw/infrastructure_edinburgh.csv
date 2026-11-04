@@ -1,0 +1,350 @@
+Latitude,Longitude,CP ID,Connector,Nominal Power (kW),Connector Type,Tariff,Connection Fee,Address,Postcode,Local Authority,Region ID
+55.94344,-3.24428,53140,1,22.0,Type 2,0.45,1.0,Curl Edinburgh,EH12,City of Edinburgh,2
+55.94344,-3.24428,53140,2,22.0,Type 2,0.45,1.0,Curl Edinburgh,EH12,City of Edinburgh,2
+55.955948,-3.245171,62289,1,7.0,Type 2,0.51,0.0,Craigleith Crescent,EH4,City of Edinburgh,2
+55.955948,-3.245171,62289,2,7.0,Type 2,0.51,0.0,Craigleith Crescent,EH4,City of Edinburgh,2
+55.955948,-3.245171,62299,1,7.0,Type 2,0.51,0.0,Craigleith Crescent,EH4,City of Edinburgh,2
+55.955948,-3.245171,62299,2,7.0,Type 2,0.51,0.0,Craigleith Crescent,EH4,City of Edinburgh,2
+55.90068,-3.17703,52723,1,22.0,Type 2,,,Mortonhall Garden Centre,EH16,City of Edinburgh,2
+55.90068,-3.17703,52723,2,22.0,Type 2,,,Mortonhall Garden Centre,EH16,City of Edinburgh,2
+55.903022,-3.153792,60435,1,7.0,Type 2,0.51,0.0,"South Edinburgh Local Office, Captain's Road, Edinburgh",EH17,City of Edinburgh,2
+55.903022,-3.153792,60435,2,7.0,Type 2,0.51,0.0,"South Edinburgh Local Office, Captain's Road, Edinburgh",EH17,City of Edinburgh,2
+55.903022,-3.153792,60436,1,7.0,Type 2,0.51,0.0,"South Edinburgh Local Office, Captain's Road, Edinburgh",EH17,City of Edinburgh,2
+55.903022,-3.153792,60436,2,7.0,Type 2,0.51,0.0,"South Edinburgh Local Office, Captain's Road, Edinburgh",EH17,City of Edinburgh,2
+55.903022,-3.153792,60437,1,7.0,Type 2,0.51,0.0,"South Edinburgh Local Office, Captain's Road, Edinburgh",EH17,City of Edinburgh,2
+55.903022,-3.153792,60437,2,7.0,Type 2,0.51,0.0,"South Edinburgh Local Office, Captain's Road, Edinburgh",EH17,City of Edinburgh,2
+55.903022,-3.153792,50344,1,22.0,Type 2,0.56,,"South Edinburgh Local Office, Captain's Road, Edinburgh",EH17,City of Edinburgh,2
+55.903022,-3.153792,50344,2,22.0,Type 2,0.56,,"South Edinburgh Local Office, Captain's Road, Edinburgh",EH17,City of Edinburgh,2
+55.93943,-3.35573,51314,1,43.0,Type 2,0.61,,Ingliston Park & Ride,EH28,City of Edinburgh,2
+55.93943,-3.35573,51314,2,50.0,CHAdeMO,0.61,,Ingliston Park & Ride,EH28,City of Edinburgh,2
+55.93943,-3.35573,51314,3,50.0,CCS,0.61,,Ingliston Park & Ride,EH28,City of Edinburgh,2
+55.93943,-3.35573,61445,1,50.0,CCS,0.61,,Ingliston Park & Ride,EH28,City of Edinburgh,2
+55.93943,-3.35573,61445,2,50.0,CHAdeMO,0.61,,Ingliston Park & Ride,EH28,City of Edinburgh,2
+55.93943,-3.35573,61445,3,43.0,Type 2,0.61,,Ingliston Park & Ride,EH28,City of Edinburgh,2
+55.93943,-3.35573,61453,1,7.0,Type 2,0.51,,Ingliston Park & Ride,EH28,City of Edinburgh,2
+55.93943,-3.35573,61453,2,7.0,Type 2,0.51,,Ingliston Park & Ride,EH28,City of Edinburgh,2
+55.93943,-3.35573,50936,1,22.0,Type 2,0.56,,Ingliston Park & Ride,EH28,City of Edinburgh,2
+55.93943,-3.35573,50936,2,22.0,Type 2,0.56,,Ingliston Park & Ride,EH28,City of Edinburgh,2
+55.93943,-3.35573,61443,1,50.0,CCS,0.61,,Ingliston Park & Ride,EH28,City of Edinburgh,2
+55.93943,-3.35573,61443,2,50.0,CHAdeMO,0.61,,Ingliston Park & Ride,EH28,City of Edinburgh,2
+55.93943,-3.35573,61443,3,43.0,Type 2,0.61,,Ingliston Park & Ride,EH28,City of Edinburgh,2
+55.93943,-3.35573,50935,1,22.0,Type 2,0.56,,Ingliston Park & Ride,EH28,City of Edinburgh,2
+55.93943,-3.35573,50935,2,22.0,Type 2,0.56,,Ingliston Park & Ride,EH28,City of Edinburgh,2
+55.93943,-3.35573,61447,1,7.0,Type 2,0.51,,Ingliston Park & Ride,EH28,City of Edinburgh,2
+55.93943,-3.35573,61447,2,7.0,Type 2,0.51,,Ingliston Park & Ride,EH28,City of Edinburgh,2
+55.93943,-3.35573,61454,1,7.0,Type 2,0.51,,Ingliston Park & Ride,EH28,City of Edinburgh,2
+55.93943,-3.35573,61454,2,7.0,Type 2,0.51,,Ingliston Park & Ride,EH28,City of Edinburgh,2
+55.93943,-3.35573,60510,1,50.0,CCS,0.61,,Ingliston Park & Ride,EH28,City of Edinburgh,2
+55.93943,-3.35573,60510,2,50.0,CHAdeMO,0.61,,Ingliston Park & Ride,EH28,City of Edinburgh,2
+55.93943,-3.35573,60510,3,43.0,Type 2,0.61,,Ingliston Park & Ride,EH28,City of Edinburgh,2
+55.93943,-3.35573,61448,1,7.0,Type 2,0.51,,Ingliston Park & Ride,EH28,City of Edinburgh,2
+55.93943,-3.35573,61448,2,7.0,Type 2,0.51,,Ingliston Park & Ride,EH28,City of Edinburgh,2
+55.93943,-3.35573,61455,1,7.0,Type 2,0.51,,Ingliston Park & Ride,EH28,City of Edinburgh,2
+55.93943,-3.35573,61455,2,7.0,Type 2,0.51,,Ingliston Park & Ride,EH28,City of Edinburgh,2
+55.93943,-3.35573,61441,1,50.0,CCS,0.61,,Ingliston Park & Ride,EH28,City of Edinburgh,2
+55.93943,-3.35573,61441,2,50.0,CHAdeMO,0.61,,Ingliston Park & Ride,EH28,City of Edinburgh,2
+55.93943,-3.35573,61441,3,43.0,Type 2,0.61,,Ingliston Park & Ride,EH28,City of Edinburgh,2
+55.93943,-3.35573,61449,1,7.0,Type 2,0.51,,Ingliston Park & Ride,EH28,City of Edinburgh,2
+55.93943,-3.35573,61449,2,7.0,Type 2,0.51,,Ingliston Park & Ride,EH28,City of Edinburgh,2
+55.93943,-3.35573,61456,1,7.0,Type 2,0.51,,Ingliston Park & Ride,EH28,City of Edinburgh,2
+55.93943,-3.35573,61456,2,7.0,Type 2,0.51,,Ingliston Park & Ride,EH28,City of Edinburgh,2
+55.93943,-3.35573,61450,1,7.0,Type 2,0.51,,Ingliston Park & Ride,EH28,City of Edinburgh,2
+55.93943,-3.35573,61450,2,7.0,Type 2,0.51,,Ingliston Park & Ride,EH28,City of Edinburgh,2
+55.93943,-3.35573,61457,1,7.0,Type 2,0.51,,Ingliston Park & Ride,EH28,City of Edinburgh,2
+55.93943,-3.35573,61457,2,7.0,Type 2,0.51,,Ingliston Park & Ride,EH28,City of Edinburgh,2
+55.93943,-3.35573,61442,1,50.0,CCS,0.61,,Ingliston Park & Ride,EH28,City of Edinburgh,2
+55.93943,-3.35573,61442,2,50.0,CHAdeMO,0.61,,Ingliston Park & Ride,EH28,City of Edinburgh,2
+55.93943,-3.35573,61442,3,43.0,Type 2,0.61,,Ingliston Park & Ride,EH28,City of Edinburgh,2
+55.93943,-3.35573,61451,1,7.0,Type 2,0.51,,Ingliston Park & Ride,EH28,City of Edinburgh,2
+55.93943,-3.35573,61451,2,7.0,Type 2,0.51,,Ingliston Park & Ride,EH28,City of Edinburgh,2
+55.93943,-3.35573,61458,1,7.0,Type 2,0.51,,Ingliston Park & Ride,EH28,City of Edinburgh,2
+55.93943,-3.35573,61458,2,7.0,Type 2,0.51,,Ingliston Park & Ride,EH28,City of Edinburgh,2
+55.93943,-3.35573,61444,1,50.0,CCS,0.61,,Ingliston Park & Ride,EH28,City of Edinburgh,2
+55.93943,-3.35573,61444,2,50.0,CHAdeMO,0.61,,Ingliston Park & Ride,EH28,City of Edinburgh,2
+55.93943,-3.35573,61444,3,43.0,Type 2,0.61,,Ingliston Park & Ride,EH28,City of Edinburgh,2
+55.93943,-3.35573,61446,1,7.0,Type 2,0.51,,Ingliston Park & Ride,EH28,City of Edinburgh,2
+55.93943,-3.35573,61446,2,7.0,Type 2,0.51,,Ingliston Park & Ride,EH28,City of Edinburgh,2
+55.93943,-3.35573,61459,1,7.0,Type 2,0.51,,Ingliston Park & Ride,EH28,City of Edinburgh,2
+55.93943,-3.35573,61459,2,7.0,Type 2,0.51,,Ingliston Park & Ride,EH28,City of Edinburgh,2
+55.93943,-3.35573,61452,1,7.0,Type 2,0.51,,Ingliston Park & Ride,EH28,City of Edinburgh,2
+55.93943,-3.35573,61452,2,7.0,Type 2,0.51,,Ingliston Park & Ride,EH28,City of Edinburgh,2
+55.93943,-3.35573,61460,1,7.0,Type 2,0.51,,Ingliston Park & Ride,EH28,City of Edinburgh,2
+55.93943,-3.35573,61460,2,7.0,Type 2,0.51,,Ingliston Park & Ride,EH28,City of Edinburgh,2
+55.93333,-3.09051,52510,1,7.0,Type 2,0.43,,Newcraighall Railway Station,EH21,City of Edinburgh,2
+55.93333,-3.09051,52510,2,7.0,Type 2,0.43,,Newcraighall Railway Station,EH21,City of Edinburgh,2
+55.9329668,-3.1270181,60480,1,22.0,Type 2,0.56,0.0,Castlebrae Community Campus,EH16,City of Edinburgh,2
+55.9329668,-3.1270181,60480,2,22.0,Type 2,0.56,0.0,Castlebrae Community Campus,EH16,City of Edinburgh,2
+55.9398,-3.3113,50974,1,7.0,Type 2,,,"Edinburgh Marriott Hotel, Edinburgh",EH12,City of Edinburgh,2
+55.9398,-3.3113,50974,2,7.0,Type 2,,,"Edinburgh Marriott Hotel, Edinburgh",EH12,City of Edinburgh,2
+55.92229,-3.26992,60185,1,7.0,Type 2,0.51,0.0,"Murrayburn Depot, Edinburgh",EH14,City of Edinburgh,2
+55.92229,-3.26992,60185,2,7.0,Type 2,0.51,0.0,"Murrayburn Depot, Edinburgh",EH14,City of Edinburgh,2
+55.92345,-3.29145,50742,1,22.0,Type 2,0.56,,"Bankhead Depot, Bankhead Avenue, Edinburgh",EH11,City of Edinburgh,2
+55.92345,-3.29145,51514,1,51.0,CCS,0.61,,"Bankhead Depot, Bankhead Avenue, Edinburgh",EH11,City of Edinburgh,2
+55.92345,-3.29145,51514,2,51.0,CHAdeMO,0.61,,"Bankhead Depot, Bankhead Avenue, Edinburgh",EH11,City of Edinburgh,2
+55.92345,-3.29145,51514,3,22.0,Type 2,0.61,,"Bankhead Depot, Bankhead Avenue, Edinburgh",EH11,City of Edinburgh,2
+55.92408,-3.28847,62114-C,1,7.0,Type 2,0.48,0.0,"Edinburgh Napier University, Sighthill Campus",EH11,City of Edinburgh,2
+55.92408,-3.28847,62114-C,2,7.0,Type 2,0.48,0.0,"Edinburgh Napier University, Sighthill Campus",EH11,City of Edinburgh,2
+55.92408,-3.28847,62114-C,3,7.0,Type 2,0.48,0.0,"Edinburgh Napier University, Sighthill Campus",EH11,City of Edinburgh,2
+55.92408,-3.28847,62114-C,4,7.0,Type 2,0.48,0.0,"Edinburgh Napier University, Sighthill Campus",EH11,City of Edinburgh,2
+55.92408,-3.28847,62114-C,5,7.0,Type 2,0.48,0.0,"Edinburgh Napier University, Sighthill Campus",EH11,City of Edinburgh,2
+55.92408,-3.28847,62114-C,6,7.0,Type 2,0.48,0.0,"Edinburgh Napier University, Sighthill Campus",EH11,City of Edinburgh,2
+55.92408,-3.28847,61030-C,1,7.0,Type 2,0.48,0.0,"Edinburgh Napier University, Sighthill Campus",EH11,City of Edinburgh,2
+55.92408,-3.28847,61030-C,2,7.0,Type 2,0.48,0.0,"Edinburgh Napier University, Sighthill Campus",EH11,City of Edinburgh,2
+55.92408,-3.28847,61030-C,3,7.0,Type 2,0.48,0.0,"Edinburgh Napier University, Sighthill Campus",EH11,City of Edinburgh,2
+55.92408,-3.28847,61030-C,4,7.0,Type 2,0.48,0.0,"Edinburgh Napier University, Sighthill Campus",EH11,City of Edinburgh,2
+55.9245,-3.30313,APT51532,1,22.0,Type 2,0.55,0.0,"Central Radio Taxis (Tollcross) Limited, Edinburgh",EH11,City of Edinburgh,2
+55.9245,-3.30313,APT51532,2,50.0,CCS,0.55,0.0,"Central Radio Taxis (Tollcross) Limited, Edinburgh",EH11,City of Edinburgh,2
+55.9245,-3.30313,APT51532,3,50.0,CHAdeMO,0.55,0.0,"Central Radio Taxis (Tollcross) Limited, Edinburgh",EH11,City of Edinburgh,2
+55.9245,-3.30313,APT51531,1,22.0,Type 2,0.55,0.0,"Central Radio Taxis (Tollcross) Limited, Edinburgh",EH11,City of Edinburgh,2
+55.9245,-3.30313,APT51531,2,50.0,CCS,0.55,0.0,"Central Radio Taxis (Tollcross) Limited, Edinburgh",EH11,City of Edinburgh,2
+55.9245,-3.30313,APT51531,3,50.0,CHAdeMO,0.55,0.0,"Central Radio Taxis (Tollcross) Limited, Edinburgh",EH11,City of Edinburgh,2
+55.955422,-3.287684,51352,1,7.0,Type 2,0.51,,"Drumbrae Library, Edinburgh",EH4,City of Edinburgh,2
+55.955422,-3.287684,51352,2,7.0,Type 2,0.51,,"Drumbrae Library, Edinburgh",EH4,City of Edinburgh,2
+55.955275,-3.2873476,60610,1,7.0,Type 2,0.51,0.0,"Drumbrae Hub, Edinburgh",EH4,City of Edinburgh,2
+55.955275,-3.2873476,60610,2,7.0,Type 2,0.51,0.0,"Drumbrae Hub, Edinburgh",EH4,City of Edinburgh,2
+55.955275,-3.2873476,60611,1,7.0,Type 2,0.51,0.0,"Drumbrae Hub, Edinburgh",EH4,City of Edinburgh,2
+55.955275,-3.2873476,60611,2,7.0,Type 2,0.51,0.0,"Drumbrae Hub, Edinburgh",EH4,City of Edinburgh,2
+55.955275,-3.2873476,60612,1,7.0,Type 2,0.51,0.0,"Drumbrae Hub, Edinburgh",EH4,City of Edinburgh,2
+55.955275,-3.2873476,60612,2,7.0,Type 2,0.51,0.0,"Drumbrae Hub, Edinburgh",EH4,City of Edinburgh,2
+55.92318,-3.17528,51334,1,7.0,Type 2,0.45,,"University of Edinburgh, Kings Buildings Campus, James Dewar Road, Edinburgh",EH9,City of Edinburgh,2
+55.92318,-3.17528,51334,2,7.0,Type 2,0.45,,"University of Edinburgh, Kings Buildings Campus, James Dewar Road, Edinburgh",EH9,City of Edinburgh,2
+55.9339677,-3.1627182,62333,1,7.0,Type 2,0.51,0.0,Prestonfield Avenue,EH16,City of Edinburgh,2
+55.9339677,-3.1627182,62333,2,7.0,Type 2,0.51,0.0,Prestonfield Avenue,EH16,City of Edinburgh,2
+55.9339677,-3.1627182,62343,1,7.0,Type 2,0.51,0.0,Prestonfield Avenue,EH16,City of Edinburgh,2
+55.9339677,-3.1627182,62343,2,7.0,Type 2,0.51,0.0,Prestonfield Avenue,EH16,City of Edinburgh,2
+55.95991,-3.14801,51664,1,7.0,Type 2,0.51,,"Craigentinny Community Centre, Edinburgh",EH7,City of Edinburgh,2
+55.95991,-3.14801,51664,2,7.0,Type 2,0.51,,"Craigentinny Community Centre, Edinburgh",EH7,City of Edinburgh,2
+55.94017,-3.18219,51327,1,7.0,Type 2,0.5,,"Summerhall, Edinburgh",EH19,City of Edinburgh,2
+55.939602,-3.171367,51895,1,22.0,Type 2,0.45,,"Pollock Halls of Residence, University of Edinburgh, Holyrood Park Road, Edinburgh",EH16,City of Edinburgh,2
+55.939602,-3.171367,51895,2,22.0,Type 2,0.45,,"Pollock Halls of Residence, University of Edinburgh, Holyrood Park Road, Edinburgh",EH16,City of Edinburgh,2
+55.939602,-3.171367,51891,1,22.0,Type 2,0.45,,"Pollock Halls of Residence, University of Edinburgh, Holyrood Park Road, Edinburgh",EH16,City of Edinburgh,2
+55.939602,-3.171367,51891,2,22.0,Type 2,0.45,,"Pollock Halls of Residence, University of Edinburgh, Holyrood Park Road, Edinburgh",EH16,City of Edinburgh,2
+55.939602,-3.171367,51894,1,22.0,Type 2,0.45,,"Pollock Halls of Residence, University of Edinburgh, Holyrood Park Road, Edinburgh",EH16,City of Edinburgh,2
+55.939602,-3.171367,51894,2,22.0,Type 2,0.45,,"Pollock Halls of Residence, University of Edinburgh, Holyrood Park Road, Edinburgh",EH16,City of Edinburgh,2
+55.939602,-3.171367,51893,1,22.0,Type 2,0.45,,"Pollock Halls of Residence, University of Edinburgh, Holyrood Park Road, Edinburgh",EH16,City of Edinburgh,2
+55.939602,-3.171367,51893,2,22.0,Type 2,0.45,,"Pollock Halls of Residence, University of Edinburgh, Holyrood Park Road, Edinburgh",EH16,City of Edinburgh,2
+55.939602,-3.171367,51892,1,22.0,Type 2,0.45,,"Pollock Halls of Residence, University of Edinburgh, Holyrood Park Road, Edinburgh",EH16,City of Edinburgh,2
+55.939602,-3.171367,51892,2,22.0,Type 2,0.45,,"Pollock Halls of Residence, University of Edinburgh, Holyrood Park Road, Edinburgh",EH16,City of Edinburgh,2
+55.939602,-3.171367,51896,1,22.0,Type 2,0.45,,"Pollock Halls of Residence, University of Edinburgh, Holyrood Park Road, Edinburgh",EH16,City of Edinburgh,2
+55.939602,-3.171367,51896,2,22.0,Type 2,0.45,,"Pollock Halls of Residence, University of Edinburgh, Holyrood Park Road, Edinburgh",EH16,City of Edinburgh,2
+55.939602,-3.171367,51890,1,22.0,Type 2,0.45,,"Pollock Halls of Residence, University of Edinburgh, Holyrood Park Road, Edinburgh",EH16,City of Edinburgh,2
+55.939602,-3.171367,51890,2,22.0,Type 2,0.45,,"Pollock Halls of Residence, University of Edinburgh, Holyrood Park Road, Edinburgh",EH16,City of Edinburgh,2
+55.940635,-3.172332,51888,1,22.0,Type 2,0.45,,"Pollock Halls, Chancellors Court",EH16,City of Edinburgh,2
+55.940635,-3.172332,51888,2,22.0,Type 2,0.45,,"Pollock Halls, Chancellors Court",EH16,City of Edinburgh,2
+55.940635,-3.172332,51889,1,22.0,Type 2,0.45,,"Pollock Halls, Chancellors Court",EH16,City of Edinburgh,2
+55.940635,-3.172332,51889,2,22.0,Type 2,0.45,,"Pollock Halls, Chancellors Court",EH16,City of Edinburgh,2
+55.94143,-3.21645,50795,1,44.0,Type 2,,,"X Leisure, Fountain Park Centre, Edinburgh",EH11,City of Edinburgh,2
+55.94143,-3.21645,50795,2,43.0,CCS,,,"X Leisure, Fountain Park Centre, Edinburgh",EH11,City of Edinburgh,2
+55.94143,-3.21645,50795,3,43.0,CHAdeMO,,,"X Leisure, Fountain Park Centre, Edinburgh",EH11,City of Edinburgh,2
+55.94143,-3.21645,50793,1,22.0,Type 2,,,"X Leisure, Fountain Park Centre, Edinburgh",EH11,City of Edinburgh,2
+55.94143,-3.21645,50793,2,22.0,Type 2,,,"X Leisure, Fountain Park Centre, Edinburgh",EH11,City of Edinburgh,2
+55.94143,-3.21645,50794,1,22.0,Type 2,,,"X Leisure, Fountain Park Centre, Edinburgh",EH11,City of Edinburgh,2
+55.94143,-3.21645,50794,2,22.0,Type 2,,,"X Leisure, Fountain Park Centre, Edinburgh",EH11,City of Edinburgh,2
+55.9504,-3.22746,51204,1,22.0,Type 2,,,"The National Galleries of Scotland, Edinburgh",EH4,City of Edinburgh,2
+55.9504,-3.22746,51204,2,22.0,Type 2,,,"The National Galleries of Scotland, Edinburgh",EH4,City of Edinburgh,2
+55.9446591,-3.2149242,60878,1,7.0,Type 2,0.4,,Morrison Crescent,EH3,City of Edinburgh,2
+55.9446591,-3.2149242,60878,2,7.0,Type 2,0.4,,Morrison Crescent,EH3,City of Edinburgh,2
+55.97057,-3.2475,50345,1,22.0,Type 2,0.56,,North West Locality Office,EH4,City of Edinburgh,2
+55.97057,-3.2475,50345,2,22.0,Type 2,0.56,,North West Locality Office,EH4,City of Edinburgh,2
+55.9699462,-3.2485833,60607,1,7.0,Type 2,0.51,0.0,West Pilton Gardens,EH4,City of Edinburgh,2
+55.9699462,-3.2485833,60607,2,7.0,Type 2,0.51,0.0,West Pilton Gardens,EH4,City of Edinburgh,2
+55.9699462,-3.2485833,60608,1,7.0,Type 2,0.51,0.0,West Pilton Gardens,EH4,City of Edinburgh,2
+55.9699462,-3.2485833,60608,2,7.0,Type 2,0.51,0.0,West Pilton Gardens,EH4,City of Edinburgh,2
+55.9699462,-3.2485833,60609,1,7.0,Type 2,0.51,0.0,West Pilton Gardens,EH4,City of Edinburgh,2
+55.9699462,-3.2485833,60609,2,7.0,Type 2,0.51,0.0,West Pilton Gardens,EH4,City of Edinburgh,2
+55.91389,-3.285,50937,1,22.0,Type 2,0.56,,"Westerhailes Healthy Living Centre, Edinburgh",EH14,City of Edinburgh,2
+55.91389,-3.285,50937,2,22.0,Type 2,0.56,,"Westerhailes Healthy Living Centre, Edinburgh",EH14,City of Edinburgh,2
+55.91359,-3.28423,60177,1,7.0,Type 2,0.51,,Wester Hailes Healthy Living Centre,EH14,City of Edinburgh,2
+55.91359,-3.28423,60177,2,7.0,Type 2,0.51,,Wester Hailes Healthy Living Centre,EH14,City of Edinburgh,2
+55.91359,-3.28423,60178,1,7.0,Type 2,0.51,,Wester Hailes Healthy Living Centre,EH14,City of Edinburgh,2
+55.91359,-3.28423,60178,2,7.0,Type 2,0.51,,Wester Hailes Healthy Living Centre,EH14,City of Edinburgh,2
+55.94835,-3.18448,50488,1,22.0,Type 2,0.45,0.0,"High School Yards, Infirmary Street, Edinburgh",EH1,City of Edinburgh,2
+55.94835,-3.18448,50488,2,22.0,Type 2,0.45,0.0,"High School Yards, Infirmary Street, Edinburgh",EH1,City of Edinburgh,2
+55.96168,-3.26115,50938,1,22.0,Type 2,0.56,,"Blackhall Library, Edinburgh",EH4,City of Edinburgh,2
+55.96168,-3.26115,50938,2,22.0,Type 2,0.56,,"Blackhall Library, Edinburgh",EH4,City of Edinburgh,2
+55.917298,-3.31517,60098,1,50.0,CCS,0.58,0.0,Hermiston Park & Ride,EH14,City of Edinburgh,2
+55.917298,-3.31517,60098,2,50.0,CHAdeMO,0.58,0.0,Hermiston Park & Ride,EH14,City of Edinburgh,2
+55.917298,-3.31517,60098,3,22.0,Type 2,0.58,0.0,Hermiston Park & Ride,EH14,City of Edinburgh,2
+55.917298,-3.31517,61146,1,7.0,Type 2,0.51,,Hermiston Park & Ride,EH14,City of Edinburgh,2
+55.917298,-3.31517,61146,2,7.0,Type 2,0.51,,Hermiston Park & Ride,EH14,City of Edinburgh,2
+55.917298,-3.31517,61154,1,7.0,Type 2,0.51,,Hermiston Park & Ride,EH14,City of Edinburgh,2
+55.917298,-3.31517,61154,2,7.0,Type 2,0.51,,Hermiston Park & Ride,EH14,City of Edinburgh,2
+55.917298,-3.31517,61141,1,50.0,CCS,0.61,,Hermiston Park & Ride,EH14,City of Edinburgh,2
+55.917298,-3.31517,61141,2,50.0,CHAdeMO,0.61,,Hermiston Park & Ride,EH14,City of Edinburgh,2
+55.917298,-3.31517,61141,3,43.0,Type 2,0.61,,Hermiston Park & Ride,EH14,City of Edinburgh,2
+55.917298,-3.31517,61147,1,7.0,Type 2,0.51,,Hermiston Park & Ride,EH14,City of Edinburgh,2
+55.917298,-3.31517,61147,2,7.0,Type 2,0.51,,Hermiston Park & Ride,EH14,City of Edinburgh,2
+55.917298,-3.31517,61155,1,7.0,Type 2,0.51,,Hermiston Park & Ride,EH14,City of Edinburgh,2
+55.917298,-3.31517,61155,2,7.0,Type 2,0.51,,Hermiston Park & Ride,EH14,City of Edinburgh,2
+55.917298,-3.31517,61148,1,7.0,Type 2,0.51,,Hermiston Park & Ride,EH14,City of Edinburgh,2
+55.917298,-3.31517,61148,2,7.0,Type 2,0.51,,Hermiston Park & Ride,EH14,City of Edinburgh,2
+55.917298,-3.31517,61156,1,7.0,Type 2,0.51,,Hermiston Park & Ride,EH14,City of Edinburgh,2
+55.917298,-3.31517,61156,2,7.0,Type 2,0.51,,Hermiston Park & Ride,EH14,City of Edinburgh,2
+55.917298,-3.31517,61142,1,50.0,CCS,0.61,,Hermiston Park & Ride,EH14,City of Edinburgh,2
+55.917298,-3.31517,61142,2,50.0,CHAdeMO,0.61,,Hermiston Park & Ride,EH14,City of Edinburgh,2
+55.917298,-3.31517,61142,3,43.0,Type 2,0.61,,Hermiston Park & Ride,EH14,City of Edinburgh,2
+55.917298,-3.31517,61149,1,7.0,Type 2,0.51,,Hermiston Park & Ride,EH14,City of Edinburgh,2
+55.917298,-3.31517,61149,2,7.0,Type 2,0.51,,Hermiston Park & Ride,EH14,City of Edinburgh,2
+55.917298,-3.31517,61157,1,7.0,Type 2,0.51,,Hermiston Park & Ride,EH14,City of Edinburgh,2
+55.917298,-3.31517,61157,2,7.0,Type 2,0.51,,Hermiston Park & Ride,EH14,City of Edinburgh,2
+55.917298,-3.31517,61143,1,50.0,CCS,0.61,,Hermiston Park & Ride,EH14,City of Edinburgh,2
+55.917298,-3.31517,61143,2,50.0,CHAdeMO,0.61,,Hermiston Park & Ride,EH14,City of Edinburgh,2
+55.917298,-3.31517,61143,3,43.0,Type 2,0.61,,Hermiston Park & Ride,EH14,City of Edinburgh,2
+55.917298,-3.31517,61150,1,7.0,Type 2,0.51,,Hermiston Park & Ride,EH14,City of Edinburgh,2
+55.917298,-3.31517,61150,2,7.0,Type 2,0.51,,Hermiston Park & Ride,EH14,City of Edinburgh,2
+55.917298,-3.31517,61158,1,7.0,Type 2,0.51,,Hermiston Park & Ride,EH14,City of Edinburgh,2
+55.917298,-3.31517,61158,2,7.0,Type 2,0.51,,Hermiston Park & Ride,EH14,City of Edinburgh,2
+55.917298,-3.31517,61160,1,50.0,CCS,0.61,,Hermiston Park & Ride,EH14,City of Edinburgh,2
+55.917298,-3.31517,61160,2,50.0,CHAdeMO,0.61,,Hermiston Park & Ride,EH14,City of Edinburgh,2
+55.917298,-3.31517,61160,3,43.0,Type 2,0.61,,Hermiston Park & Ride,EH14,City of Edinburgh,2
+55.917298,-3.31517,61151,1,7.0,Type 2,0.51,,Hermiston Park & Ride,EH14,City of Edinburgh,2
+55.917298,-3.31517,61151,2,7.0,Type 2,0.51,,Hermiston Park & Ride,EH14,City of Edinburgh,2
+55.917298,-3.31517,61144,1,50.0,CCS,0.61,,Hermiston Park & Ride,EH14,City of Edinburgh,2
+55.917298,-3.31517,61144,2,50.0,CHAdeMO,0.61,,Hermiston Park & Ride,EH14,City of Edinburgh,2
+55.917298,-3.31517,61144,3,43.0,Type 2,0.61,,Hermiston Park & Ride,EH14,City of Edinburgh,2
+55.917298,-3.31517,61152,1,7.0,Type 2,0.51,,Hermiston Park & Ride,EH14,City of Edinburgh,2
+55.917298,-3.31517,61152,2,7.0,Type 2,0.51,,Hermiston Park & Ride,EH14,City of Edinburgh,2
+55.917298,-3.31517,61145,1,7.0,Type 2,0.51,,Hermiston Park & Ride,EH14,City of Edinburgh,2
+55.917298,-3.31517,61145,2,7.0,Type 2,0.51,,Hermiston Park & Ride,EH14,City of Edinburgh,2
+55.917298,-3.31517,61153,1,7.0,Type 2,0.51,,Hermiston Park & Ride,EH14,City of Edinburgh,2
+55.917298,-3.31517,61153,2,7.0,Type 2,0.51,,Hermiston Park & Ride,EH14,City of Edinburgh,2
+55.9339,-3.25094,60440,1,7.0,Type 2,0.51,,Saughton Park,EH11,City of Edinburgh,2
+55.9339,-3.25094,60440,2,7.0,Type 2,0.51,,Saughton Park,EH11,City of Edinburgh,2
+55.9339,-3.25094,60441,1,7.0,Type 2,0.51,,Saughton Park,EH11,City of Edinburgh,2
+55.9339,-3.25094,60441,2,7.0,Type 2,0.51,,Saughton Park,EH11,City of Edinburgh,2
+55.9339,-3.25094,60442,1,7.0,Type 2,0.51,,Saughton Park,EH11,City of Edinburgh,2
+55.9339,-3.25094,60442,2,7.0,Type 2,0.51,,Saughton Park,EH11,City of Edinburgh,2
+55.957804,-3.119991,61091,1,22.0,Type 2,0.56,,Kings Road,EH15,City of Edinburgh,2
+55.957804,-3.119991,61091,2,22.0,Type 2,0.56,,Kings Road,EH15,City of Edinburgh,2
+55.957804,-3.119991,61092,1,7.0,Type 2,0.56,,Kings Road,EH15,City of Edinburgh,2
+55.957804,-3.119991,61092,2,7.0,Type 2,0.56,,Kings Road,EH15,City of Edinburgh,2
+55.957804,-3.119991,61093,1,22.0,Type 2,0.56,,Kings Road,EH15,City of Edinburgh,2
+55.957804,-3.119991,61093,2,22.0,Type 2,0.56,,Kings Road,EH15,City of Edinburgh,2
+55.957804,-3.119991,61094,1,22.0,Type 2,0.56,,Kings Road,EH15,City of Edinburgh,2
+55.957804,-3.119991,61094,2,22.0,Type 2,0.56,,Kings Road,EH15,City of Edinburgh,2
+55.9553814,-3.2038465,61159,1,22.0,Type 2,0.56,,Heriot Row,EH3,City of Edinburgh,2
+55.9553814,-3.2038465,61159,2,22.0,Type 2,0.56,,Heriot Row,EH3,City of Edinburgh,2
+55.9553814,-3.2038465,61095,1,7.0,Type 2,0.56,,Heriot Row,EH3,City of Edinburgh,2
+55.9553814,-3.2038465,61095,2,7.0,Type 2,0.56,,Heriot Row,EH3,City of Edinburgh,2
+55.9553814,-3.2038465,61096,1,22.0,Type 2,0.56,,Heriot Row,EH3,City of Edinburgh,2
+55.9553814,-3.2038465,61096,2,22.0,Type 2,0.56,,Heriot Row,EH3,City of Edinburgh,2
+55.9553814,-3.2038465,61097,1,50.0,CCS,0.61,,Heriot Row,EH3,City of Edinburgh,2
+55.9553814,-3.2038465,61097,2,50.0,CHAdeMO,0.61,,Heriot Row,EH3,City of Edinburgh,2
+55.9553814,-3.2038465,61097,3,43.0,Type 2,0.61,,Heriot Row,EH3,City of Edinburgh,2
+55.9553814,-3.2038465,61098,1,50.0,CCS,0.61,,Heriot Row,EH3,City of Edinburgh,2
+55.9553814,-3.2038465,61098,2,50.0,CHAdeMO,0.61,,Heriot Row,EH3,City of Edinburgh,2
+55.9553814,-3.2038465,61098,3,43.0,Type 2,0.61,,Heriot Row,EH3,City of Edinburgh,2
+55.959893,-3.188221,61120,1,50.0,CCS,0.61,,"East London Street, Edinburgh",EH7,City of Edinburgh,2
+55.959893,-3.188221,61120,2,50.0,CHAdeMO,0.61,,"East London Street, Edinburgh",EH7,City of Edinburgh,2
+55.959893,-3.188221,61120,3,43.0,Type 2,0.61,,"East London Street, Edinburgh",EH7,City of Edinburgh,2
+55.959893,-3.188221,61099,1,50.0,CCS,0.61,,"East London Street, Edinburgh",EH7,City of Edinburgh,2
+55.959893,-3.188221,61099,2,50.0,CHAdeMO,0.61,,"East London Street, Edinburgh",EH7,City of Edinburgh,2
+55.959893,-3.188221,61099,3,43.0,Type 2,0.61,,"East London Street, Edinburgh",EH7,City of Edinburgh,2
+55.959893,-3.188221,61115,1,50.0,CCS,0.61,,"East London Street, Edinburgh",EH7,City of Edinburgh,2
+55.959893,-3.188221,61115,2,50.0,CHAdeMO,0.61,,"East London Street, Edinburgh",EH7,City of Edinburgh,2
+55.959893,-3.188221,61115,3,43.0,Type 2,0.61,,"East London Street, Edinburgh",EH7,City of Edinburgh,2
+55.959893,-3.188221,61119,1,50.0,CCS,0.61,,"East London Street, Edinburgh",EH7,City of Edinburgh,2
+55.959893,-3.188221,61119,2,50.0,CHAdeMO,0.61,,"East London Street, Edinburgh",EH7,City of Edinburgh,2
+55.959893,-3.188221,61119,3,43.0,Type 2,0.61,,"East London Street, Edinburgh",EH7,City of Edinburgh,2
+55.974617,-3.17464,61101,1,22.0,Type 2,0.56,,Sheriff Brae,EH6,City of Edinburgh,2
+55.974617,-3.17464,61101,2,22.0,Type 2,0.56,,Sheriff Brae,EH6,City of Edinburgh,2
+55.974617,-3.17464,61102,1,22.0,Type 2,0.56,,Sheriff Brae,EH6,City of Edinburgh,2
+55.974617,-3.17464,61102,2,22.0,Type 2,0.56,,Sheriff Brae,EH6,City of Edinburgh,2
+55.974617,-3.17464,61103,1,22.0,Type 2,0.56,,Sheriff Brae,EH6,City of Edinburgh,2
+55.974617,-3.17464,61103,2,22.0,Type 2,0.56,,Sheriff Brae,EH6,City of Edinburgh,2
+55.974617,-3.17464,61104,1,22.0,Type 2,0.56,,Sheriff Brae,EH6,City of Edinburgh,2
+55.974617,-3.17464,61104,2,22.0,Type 2,0.56,,Sheriff Brae,EH6,City of Edinburgh,2
+55.935822,-3.23352,61105,1,22.0,Type 2,0.56,,Stewart Terrace,EH11,City of Edinburgh,2
+55.935822,-3.23352,61105,2,22.0,Type 2,0.56,,Stewart Terrace,EH11,City of Edinburgh,2
+55.935822,-3.23352,61106,1,22.0,Type 2,0.56,,Stewart Terrace,EH11,City of Edinburgh,2
+55.935822,-3.23352,61106,2,22.0,Type 2,0.56,,Stewart Terrace,EH11,City of Edinburgh,2
+55.935822,-3.23352,61107,1,22.0,Type 2,0.56,,Stewart Terrace,EH11,City of Edinburgh,2
+55.935822,-3.23352,61107,2,22.0,Type 2,0.56,,Stewart Terrace,EH11,City of Edinburgh,2
+55.935822,-3.23352,61108,1,22.0,Type 2,0.56,,Stewart Terrace,EH11,City of Edinburgh,2
+55.935822,-3.23352,61108,2,22.0,Type 2,0.56,,Stewart Terrace,EH11,City of Edinburgh,2
+55.9121809,-3.2262621,60500,1,7.0,Type 2,0.4,,Firhill Park,EH13,City of Edinburgh,2
+55.9121809,-3.2262621,60500,2,7.0,Type 2,0.4,,Firhill Park,EH13,City of Edinburgh,2
+55.9052074,-3.2210386,62341,1,7.0,Type 2,0.51,0.0,Oxgangs View,EH13,City of Edinburgh,2
+55.9052074,-3.2210386,62341,2,7.0,Type 2,0.51,0.0,Oxgangs View,EH13,City of Edinburgh,2
+55.9052074,-3.2210386,62342,1,7.0,Type 2,0.51,0.0,Oxgangs View,EH13,City of Edinburgh,2
+55.9052074,-3.2210386,62342,2,7.0,Type 2,0.51,0.0,Oxgangs View,EH13,City of Edinburgh,2
+55.926239,-3.209996,60841,1,22.0,Type 2,0.56,,Maxwell Street,EH10,City of Edinburgh,2
+55.926239,-3.209996,60841,2,22.0,Type 2,0.56,,Maxwell Street,EH10,City of Edinburgh,2
+55.926239,-3.209996,60842,1,22.0,Type 2,0.56,,Maxwell Street,EH10,City of Edinburgh,2
+55.926239,-3.209996,60842,2,22.0,Type 2,0.56,,Maxwell Street,EH10,City of Edinburgh,2
+55.926239,-3.209996,60843,1,22.0,Type 2,0.56,,Maxwell Street,EH10,City of Edinburgh,2
+55.926239,-3.209996,60843,2,22.0,Type 2,0.56,,Maxwell Street,EH10,City of Edinburgh,2
+55.926239,-3.209996,60844,1,22.0,Type 2,0.56,,Maxwell Street,EH10,City of Edinburgh,2
+55.926239,-3.209996,60844,2,22.0,Type 2,0.56,,Maxwell Street,EH10,City of Edinburgh,2
+55.935268,-3.200862,60857,1,22.0,Type 2,0.56,,Thirlstane Road,EH9,City of Edinburgh,2
+55.935268,-3.200862,60857,2,22.0,Type 2,0.56,,Thirlstane Road,EH9,City of Edinburgh,2
+55.935268,-3.200862,60858,1,22.0,Type 2,0.56,,Thirlstane Road,EH9,City of Edinburgh,2
+55.935268,-3.200862,60858,2,22.0,Type 2,0.56,,Thirlstane Road,EH9,City of Edinburgh,2
+55.935268,-3.200862,60859,1,22.0,Type 2,0.56,,Thirlstane Road,EH9,City of Edinburgh,2
+55.935268,-3.200862,60859,2,22.0,Type 2,0.56,,Thirlstane Road,EH9,City of Edinburgh,2
+55.935268,-3.200862,60860,1,7.0,Type 2,0.56,,Thirlstane Road,EH9,City of Edinburgh,2
+55.935268,-3.200862,60860,2,7.0,Type 2,0.56,,Thirlstane Road,EH9,City of Edinburgh,2
+55.939,-3.18328,62322,1,7.0,Type 2,0.51,0.0,Sciennes,EH9,City of Edinburgh,2
+55.939,-3.18328,62322,2,7.0,Type 2,0.51,0.0,Sciennes,EH9,City of Edinburgh,2
+55.939,-3.18328,61350,1,7.0,Type 2,0.51,0.0,Sciennes,EH9,City of Edinburgh,2
+55.939,-3.18328,61350,2,7.0,Type 2,0.51,0.0,Sciennes,EH9,City of Edinburgh,2
+55.959904,-3.223326,60853,1,50.0,CCS,0.61,,Fettes Avenue,EH4,City of Edinburgh,2
+55.959904,-3.223326,60853,2,50.0,CHAdeMO,0.61,,Fettes Avenue,EH4,City of Edinburgh,2
+55.959904,-3.223326,60853,3,43.0,Type 2,0.61,,Fettes Avenue,EH4,City of Edinburgh,2
+55.959904,-3.223326,60854,1,50.0,CCS,0.61,,Fettes Avenue,EH4,City of Edinburgh,2
+55.959904,-3.223326,60854,2,50.0,CHAdeMO,0.61,,Fettes Avenue,EH4,City of Edinburgh,2
+55.959904,-3.223326,60854,3,43.0,Type 2,0.61,,Fettes Avenue,EH4,City of Edinburgh,2
+55.959904,-3.223326,60855,1,50.0,CCS,0.61,,Fettes Avenue,EH4,City of Edinburgh,2
+55.959904,-3.223326,60855,2,50.0,CHAdeMO,0.61,,Fettes Avenue,EH4,City of Edinburgh,2
+55.959904,-3.223326,60855,3,43.0,Type 2,0.61,,Fettes Avenue,EH4,City of Edinburgh,2
+55.959904,-3.223326,60856,1,50.0,CCS,0.61,,Fettes Avenue,EH4,City of Edinburgh,2
+55.959904,-3.223326,60856,2,50.0,CHAdeMO,0.61,,Fettes Avenue,EH4,City of Edinburgh,2
+55.959904,-3.223326,60856,3,43.0,Type 2,0.61,,Fettes Avenue,EH4,City of Edinburgh,2
+55.958038,-3.21797,60847,1,22.0,Type 2,0.56,,Comely Bank,EH4,City of Edinburgh,2
+55.958038,-3.21797,60847,2,22.0,Type 2,0.56,,Comely Bank,EH4,City of Edinburgh,2
+55.958038,-3.21797,60848,1,22.0,Type 2,0.56,,Comely Bank,EH4,City of Edinburgh,2
+55.958038,-3.21797,60848,2,22.0,Type 2,0.56,,Comely Bank,EH4,City of Edinburgh,2
+55.958038,-3.21797,60845,1,22.0,Type 2,0.56,,Comely Bank,EH4,City of Edinburgh,2
+55.958038,-3.21797,60845,2,22.0,Type 2,0.56,,Comely Bank,EH4,City of Edinburgh,2
+55.958038,-3.21797,60846,1,22.0,Type 2,0.56,,Comely Bank,EH4,City of Edinburgh,2
+55.958038,-3.21797,60846,2,22.0,Type 2,0.56,,Comely Bank,EH4,City of Edinburgh,2
+55.959248,-3.175971,60850,1,22.0,Type 2,0.56,,Montgomery Street,EH7,City of Edinburgh,2
+55.959248,-3.175971,60850,2,22.0,Type 2,0.56,,Montgomery Street,EH7,City of Edinburgh,2
+55.959248,-3.175971,60851,1,7.0,Type 2,0.56,,Montgomery Street,EH7,City of Edinburgh,2
+55.959248,-3.175971,60851,2,7.0,Type 2,0.56,,Montgomery Street,EH7,City of Edinburgh,2
+55.959248,-3.175971,60852,1,22.0,Type 2,0.56,,Montgomery Street,EH7,City of Edinburgh,2
+55.959248,-3.175971,60852,2,22.0,Type 2,0.56,,Montgomery Street,EH7,City of Edinburgh,2
+55.959248,-3.175971,60849,1,22.0,Type 2,0.56,,Montgomery Street,EH7,City of Edinburgh,2
+55.959248,-3.175971,60849,2,22.0,Type 2,0.56,,Montgomery Street,EH7,City of Edinburgh,2
+55.9649084,-3.1690849,62279,1,7.0,Type 2,0.51,0.0,St Clair Road,EH6,City of Edinburgh,2
+55.9649084,-3.1690849,62279,2,7.0,Type 2,0.51,0.0,St Clair Road,EH6,City of Edinburgh,2
+55.9649084,-3.1690849,62280,1,7.0,Type 2,0.51,0.0,St Clair Road,EH6,City of Edinburgh,2
+55.9649084,-3.1690849,62280,2,7.0,Type 2,0.51,0.0,St Clair Road,EH6,City of Edinburgh,2
+55.9649084,-3.1690849,62269,1,7.0,Type 2,0.51,0.0,St Clair Road,EH6,City of Edinburgh,2
+55.9649084,-3.1690849,62269,2,7.0,Type 2,0.51,0.0,St Clair Road,EH6,City of Edinburgh,2
+55.9649084,-3.1690849,62270,1,7.0,Type 2,0.51,0.0,St Clair Road,EH6,City of Edinburgh,2
+55.9649084,-3.1690849,62270,2,7.0,Type 2,0.51,0.0,St Clair Road,EH6,City of Edinburgh,2
+55.9614037,-3.3048148,62259,1,7.0,Type 2,0.51,0.0,Barnton Grove,EH4,City of Edinburgh,2
+55.9614037,-3.3048148,62259,2,7.0,Type 2,0.51,0.0,Barnton Grove,EH4,City of Edinburgh,2
+55.9614037,-3.3048148,62260,1,7.0,Type 2,0.51,0.0,Barnton Grove,EH4,City of Edinburgh,2
+55.9614037,-3.3048148,62260,2,7.0,Type 2,0.51,0.0,Barnton Grove,EH4,City of Edinburgh,2
+55.952146,-3.1417829,62300,1,7.0,Type 2,0.51,0.0,Northfield Road,EH8,City of Edinburgh,2
+55.952146,-3.1417829,62300,2,7.0,Type 2,0.51,0.0,Northfield Road,EH8,City of Edinburgh,2
+55.952146,-3.1417829,62301,1,7.0,Type 2,0.51,0.0,Northfield Road,EH8,City of Edinburgh,2
+55.952146,-3.1417829,62301,2,7.0,Type 2,0.51,0.0,Northfield Road,EH8,City of Edinburgh,2
+55.974944,-3.1956123,62303,1,7.0,Type 2,0.51,0.0,Craighall Road,EH6,City of Edinburgh,2
+55.974944,-3.1956123,62303,2,7.0,Type 2,0.51,0.0,Craighall Road,EH6,City of Edinburgh,2
+55.974944,-3.1956123,62302,1,7.0,Type 2,0.51,0.0,Craighall Road,EH6,City of Edinburgh,2
+55.974944,-3.1956123,62302,2,7.0,Type 2,0.51,0.0,Craighall Road,EH6,City of Edinburgh,2
+55.9445195,-3.1975367,62311,1,7.0,Type 2,0.51,0.0,Chalmers Street,EH3,City of Edinburgh,2
+55.9445195,-3.1975367,62311,2,7.0,Type 2,0.51,0.0,Chalmers Street,EH3,City of Edinburgh,2
+55.9445195,-3.1975367,62312,1,7.0,Type 2,0.51,0.0,Chalmers Street,EH3,City of Edinburgh,2
+55.9445195,-3.1975367,62312,2,7.0,Type 2,0.51,0.0,Chalmers Street,EH3,City of Edinburgh,2
+55.991453,-3.398712,62331,1,7.0,Type 2,0.51,0.0,Rose Lane - Queensferry,EH30,City of Edinburgh,2
+55.991453,-3.398712,62331,2,7.0,Type 2,0.51,0.0,Rose Lane - Queensferry,EH30,City of Edinburgh,2
+55.991453,-3.398712,62332,1,7.0,Type 2,0.51,0.0,Rose Lane - Queensferry,EH30,City of Edinburgh,2
+55.991453,-3.398712,62332,2,7.0,Type 2,0.51,0.0,Rose Lane - Queensferry,EH30,City of Edinburgh,2
+55.991453,-3.398712,62684,1,7.0,Type 2,0.51,0.0,Rose Lane Car Park,EH30,City of Edinburgh,2
+55.991453,-3.398712,62684,2,7.0,Type 2,0.51,0.0,Rose Lane Car Park,EH30,City of Edinburgh,2
+55.9337,-3.23842,61803,1,7.0,Type 2,0.4,0.5,Gorgie Park,EH14,City of Edinburgh,2
+55.9337,-3.23842,61803,2,7.0,Type 2,0.4,0.5,Gorgie Park,EH14,City of Edinburgh,2

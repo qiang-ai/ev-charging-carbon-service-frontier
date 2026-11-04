@@ -1,0 +1,51 @@
+{
+  "draws": 10000,
+  "seed": 20261104,
+  "market_week_blocks": 7,
+  "site_weeks_per_block": {
+    "1|1": 11,
+    "1|2": 10,
+    "1|3": 11,
+    "7|1": 9,
+    "7|2": 9,
+    "7|3": 9,
+    "7|4": 11
+  },
+  "interval": "95% percentile, same block draws in both years",
+  "years": {
+    "2023": {
+      "window_decrease_g_per_kwh": {
+        "estimate": 11.460376189207059,
+        "lower": 8.055681739317759,
+        "upper": 18.363666734159366
+      },
+      "fixed_service_gain_g_per_kwh": {
+        "estimate": 26.67392817878231,
+        "lower": 15.73386808109137,
+        "upper": 38.52984645510765
+      },
+      "strict_shortfall_reduction_pp": {
+        "estimate": 11.26594796915403,
+        "lower": 10.054632879152866,
+        "upper": 12.40209657294
+      }
+    },
+    "2024": {
+      "window_decrease_g_per_kwh": {
+        "estimate": 11.545536229011823,
+        "lower": 6.3718953965811025,
+        "upper": 14.294580953337308
+      },
+      "fixed_service_gain_g_per_kwh": {
+        "estimate": 32.89509195800127,
+        "lower": 29.754924491110756,
+        "upper": 39.114744278960046
+      },
+      "strict_shortfall_reduction_pp": {
+        "estimate": 12.065496828388095,
+        "lower": 10.524765166415936,
+        "upper": 13.599734167563565
+      }
+    }
+  }
+}

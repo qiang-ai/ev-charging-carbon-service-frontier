@@ -1,0 +1,20 @@
+{
+  "outcomes": 560,
+  "median_fixed_service_gain_g_per_kwh": {
+    "2023|wear_0.00": 26.67392817878231,
+    "2023|wear_0.01": 26.67392817878231,
+    "2023|wear_0.03": 26.673928178782315,
+    "2023|85pct_4h": 24.711936257855573,
+    "2024|wear_0.00": 32.89509195800127,
+    "2024|wear_0.01": 32.89509195800127,
+    "2024|wear_0.03": 32.89509195800127,
+    "2024|85pct_4h": 29.5449132276686
+  },
+  "max_gain_change_0_to_3p_g_per_kwh": 2.586464246337748,
+  "max_readiness_deficit_kwh": 1.4210854715202004e-14,
+  "sha256": {
+    "matched_service_pairs.csv": "1bd34883790a8aa3c96a2563271a417ae97d652b8d4437b4c4504bfd23f15e1f",
+    "service_outcomes.csv": "1a00ee359305aee04c5ea49d2f4502db6ce20894e42d0c50451ec85d1b14f3f2",
+    "wear_sensitivity_outcomes.csv": "632161f53164119ebfd6c746f6451b99ba6000578dc251559d135c24cbd87f4a"
+  }
+}

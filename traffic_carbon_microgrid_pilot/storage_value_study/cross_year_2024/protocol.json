@@ -1,0 +1,111 @@
+{
+  "frozen_at_utc": "2026-11-04T03:53:22.605874+00:00",
+  "baseline_year": 2023,
+  "holdout_year": 2024,
+  "months": [
+    1,
+    7
+  ],
+  "baseline_sha256": {
+    "results/cases.csv": "ea2e2a9b4f2ad7d191f088b7a9f87dc46c58eea8c150baa21b744c610ca454cb",
+    "results/manifest.json": "bc915e73a848342b7d7cd32580fb04ba2388603cad12f82ea95138774e47b7dd",
+    "results/outcomes.csv": "93e610554f4267c25f2a4a80dd2eea93fe09a6c1f148175f3e27f2f58d4c18bd",
+    "results_small_storage/outcomes.csv": "ed2efe9d884cbab2af16e7f35de97324be8b0edff62312eb7f7b38f8eae5097b"
+  },
+  "sites": {
+    "edinburgh_7196c2e70852": {
+      "city": "edinburgh",
+      "site_name": "Saughton Park",
+      "site_daily_energy_kwh": 61.93959183673469
+    },
+    "edinburgh_8e938922e75b": {
+      "city": "edinburgh",
+      "site_name": "South Edinburgh Local Office, Captain's Road, Edinburgh",
+      "site_daily_energy_kwh": 22.897959183673468
+    },
+    "edinburgh_a99356402203": {
+      "city": "edinburgh",
+      "site_name": "Pollock Halls of Residence, University of Edinburgh, Holyrood Park Road, Edinburgh",
+      "site_daily_energy_kwh": 628.5891836734694
+    },
+    "edinburgh_ab596f64afe9": {
+      "city": "edinburgh",
+      "site_name": "Mortonhall Garden Centre",
+      "site_daily_energy_kwh": 31.965714285714284
+    },
+    "edinburgh_e9d9225d5547": {
+      "city": "edinburgh",
+      "site_name": "The National Galleries of Scotland, Edinburgh",
+      "site_daily_energy_kwh": 27.07673469387755
+    },
+    "edinburgh_f79051b5a7f3": {
+      "city": "edinburgh",
+      "site_name": "X Leisure, Fountain Park Centre, Edinburgh",
+      "site_daily_energy_kwh": 163.44061224489795
+    },
+    "glasgow_11e418b5ea17": {
+      "city": "glasgow",
+      "site_name": "Cathedral Precinct Car Park 2",
+      "site_daily_energy_kwh": 16.647857142857145
+    },
+    "glasgow_7be77e0a6947": {
+      "city": "glasgow",
+      "site_name": "Hinshaw Street, Glasgow",
+      "site_daily_energy_kwh": 38.70755102040817
+    },
+    "glasgow_9ac900651b98": {
+      "city": "glasgow",
+      "site_name": "Daldowie Crematorium",
+      "site_daily_energy_kwh": 170.814693877551
+    },
+    "glasgow_e06be64bb4fe": {
+      "city": "glasgow",
+      "site_name": "Netherton Community Centre",
+      "site_daily_energy_kwh": 100.09734693877552
+    },
+    "glasgow_e86fc38853a7": {
+      "city": "glasgow",
+      "site_name": "SEC Hydro Car Park, Glasgow",
+      "site_daily_energy_kwh": 51.699285714285715
+    },
+    "glasgow_e8f42e28639f": {
+      "city": "glasgow",
+      "site_name": "Centre Street, Glasgow",
+      "site_daily_energy_kwh": 77.65122448979592
+    }
+  },
+  "site_replacements_allowed": false,
+  "power_cap_kw": 22,
+  "min_complete_sessions_per_week": 5,
+  "week_selection": "Full calendar Monday-Sunday UTC weeks within January or July. Retain every frozen site-week with complete signals and >=5 eligible complete sessions. Missing weeks keep their calendar rank.",
+  "matched_comparison": "Exact intersection of frozen site_id, calendar month and full UTC week rank in 2023 and 2024. Weeks in different years are different market observations.",
+  "alphas": [
+    0,
+    1
+  ],
+  "pv_scales": [
+    0,
+    0.2,
+    0.4
+  ],
+  "battery_fractions": [
+    0,
+    0.125,
+    0.5
+  ],
+  "battery_hours": 2,
+  "battery_roundtrip_efficiency": 0.9,
+  "initial_soc_fraction": 0.5,
+  "battery_wear_gbp_per_kwh_throughput": 0.01,
+  "budget_rule": "Compute the immediate charging, grid-only operating cost from the actual sessions and prices in each site-week. Use that same cap for every configuration in the site-week.",
+  "substantial_threshold_g_per_kwh": 5,
+  "substantial_threshold_relative_percent": 5,
+  "interaction_threshold_g_per_kwh": 1,
+  "primary_endpoint": {
+    "pv_scale": 0.2,
+    "battery_fraction": 0.5,
+    "contrast": "incremental storage saving at alpha=1 minus incremental storage saving at alpha=0"
+  },
+  "time_limit_s_per_solve": 15,
+  "mip_rel_gap": 0.0001
+}

@@ -1,0 +1,1296 @@
+{
+  "site_weeks": 140,
+  "outcomes": 12740,
+  "session_windows": 41531,
+  "nominal_signed_offsets_minutes": [
+    -60,
+    -30,
+    -15,
+    0,
+    15,
+    30,
+    60
+  ],
+  "checkpoint_minutes_before_adjusted_end": 30,
+  "pv_scale": 0.2,
+  "battery_fractions": [
+    0.0,
+    0.125,
+    0.5
+  ],
+  "holdout_protocol_sha256": "2bba0b3ab9a4497dd96705f06db82cfa4d9b4ae0aa7f9eb7b8943e46b092b868",
+  "service_protocol_sha256": "78ce9a8bbfa0cfcf52860eeaec4a60fe76b32a439a89475317b2b2ac904dda3d",
+  "original_carbon_anchor_outcomes_sha256": {
+    "2023": "b65b0f225605a4c3f5d019c42362b00a07da05603b15d5c3b82d4869865f9915",
+    "2024": "a224b869249a3f56886342e59fb96f4f05298a06916ed525fd9e6c7c1f9637e4"
+  },
+  "matched_panel_sha256": "3282cb2ec172308071e451df8f7d025472775841d4938a3e0685077d6a3c8278",
+  "output_sha256": {
+    "outcomes.csv": "d8c7d2d3edf04cd08d466a536a03e8e8b58b3f64cad22bf21dcd05de6c35d0be",
+    "session_windows.csv": "d0b76bb9db5b30142aa2c086b2e865cfcc98334067afa70d23b6ec537db112e6",
+    "paired_effects.csv": "7e8adcf511bb47b9e76b540e0c731ad8ce32aee175c00e44f771146cebbf75d2"
+  },
+  "design_note": "All retained session starts, delivered energy, connector ratings, equipment, signals and budgets are unchanged. Extensions respect week end and the next retained connector session. Both early checkpoints and immediate-charging readiness at the checkpoint are recomputed after each endpoint change.",
+  "summary": {
+    "2023|-60": {
+      "site_weeks": 70,
+      "sessions": 3368,
+      "energy_kwh": 65681.86,
+      "actual_end_offset_minutes": {
+        "q25": -60.0,
+        "median": -60.0,
+        "q75": -36.839015151063606
+      },
+      "mean_actual_end_offset_minutes": -46.790153250344815,
+      "unshifted_sessions": 0,
+      "clipped_sessions_by_reason": {
+        "energy": 1246,
+        "connector": 0,
+        "week_end": 0
+      },
+      "pooled_intrinsic_shortfall_pct": 13.249149849809944,
+      "primary_interaction_fall_g_per_kwh": {
+        "q25": 3.91927503976371,
+        "median": 8.37791082027753,
+        "q75": 17.327854018458833
+      },
+      "primary_interaction_fall_certified_above_1g_weeks": 65,
+      "fixed_service_battery_gain_g_per_kwh": {
+        "0.125": {
+          "q25": 7.010346718827806,
+          "median": 13.730837866380675,
+          "q75": 19.316014431523165
+        },
+        "0.5": {
+          "q25": 18.76554235461326,
+          "median": 31.631672676981847,
+          "q75": 47.135976010017984
+        }
+      },
+      "strict_targets": {
+        "strict_recalculated": {
+          "0.0": {
+            "feasible_weeks": 70,
+            "infeasible_weeks": 0,
+            "pooled_shortfall_pct_among_feasible_weeks": 8.77191655880091,
+            "feasible_pair_weeks_with_no_battery": 70,
+            "paired_control_shortfall_pct": 8.77191655880091,
+            "paired_battery_shortfall_pct": 8.77191655880091
+          },
+          "0.125": {
+            "feasible_weeks": 70,
+            "infeasible_weeks": 0,
+            "pooled_shortfall_pct_among_feasible_weeks": 8.678193785675185e-09,
+            "feasible_pair_weeks_with_no_battery": 70,
+            "paired_control_shortfall_pct": 8.77191655880091,
+            "paired_battery_shortfall_pct": 8.678193785675185e-09
+          },
+          "0.5": {
+            "feasible_weeks": 70,
+            "infeasible_weeks": 0,
+            "pooled_shortfall_pct_among_feasible_weeks": 9.287193598610642e-09,
+            "feasible_pair_weeks_with_no_battery": 70,
+            "paired_control_shortfall_pct": 8.77191655880091,
+            "paired_battery_shortfall_pct": 9.287193598610642e-09
+          }
+        },
+        "strict_original": {
+          "0.0": {
+            "feasible_weeks": 0,
+            "infeasible_weeks": 70,
+            "pooled_shortfall_pct_among_feasible_weeks": null,
+            "feasible_pair_weeks_with_no_battery": 0,
+            "paired_control_shortfall_pct": null,
+            "paired_battery_shortfall_pct": null
+          },
+          "0.125": {
+            "feasible_weeks": 69,
+            "infeasible_weeks": 1,
+            "pooled_shortfall_pct_among_feasible_weeks": 0.10969147176623244,
+            "feasible_pair_weeks_with_no_battery": 0,
+            "paired_control_shortfall_pct": null,
+            "paired_battery_shortfall_pct": null
+          },
+          "0.5": {
+            "feasible_weeks": 70,
+            "infeasible_weeks": 0,
+            "pooled_shortfall_pct_among_feasible_weeks": 8.678196940458337e-09,
+            "feasible_pair_weeks_with_no_battery": 0,
+            "paired_control_shortfall_pct": null,
+            "paired_battery_shortfall_pct": null
+          }
+        }
+      }
+    },
+    "2023|-30": {
+      "site_weeks": 70,
+      "sessions": 3368,
+      "energy_kwh": 65681.86,
+      "actual_end_offset_minutes": {
+        "q25": -30.0,
+        "median": -30.0,
+        "q75": -30.0
+      },
+      "mean_actual_end_offset_minutes": -25.68526923887591,
+      "unshifted_sessions": 0,
+      "clipped_sessions_by_reason": {
+        "energy": 732,
+        "connector": 0,
+        "week_end": 0
+      },
+      "pooled_intrinsic_shortfall_pct": 7.418713731100233,
+      "primary_interaction_fall_g_per_kwh": {
+        "q25": 5.00384214627134,
+        "median": 10.172445498012102,
+        "q75": 19.940488132744328
+      },
+      "primary_interaction_fall_certified_above_1g_weeks": 67,
+      "fixed_service_battery_gain_g_per_kwh": {
+        "0.125": {
+          "q25": 6.9513452735242165,
+          "median": 13.416009819347318,
+          "q75": 19.175112930475873
+        },
+        "0.5": {
+          "q25": 18.48287180734232,
+          "median": 28.927346318205025,
+          "q75": 44.46723714234501
+        }
+      },
+      "strict_targets": {
+        "strict_recalculated": {
+          "0.0": {
+            "feasible_weeks": 70,
+            "infeasible_weeks": 0,
+            "pooled_shortfall_pct_among_feasible_weeks": 10.238457049584843,
+            "feasible_pair_weeks_with_no_battery": 70,
+            "paired_control_shortfall_pct": 10.238457049584843,
+            "paired_battery_shortfall_pct": 10.238457049584843
+          },
+          "0.125": {
+            "feasible_weeks": 70,
+            "infeasible_weeks": 0,
+            "pooled_shortfall_pct_among_feasible_weeks": 8.52595245214593e-09,
+            "feasible_pair_weeks_with_no_battery": 70,
+            "paired_control_shortfall_pct": 10.238457049584843,
+            "paired_battery_shortfall_pct": 8.52595245214593e-09
+          },
+          "0.5": {
+            "feasible_weeks": 70,
+            "infeasible_weeks": 0,
+            "pooled_shortfall_pct_among_feasible_weeks": 9.439450016749736e-09,
+            "feasible_pair_weeks_with_no_battery": 70,
+            "paired_control_shortfall_pct": 10.238457049584843,
+            "paired_battery_shortfall_pct": 9.439450016749736e-09
+          }
+        },
+        "strict_original": {
+          "0.0": {
+            "feasible_weeks": 0,
+            "infeasible_weeks": 70,
+            "pooled_shortfall_pct_among_feasible_weeks": null,
+            "feasible_pair_weeks_with_no_battery": 0,
+            "paired_control_shortfall_pct": null,
+            "paired_battery_shortfall_pct": null
+          },
+          "0.125": {
+            "feasible_weeks": 70,
+            "infeasible_weeks": 0,
+            "pooled_shortfall_pct_among_feasible_weeks": 0.002570122369705163,
+            "feasible_pair_weeks_with_no_battery": 0,
+            "paired_control_shortfall_pct": null,
+            "paired_battery_shortfall_pct": null
+          },
+          "0.5": {
+            "feasible_weeks": 70,
+            "infeasible_weeks": 0,
+            "pooled_shortfall_pct_among_feasible_weeks": 9.134947828371778e-09,
+            "feasible_pair_weeks_with_no_battery": 0,
+            "paired_control_shortfall_pct": null,
+            "paired_battery_shortfall_pct": null
+          }
+        }
+      }
+    },
+    "2023|-15": {
+      "site_weeks": 70,
+      "sessions": 3368,
+      "energy_kwh": 65681.86,
+      "actual_end_offset_minutes": {
+        "q25": -15.0,
+        "median": -15.0,
+        "q75": -15.0
+      },
+      "mean_actual_end_offset_minutes": -13.473742236575719,
+      "unshifted_sessions": 0,
+      "clipped_sessions_by_reason": {
+        "energy": 501,
+        "connector": 0,
+        "week_end": 0
+      },
+      "pooled_intrinsic_shortfall_pct": 4.573838110616635,
+      "primary_interaction_fall_g_per_kwh": {
+        "q25": 5.78111379516255,
+        "median": 10.703919434930647,
+        "q75": 21.718106843409196
+      },
+      "primary_interaction_fall_certified_above_1g_weeks": 67,
+      "fixed_service_battery_gain_g_per_kwh": {
+        "0.125": {
+          "q25": 6.917496866963807,
+          "median": 12.48413631914698,
+          "q75": 18.110718601379638
+        },
+        "0.5": {
+          "q25": 17.629364598258007,
+          "median": 27.59770547976242,
+          "q75": 43.528241440390744
+        }
+      },
+      "strict_targets": {
+        "strict_recalculated": {
+          "0.0": {
+            "feasible_weeks": 70,
+            "infeasible_weeks": 0,
+            "pooled_shortfall_pct_among_feasible_weeks": 11.037351351967791,
+            "feasible_pair_weeks_with_no_battery": 70,
+            "paired_control_shortfall_pct": 11.037351351967791,
+            "paired_battery_shortfall_pct": 11.037351351967791
+          },
+          "0.125": {
+            "feasible_weeks": 70,
+            "infeasible_weeks": 0,
+            "pooled_shortfall_pct_among_feasible_weeks": 8.069203770417108e-09,
+            "feasible_pair_weeks_with_no_battery": 70,
+            "paired_control_shortfall_pct": 11.037351351967791,
+            "paired_battery_shortfall_pct": 8.069203770417108e-09
+          },
+          "0.5": {
+            "feasible_weeks": 70,
+            "infeasible_weeks": 0,
+            "pooled_shortfall_pct_among_feasible_weeks": 9.439455979634716e-09,
+            "feasible_pair_weeks_with_no_battery": 70,
+            "paired_control_shortfall_pct": 11.037351351967791,
+            "paired_battery_shortfall_pct": 9.439455979634716e-09
+          }
+        },
+        "strict_original": {
+          "0.0": {
+            "feasible_weeks": 0,
+            "infeasible_weeks": 70,
+            "pooled_shortfall_pct_among_feasible_weeks": null,
+            "feasible_pair_weeks_with_no_battery": 0,
+            "paired_control_shortfall_pct": null,
+            "paired_battery_shortfall_pct": null
+          },
+          "0.125": {
+            "feasible_weeks": 70,
+            "infeasible_weeks": 0,
+            "pooled_shortfall_pct_among_feasible_weeks": 7.612456790317196e-09,
+            "feasible_pair_weeks_with_no_battery": 0,
+            "paired_control_shortfall_pct": null,
+            "paired_battery_shortfall_pct": null
+          },
+          "0.5": {
+            "feasible_weeks": 70,
+            "infeasible_weeks": 0,
+            "pooled_shortfall_pct_among_feasible_weeks": 9.28720417179944e-09,
+            "feasible_pair_weeks_with_no_battery": 0,
+            "paired_control_shortfall_pct": null,
+            "paired_battery_shortfall_pct": null
+          }
+        }
+      }
+    },
+    "2023|0": {
+      "site_weeks": 70,
+      "sessions": 3368,
+      "energy_kwh": 65681.86,
+      "actual_end_offset_minutes": {
+        "q25": 0.0,
+        "median": 0.0,
+        "q75": 0.0
+      },
+      "mean_actual_end_offset_minutes": 0.0,
+      "unshifted_sessions": 3368,
+      "clipped_sessions_by_reason": {
+        "energy": 0,
+        "connector": 0,
+        "week_end": 0
+      },
+      "pooled_intrinsic_shortfall_pct": 2.4916650418311037,
+      "primary_interaction_fall_g_per_kwh": {
+        "q25": 6.938925904588055,
+        "median": 11.460376189207057,
+        "q75": 22.73727796794309
+      },
+      "primary_interaction_fall_certified_above_1g_weeks": 67,
+      "fixed_service_battery_gain_g_per_kwh": {
+        "0.125": {
+          "q25": 6.8740665567250305,
+          "median": 12.10869280245891,
+          "q75": 17.98539178363017
+        },
+        "0.5": {
+          "q25": 17.220394961977384,
+          "median": 26.67392817878231,
+          "q75": 41.374286157189644
+        }
+      },
+      "strict_targets": {
+        "strict_recalculated": {
+          "0.0": {
+            "feasible_weeks": 70,
+            "infeasible_weeks": 0,
+            "pooled_shortfall_pct_among_feasible_weeks": 11.265947978441217,
+            "feasible_pair_weeks_with_no_battery": 70,
+            "paired_control_shortfall_pct": 11.265947978441217,
+            "paired_battery_shortfall_pct": 11.265947978441217
+          },
+          "0.125": {
+            "feasible_weeks": 70,
+            "infeasible_weeks": 0,
+            "pooled_shortfall_pct_among_feasible_weeks": 8.22144885946087e-09,
+            "feasible_pair_weeks_with_no_battery": 70,
+            "paired_control_shortfall_pct": 11.265947978441217,
+            "paired_battery_shortfall_pct": 8.22144885946087e-09
+          },
+          "0.5": {
+            "feasible_weeks": 70,
+            "infeasible_weeks": 0,
+            "pooled_shortfall_pct_among_feasible_weeks": 9.287185922431014e-09,
+            "feasible_pair_weeks_with_no_battery": 70,
+            "paired_control_shortfall_pct": 11.265947978441217,
+            "paired_battery_shortfall_pct": 9.287185922431014e-09
+          }
+        },
+        "strict_original": {
+          "0.0": {
+            "feasible_weeks": 70,
+            "infeasible_weeks": 0,
+            "pooled_shortfall_pct_among_feasible_weeks": 11.265947978441217,
+            "feasible_pair_weeks_with_no_battery": 70,
+            "paired_control_shortfall_pct": 11.265947978441217,
+            "paired_battery_shortfall_pct": 11.265947978441217
+          },
+          "0.125": {
+            "feasible_weeks": 70,
+            "infeasible_weeks": 0,
+            "pooled_shortfall_pct_among_feasible_weeks": 8.22144885946087e-09,
+            "feasible_pair_weeks_with_no_battery": 70,
+            "paired_control_shortfall_pct": 11.265947978441217,
+            "paired_battery_shortfall_pct": 8.22144885946087e-09
+          },
+          "0.5": {
+            "feasible_weeks": 70,
+            "infeasible_weeks": 0,
+            "pooled_shortfall_pct_among_feasible_weeks": 9.287185922431014e-09,
+            "feasible_pair_weeks_with_no_battery": 70,
+            "paired_control_shortfall_pct": 11.265947978441217,
+            "paired_battery_shortfall_pct": 9.287185922431014e-09
+          }
+        }
+      }
+    },
+    "2023|15": {
+      "site_weeks": 70,
+      "sessions": 3368,
+      "energy_kwh": 65681.86,
+      "actual_end_offset_minutes": {
+        "q25": 15.0,
+        "median": 15.0,
+        "q75": 15.0
+      },
+      "mean_actual_end_offset_minutes": 13.702019002375298,
+      "unshifted_sessions": 0,
+      "clipped_sessions_by_reason": {
+        "energy": 0,
+        "connector": 484,
+        "week_end": 0
+      },
+      "pooled_intrinsic_shortfall_pct": 0.9290811462674488,
+      "primary_interaction_fall_g_per_kwh": {
+        "q25": 7.358694351568101,
+        "median": 12.558565283784686,
+        "q75": 23.682149197712114
+      },
+      "primary_interaction_fall_certified_above_1g_weeks": 68,
+      "fixed_service_battery_gain_g_per_kwh": {
+        "0.125": {
+          "q25": 6.544350400842472,
+          "median": 11.467710375953983,
+          "q75": 17.571939830849722
+        },
+        "0.5": {
+          "q25": 16.339017331168037,
+          "median": 26.53256472997443,
+          "q75": 40.234110058707365
+        }
+      },
+      "strict_targets": {
+        "strict_recalculated": {
+          "0.0": {
+            "feasible_weeks": 70,
+            "infeasible_weeks": 0,
+            "pooled_shortfall_pct_among_feasible_weeks": 11.502428851026007,
+            "feasible_pair_weeks_with_no_battery": 70,
+            "paired_control_shortfall_pct": 11.502428851026007,
+            "paired_battery_shortfall_pct": 11.502428851026007
+          },
+          "0.125": {
+            "feasible_weeks": 70,
+            "infeasible_weeks": 0,
+            "pooled_shortfall_pct_among_feasible_weeks": 7.916950500381823e-09,
+            "feasible_pair_weeks_with_no_battery": 70,
+            "paired_control_shortfall_pct": 11.502428851026007,
+            "paired_battery_shortfall_pct": 7.916950500381823e-09
+          },
+          "0.5": {
+            "feasible_weeks": 70,
+            "infeasible_weeks": 0,
+            "pooled_shortfall_pct_among_feasible_weeks": 9.134956225545241e-09,
+            "feasible_pair_weeks_with_no_battery": 70,
+            "paired_control_shortfall_pct": 11.502428851026007,
+            "paired_battery_shortfall_pct": 9.134956225545241e-09
+          }
+        },
+        "strict_original": {
+          "0.0": {
+            "feasible_weeks": 70,
+            "infeasible_weeks": 0,
+            "pooled_shortfall_pct_among_feasible_weeks": 1.6897783898140786,
+            "feasible_pair_weeks_with_no_battery": 70,
+            "paired_control_shortfall_pct": 1.6897783898140786,
+            "paired_battery_shortfall_pct": 1.6897783898140786
+          },
+          "0.125": {
+            "feasible_weeks": 70,
+            "infeasible_weeks": 0,
+            "pooled_shortfall_pct_among_feasible_weeks": 8.373697926721958e-09,
+            "feasible_pair_weeks_with_no_battery": 70,
+            "paired_control_shortfall_pct": 1.6897783898140786,
+            "paired_battery_shortfall_pct": 8.373697926721958e-09
+          },
+          "0.5": {
+            "feasible_weeks": 70,
+            "infeasible_weeks": 0,
+            "pooled_shortfall_pct_among_feasible_weeks": 9.287202391822303e-09,
+            "feasible_pair_weeks_with_no_battery": 70,
+            "paired_control_shortfall_pct": 1.6897783898140786,
+            "paired_battery_shortfall_pct": 9.287202391822303e-09
+          }
+        }
+      }
+    },
+    "2023|30": {
+      "site_weeks": 70,
+      "sessions": 3368,
+      "energy_kwh": 65681.86,
+      "actual_end_offset_minutes": {
+        "q25": 30.0,
+        "median": 30.0,
+        "q75": 30.0
+      },
+      "mean_actual_end_offset_minutes": 25.895378068091844,
+      "unshifted_sessions": 0,
+      "clipped_sessions_by_reason": {
+        "energy": 0,
+        "connector": 753,
+        "week_end": 1
+      },
+      "pooled_intrinsic_shortfall_pct": 0.2780388848779765,
+      "primary_interaction_fall_g_per_kwh": {
+        "q25": 8.49365351419994,
+        "median": 12.974798025038327,
+        "q75": 24.653989095515627
+      },
+      "primary_interaction_fall_certified_above_1g_weeks": 68,
+      "fixed_service_battery_gain_g_per_kwh": {
+        "0.125": {
+          "q25": 6.3895411248535074,
+          "median": 10.94835230656749,
+          "q75": 16.90391314743641
+        },
+        "0.5": {
+          "q25": 16.02127858807958,
+          "median": 25.022624466648743,
+          "q75": 39.02108719230959
+        }
+      },
+      "strict_targets": {
+        "strict_recalculated": {
+          "0.0": {
+            "feasible_weeks": 70,
+            "infeasible_weeks": 0,
+            "pooled_shortfall_pct_among_feasible_weeks": 11.342497687750338,
+            "feasible_pair_weeks_with_no_battery": 70,
+            "paired_control_shortfall_pct": 11.342497687750338,
+            "paired_battery_shortfall_pct": 11.342497687750338
+          },
+          "0.125": {
+            "feasible_weeks": 70,
+            "infeasible_weeks": 0,
+            "pooled_shortfall_pct_among_feasible_weeks": 7.61245231658729e-09,
+            "feasible_pair_weeks_with_no_battery": 70,
+            "paired_control_shortfall_pct": 11.342497687750338,
+            "paired_battery_shortfall_pct": 7.61245231658729e-09
+          },
+          "0.5": {
+            "feasible_weeks": 70,
+            "infeasible_weeks": 0,
+            "pooled_shortfall_pct_among_feasible_weeks": 8.982703343606368e-09,
+            "feasible_pair_weeks_with_no_battery": 70,
+            "paired_control_shortfall_pct": 11.342497687750338,
+            "paired_battery_shortfall_pct": 8.982703343606368e-09
+          }
+        },
+        "strict_original": {
+          "0.0": {
+            "feasible_weeks": 70,
+            "infeasible_weeks": 0,
+            "pooled_shortfall_pct_among_feasible_weeks": 0.2659612886905978,
+            "feasible_pair_weeks_with_no_battery": 70,
+            "paired_control_shortfall_pct": 0.2659612886905978,
+            "paired_battery_shortfall_pct": 0.2659612886905978
+          },
+          "0.125": {
+            "feasible_weeks": 70,
+            "infeasible_weeks": 0,
+            "pooled_shortfall_pct_among_feasible_weeks": 8.525945319398999e-09,
+            "feasible_pair_weeks_with_no_battery": 70,
+            "paired_control_shortfall_pct": 0.2659612886905978,
+            "paired_battery_shortfall_pct": 8.525945319398999e-09
+          },
+          "0.5": {
+            "feasible_weeks": 70,
+            "infeasible_weeks": 0,
+            "pooled_shortfall_pct_among_feasible_weeks": 9.439453197898988e-09,
+            "feasible_pair_weeks_with_no_battery": 70,
+            "paired_control_shortfall_pct": 0.2659612886905978,
+            "paired_battery_shortfall_pct": 9.439453197898988e-09
+          }
+        }
+      }
+    },
+    "2023|60": {
+      "site_weeks": 70,
+      "sessions": 3368,
+      "energy_kwh": 65681.86,
+      "actual_end_offset_minutes": {
+        "q25": 35.662499999999994,
+        "median": 60.0,
+        "q75": 60.0
+      },
+      "mean_actual_end_offset_minutes": 47.25231591448931,
+      "unshifted_sessions": 0,
+      "clipped_sessions_by_reason": {
+        "energy": 0,
+        "connector": 1144,
+        "week_end": 8
+      },
+      "pooled_intrinsic_shortfall_pct": 0.2780388848779765,
+      "primary_interaction_fall_g_per_kwh": {
+        "q25": 9.633763401988888,
+        "median": 14.264576133387404,
+        "q75": 26.39783227321948
+      },
+      "primary_interaction_fall_certified_above_1g_weeks": 69,
+      "fixed_service_battery_gain_g_per_kwh": {
+        "0.125": {
+          "q25": 5.93625030793475,
+          "median": 10.379807411126512,
+          "q75": 15.467180958409495
+        },
+        "0.5": {
+          "q25": 15.635786967820577,
+          "median": 23.139019423731618,
+          "q75": 36.064288059284415
+        }
+      },
+      "strict_targets": {
+        "strict_recalculated": {
+          "0.0": {
+            "feasible_weeks": 70,
+            "infeasible_weeks": 0,
+            "pooled_shortfall_pct_among_feasible_weeks": 10.486656655265493,
+            "feasible_pair_weeks_with_no_battery": 70,
+            "paired_control_shortfall_pct": 10.486656655265493,
+            "paired_battery_shortfall_pct": 10.486656655265493
+          },
+          "0.125": {
+            "feasible_weeks": 70,
+            "infeasible_weeks": 0,
+            "pooled_shortfall_pct_among_feasible_weeks": 7.46020366995832e-09,
+            "feasible_pair_weeks_with_no_battery": 70,
+            "paired_control_shortfall_pct": 10.486656655265493,
+            "paired_battery_shortfall_pct": 7.46020366995832e-09
+          },
+          "0.5": {
+            "feasible_weeks": 70,
+            "infeasible_weeks": 0,
+            "pooled_shortfall_pct_among_feasible_weeks": 9.743945554117369e-09,
+            "feasible_pair_weeks_with_no_battery": 70,
+            "paired_control_shortfall_pct": 10.486656655265493,
+            "paired_battery_shortfall_pct": 9.743945554117369e-09
+          }
+        },
+        "strict_original": {
+          "0.0": {
+            "feasible_weeks": 70,
+            "infeasible_weeks": 0,
+            "pooled_shortfall_pct_among_feasible_weeks": 1.1764514968655104e-15,
+            "feasible_pair_weeks_with_no_battery": 70,
+            "paired_control_shortfall_pct": 1.1764514968655104e-15,
+            "paired_battery_shortfall_pct": 1.1764514968655104e-15
+          },
+          "0.125": {
+            "feasible_weeks": 70,
+            "infeasible_weeks": 0,
+            "pooled_shortfall_pct_among_feasible_weeks": 9.287192725988626e-09,
+            "feasible_pair_weeks_with_no_battery": 70,
+            "paired_control_shortfall_pct": 1.1764514968655104e-15,
+            "paired_battery_shortfall_pct": 9.287192725988626e-09
+          },
+          "0.5": {
+            "feasible_weeks": 70,
+            "infeasible_weeks": 0,
+            "pooled_shortfall_pct_among_feasible_weeks": 1.0048444985916077e-08,
+            "feasible_pair_weeks_with_no_battery": 70,
+            "paired_control_shortfall_pct": 1.1764514968655104e-15,
+            "paired_battery_shortfall_pct": 1.0048444985916077e-08
+          }
+        }
+      }
+    },
+    "2024|-60": {
+      "site_weeks": 70,
+      "sessions": 2565,
+      "energy_kwh": 49465.31,
+      "actual_end_offset_minutes": {
+        "q25": -60.0,
+        "median": -60.0,
+        "q75": -37.08454545338949
+      },
+      "mean_actual_end_offset_minutes": -46.928129448188905,
+      "unshifted_sessions": 0,
+      "clipped_sessions_by_reason": {
+        "energy": 955,
+        "connector": 0,
+        "week_end": 0
+      },
+      "pooled_intrinsic_shortfall_pct": 14.05455841455187,
+      "primary_interaction_fall_g_per_kwh": {
+        "q25": 3.193168744041903,
+        "median": 6.6264675257641645,
+        "q75": 12.66097752169132
+      },
+      "primary_interaction_fall_certified_above_1g_weeks": 61,
+      "fixed_service_battery_gain_g_per_kwh": {
+        "0.125": {
+          "q25": 10.844479290927133,
+          "median": 16.488994820069607,
+          "q75": 25.356888570829817
+        },
+        "0.5": {
+          "q25": 24.235336558321364,
+          "median": 36.82495839052791,
+          "q75": 57.628999907080285
+        }
+      },
+      "strict_targets": {
+        "strict_recalculated": {
+          "0.0": {
+            "feasible_weeks": 70,
+            "infeasible_weeks": 0,
+            "pooled_shortfall_pct_among_feasible_weeks": 9.36066544667631,
+            "feasible_pair_weeks_with_no_battery": 70,
+            "paired_control_shortfall_pct": 9.36066544667631,
+            "paired_battery_shortfall_pct": 9.36066544667631
+          },
+          "0.125": {
+            "feasible_weeks": 70,
+            "infeasible_weeks": 0,
+            "pooled_shortfall_pct_among_feasible_weeks": 1.1927550251464764e-08,
+            "feasible_pair_weeks_with_no_battery": 70,
+            "paired_control_shortfall_pct": 9.36066544667631,
+            "paired_battery_shortfall_pct": 1.1927550251464764e-08
+          },
+          "0.5": {
+            "feasible_weeks": 70,
+            "infeasible_weeks": 0,
+            "pooled_shortfall_pct_among_feasible_weeks": 1.2331879909301863e-08,
+            "feasible_pair_weeks_with_no_battery": 70,
+            "paired_control_shortfall_pct": 9.36066544667631,
+            "paired_battery_shortfall_pct": 1.2331879909301863e-08
+          }
+        },
+        "strict_original": {
+          "0.0": {
+            "feasible_weeks": 0,
+            "infeasible_weeks": 70,
+            "pooled_shortfall_pct_among_feasible_weeks": null,
+            "feasible_pair_weeks_with_no_battery": 0,
+            "paired_control_shortfall_pct": null,
+            "paired_battery_shortfall_pct": null
+          },
+          "0.125": {
+            "feasible_weeks": 68,
+            "infeasible_weeks": 2,
+            "pooled_shortfall_pct_among_feasible_weeks": 0.662474234217793,
+            "feasible_pair_weeks_with_no_battery": 0,
+            "paired_control_shortfall_pct": null,
+            "paired_battery_shortfall_pct": null
+          },
+          "0.5": {
+            "feasible_weeks": 70,
+            "infeasible_weeks": 0,
+            "pooled_shortfall_pct_among_feasible_weeks": 1.172539103770553e-08,
+            "feasible_pair_weeks_with_no_battery": 0,
+            "paired_control_shortfall_pct": null,
+            "paired_battery_shortfall_pct": null
+          }
+        }
+      }
+    },
+    "2024|-30": {
+      "site_weeks": 70,
+      "sessions": 2565,
+      "energy_kwh": 49465.31,
+      "actual_end_offset_minutes": {
+        "q25": -30.0,
+        "median": -30.0,
+        "q75": -30.0
+      },
+      "mean_actual_end_offset_minutes": -25.693794536832247,
+      "unshifted_sessions": 0,
+      "clipped_sessions_by_reason": {
+        "energy": 555,
+        "connector": 0,
+        "week_end": 0
+      },
+      "pooled_intrinsic_shortfall_pct": 7.535648271030044,
+      "primary_interaction_fall_g_per_kwh": {
+        "q25": 4.176538316943052,
+        "median": 8.702704944063257,
+        "q75": 15.711439808851186
+      },
+      "primary_interaction_fall_certified_above_1g_weeks": 64,
+      "fixed_service_battery_gain_g_per_kwh": {
+        "0.125": {
+          "q25": 10.76601848955725,
+          "median": 15.0140622700549,
+          "q75": 24.250684618666565
+        },
+        "0.5": {
+          "q25": 23.31889750896044,
+          "median": 35.314919538318016,
+          "q75": 56.643089473270216
+        }
+      },
+      "strict_targets": {
+        "strict_recalculated": {
+          "0.0": {
+            "feasible_weeks": 70,
+            "infeasible_weeks": 0,
+            "pooled_shortfall_pct_among_feasible_weeks": 11.289125902223981,
+            "feasible_pair_weeks_with_no_battery": 70,
+            "paired_control_shortfall_pct": 11.289125902223981,
+            "paired_battery_shortfall_pct": 11.289125902223981
+          },
+          "0.125": {
+            "feasible_weeks": 70,
+            "infeasible_weeks": 0,
+            "pooled_shortfall_pct_among_feasible_weeks": 1.1523218696003224e-08,
+            "feasible_pair_weeks_with_no_battery": 70,
+            "paired_control_shortfall_pct": 11.289125902223981,
+            "paired_battery_shortfall_pct": 1.1523218696003224e-08
+          },
+          "0.5": {
+            "feasible_weeks": 70,
+            "infeasible_weeks": 0,
+            "pooled_shortfall_pct_among_feasible_weeks": 1.2332271563016976e-08,
+            "feasible_pair_weeks_with_no_battery": 70,
+            "paired_control_shortfall_pct": 11.289125902223981,
+            "paired_battery_shortfall_pct": 1.2332271563016976e-08
+          }
+        },
+        "strict_original": {
+          "0.0": {
+            "feasible_weeks": 0,
+            "infeasible_weeks": 70,
+            "pooled_shortfall_pct_among_feasible_weeks": null,
+            "feasible_pair_weeks_with_no_battery": 0,
+            "paired_control_shortfall_pct": null,
+            "paired_battery_shortfall_pct": null
+          },
+          "0.125": {
+            "feasible_weeks": 70,
+            "infeasible_weeks": 0,
+            "pooled_shortfall_pct_among_feasible_weeks": 1.1083001780046307,
+            "feasible_pair_weeks_with_no_battery": 0,
+            "paired_control_shortfall_pct": null,
+            "paired_battery_shortfall_pct": null
+          },
+          "0.5": {
+            "feasible_weeks": 70,
+            "infeasible_weeks": 0,
+            "pooled_shortfall_pct_among_feasible_weeks": 1.1927943030994856e-08,
+            "feasible_pair_weeks_with_no_battery": 0,
+            "paired_control_shortfall_pct": null,
+            "paired_battery_shortfall_pct": null
+          }
+        }
+      }
+    },
+    "2024|-15": {
+      "site_weeks": 70,
+      "sessions": 2565,
+      "energy_kwh": 49465.31,
+      "actual_end_offset_minutes": {
+        "q25": -15.0,
+        "median": -15.0,
+        "q75": -15.0
+      },
+      "mean_actual_end_offset_minutes": -13.442483548924395,
+      "unshifted_sessions": 0,
+      "clipped_sessions_by_reason": {
+        "energy": 388,
+        "connector": 0,
+        "week_end": 0
+      },
+      "pooled_intrinsic_shortfall_pct": 4.6199318494277515,
+      "primary_interaction_fall_g_per_kwh": {
+        "q25": 5.245899022742936,
+        "median": 9.255777191933644,
+        "q75": 16.91835559621653
+      },
+      "primary_interaction_fall_certified_above_1g_weeks": 65,
+      "fixed_service_battery_gain_g_per_kwh": {
+        "0.125": {
+          "q25": 10.523924557992611,
+          "median": 14.820715356066927,
+          "q75": 24.195829037241705
+        },
+        "0.5": {
+          "q25": 22.73758611676753,
+          "median": 34.14762371014517,
+          "q75": 55.595057816209
+        }
+      },
+      "strict_targets": {
+        "strict_recalculated": {
+          "0.0": {
+            "feasible_weeks": 70,
+            "infeasible_weeks": 0,
+            "pooled_shortfall_pct_among_feasible_weeks": 11.732967210943125,
+            "feasible_pair_weeks_with_no_battery": 70,
+            "paired_control_shortfall_pct": 11.732967210943125,
+            "paired_battery_shortfall_pct": 11.732967210943125
+          },
+          "0.125": {
+            "feasible_weeks": 70,
+            "infeasible_weeks": 0,
+            "pooled_shortfall_pct_among_feasible_weeks": 1.1523623283348348e-08,
+            "feasible_pair_weeks_with_no_battery": 70,
+            "paired_control_shortfall_pct": 11.732967210943125,
+            "paired_battery_shortfall_pct": 1.1523623283348348e-08
+          },
+          "0.5": {
+            "feasible_weeks": 70,
+            "infeasible_weeks": 0,
+            "pooled_shortfall_pct_among_feasible_weeks": 1.2736599717579102e-08,
+            "feasible_pair_weeks_with_no_battery": 70,
+            "paired_control_shortfall_pct": 11.732967210943125,
+            "paired_battery_shortfall_pct": 1.2736599717579102e-08
+          }
+        },
+        "strict_original": {
+          "0.0": {
+            "feasible_weeks": 0,
+            "infeasible_weeks": 70,
+            "pooled_shortfall_pct_among_feasible_weeks": null,
+            "feasible_pair_weeks_with_no_battery": 0,
+            "paired_control_shortfall_pct": null,
+            "paired_battery_shortfall_pct": null
+          },
+          "0.125": {
+            "feasible_weeks": 70,
+            "infeasible_weeks": 0,
+            "pooled_shortfall_pct_among_feasible_weeks": 0.2413011572181301,
+            "feasible_pair_weeks_with_no_battery": 0,
+            "paired_control_shortfall_pct": null,
+            "paired_battery_shortfall_pct": null
+          },
+          "0.5": {
+            "feasible_weeks": 70,
+            "infeasible_weeks": 0,
+            "pooled_shortfall_pct_among_feasible_weeks": 1.2332268385384e-08,
+            "feasible_pair_weeks_with_no_battery": 0,
+            "paired_control_shortfall_pct": null,
+            "paired_battery_shortfall_pct": null
+          }
+        }
+      }
+    },
+    "2024|0": {
+      "site_weeks": 70,
+      "sessions": 2565,
+      "energy_kwh": 49465.31,
+      "actual_end_offset_minutes": {
+        "q25": 0.0,
+        "median": 0.0,
+        "q75": 0.0
+      },
+      "mean_actual_end_offset_minutes": 0.0,
+      "unshifted_sessions": 2565,
+      "clipped_sessions_by_reason": {
+        "energy": 0,
+        "connector": 0,
+        "week_end": 0
+      },
+      "pooled_intrinsic_shortfall_pct": 2.4943786081824038,
+      "primary_interaction_fall_g_per_kwh": {
+        "q25": 5.973103679095894,
+        "median": 11.545536229011818,
+        "q75": 18.081266474989985
+      },
+      "primary_interaction_fall_certified_above_1g_weeks": 68,
+      "fixed_service_battery_gain_g_per_kwh": {
+        "0.125": {
+          "q25": 10.033563396149656,
+          "median": 13.654551060118093,
+          "q75": 24.05756637095712
+        },
+        "0.5": {
+          "q25": 22.339046051926232,
+          "median": 32.89509195800127,
+          "q75": 55.50348297545964
+        }
+      },
+      "strict_targets": {
+        "strict_recalculated": {
+          "0.0": {
+            "feasible_weeks": 70,
+            "infeasible_weeks": 0,
+            "pooled_shortfall_pct_among_feasible_weeks": 12.065496840719975,
+            "feasible_pair_weeks_with_no_battery": 70,
+            "paired_control_shortfall_pct": 12.065496840719975,
+            "paired_battery_shortfall_pct": 12.065496840719975
+          },
+          "0.125": {
+            "feasible_weeks": 70,
+            "infeasible_weeks": 0,
+            "pooled_shortfall_pct_among_feasible_weeks": 1.192754798681701e-08,
+            "feasible_pair_weeks_with_no_battery": 70,
+            "paired_control_shortfall_pct": 12.065496840719975,
+            "paired_battery_shortfall_pct": 1.192754798681701e-08
+          },
+          "0.5": {
+            "feasible_weeks": 70,
+            "infeasible_weeks": 0,
+            "pooled_shortfall_pct_among_feasible_weeks": 1.2331879600016966e-08,
+            "feasible_pair_weeks_with_no_battery": 70,
+            "paired_control_shortfall_pct": 12.065496840719975,
+            "paired_battery_shortfall_pct": 1.2331879600016966e-08
+          }
+        },
+        "strict_original": {
+          "0.0": {
+            "feasible_weeks": 70,
+            "infeasible_weeks": 0,
+            "pooled_shortfall_pct_among_feasible_weeks": 12.065496840719975,
+            "feasible_pair_weeks_with_no_battery": 70,
+            "paired_control_shortfall_pct": 12.065496840719975,
+            "paired_battery_shortfall_pct": 12.065496840719975
+          },
+          "0.125": {
+            "feasible_weeks": 70,
+            "infeasible_weeks": 0,
+            "pooled_shortfall_pct_among_feasible_weeks": 1.192754798681701e-08,
+            "feasible_pair_weeks_with_no_battery": 70,
+            "paired_control_shortfall_pct": 12.065496840719975,
+            "paired_battery_shortfall_pct": 1.192754798681701e-08
+          },
+          "0.5": {
+            "feasible_weeks": 70,
+            "infeasible_weeks": 0,
+            "pooled_shortfall_pct_among_feasible_weeks": 1.2331879600016966e-08,
+            "feasible_pair_weeks_with_no_battery": 70,
+            "paired_control_shortfall_pct": 12.065496840719975,
+            "paired_battery_shortfall_pct": 1.2331879600016966e-08
+          }
+        }
+      }
+    },
+    "2024|15": {
+      "site_weeks": 70,
+      "sessions": 2565,
+      "energy_kwh": 49465.31,
+      "actual_end_offset_minutes": {
+        "q25": 15.0,
+        "median": 15.0,
+        "q75": 15.0
+      },
+      "mean_actual_end_offset_minutes": 13.680298895386615,
+      "unshifted_sessions": 0,
+      "clipped_sessions_by_reason": {
+        "energy": 0,
+        "connector": 385,
+        "week_end": 1
+      },
+      "pooled_intrinsic_shortfall_pct": 0.8928308658240627,
+      "primary_interaction_fall_g_per_kwh": {
+        "q25": 6.73917794471014,
+        "median": 12.544901242272502,
+        "q75": 19.69186383177875
+      },
+      "primary_interaction_fall_certified_above_1g_weeks": 68,
+      "fixed_service_battery_gain_g_per_kwh": {
+        "0.125": {
+          "q25": 9.4179656871962,
+          "median": 13.741606759441332,
+          "q75": 23.33035185864154
+        },
+        "0.5": {
+          "q25": 21.63861614533143,
+          "median": 31.188071002062845,
+          "q75": 54.226420892001364
+        }
+      },
+      "strict_targets": {
+        "strict_recalculated": {
+          "0.0": {
+            "feasible_weeks": 70,
+            "infeasible_weeks": 0,
+            "pooled_shortfall_pct_among_feasible_weeks": 12.37220274553918,
+            "feasible_pair_weeks_with_no_battery": 70,
+            "paired_control_shortfall_pct": 12.37220274553918,
+            "paired_battery_shortfall_pct": 12.37220274553918
+          },
+          "0.125": {
+            "feasible_weeks": 70,
+            "infeasible_weeks": 0,
+            "pooled_shortfall_pct_among_feasible_weeks": 1.1725386182740658e-08,
+            "feasible_pair_weeks_with_no_battery": 70,
+            "paired_control_shortfall_pct": 12.37220274553918,
+            "paired_battery_shortfall_pct": 1.1725386182740658e-08
+          },
+          "0.5": {
+            "feasible_weeks": 70,
+            "infeasible_weeks": 0,
+            "pooled_shortfall_pct_among_feasible_weeks": 1.2331870998171063e-08,
+            "feasible_pair_weeks_with_no_battery": 70,
+            "paired_control_shortfall_pct": 12.37220274553918,
+            "paired_battery_shortfall_pct": 1.2331870998171063e-08
+          }
+        },
+        "strict_original": {
+          "0.0": {
+            "feasible_weeks": 70,
+            "infeasible_weeks": 0,
+            "pooled_shortfall_pct_among_feasible_weeks": 2.2588510994246724,
+            "feasible_pair_weeks_with_no_battery": 70,
+            "paired_control_shortfall_pct": 2.2588510994246724,
+            "paired_battery_shortfall_pct": 2.2588510994246724
+          },
+          "0.125": {
+            "feasible_weeks": 70,
+            "infeasible_weeks": 0,
+            "pooled_shortfall_pct_among_feasible_weeks": 1.2129711556375941e-08,
+            "feasible_pair_weeks_with_no_battery": 70,
+            "paired_control_shortfall_pct": 2.2588510994246724,
+            "paired_battery_shortfall_pct": 1.2129711556375941e-08
+          },
+          "0.5": {
+            "feasible_weeks": 70,
+            "infeasible_weeks": 0,
+            "pooled_shortfall_pct_among_feasible_weeks": 1.2534033704290956e-08,
+            "feasible_pair_weeks_with_no_battery": 70,
+            "paired_control_shortfall_pct": 2.2588510994246724,
+            "paired_battery_shortfall_pct": 1.2534033704290956e-08
+          }
+        }
+      }
+    },
+    "2024|30": {
+      "site_weeks": 70,
+      "sessions": 2565,
+      "energy_kwh": 49465.31,
+      "actual_end_offset_minutes": {
+        "q25": 30.0,
+        "median": 30.0,
+        "q75": 30.0
+      },
+      "mean_actual_end_offset_minutes": 25.795458089668617,
+      "unshifted_sessions": 0,
+      "clipped_sessions_by_reason": {
+        "energy": 0,
+        "connector": 576,
+        "week_end": 1
+      },
+      "pooled_intrinsic_shortfall_pct": 0.132749597647319,
+      "primary_interaction_fall_g_per_kwh": {
+        "q25": 7.353566710760797,
+        "median": 13.513512239193865,
+        "q75": 21.41938796692904
+      },
+      "primary_interaction_fall_certified_above_1g_weeks": 69,
+      "fixed_service_battery_gain_g_per_kwh": {
+        "0.125": {
+          "q25": 9.315265762106112,
+          "median": 13.286050289131188,
+          "q75": 21.70235020942581
+        },
+        "0.5": {
+          "q25": 21.053828598096583,
+          "median": 30.71533649505963,
+          "q75": 52.54145752129332
+        }
+      },
+      "strict_targets": {
+        "strict_recalculated": {
+          "0.0": {
+            "feasible_weeks": 70,
+            "infeasible_weeks": 0,
+            "pooled_shortfall_pct_among_feasible_weeks": 12.750634256980481,
+            "feasible_pair_weeks_with_no_battery": 70,
+            "paired_control_shortfall_pct": 12.750634256980481,
+            "paired_battery_shortfall_pct": 12.750634256980481
+          },
+          "0.125": {
+            "feasible_weeks": 70,
+            "infeasible_weeks": 0,
+            "pooled_shortfall_pct_among_feasible_weeks": 0.007727816794151479,
+            "feasible_pair_weeks_with_no_battery": 70,
+            "paired_control_shortfall_pct": 12.750634256980481,
+            "paired_battery_shortfall_pct": 0.007727816794151479
+          },
+          "0.5": {
+            "feasible_weeks": 70,
+            "infeasible_weeks": 0,
+            "pooled_shortfall_pct_among_feasible_weeks": 1.212970334360505e-08,
+            "feasible_pair_weeks_with_no_battery": 70,
+            "paired_control_shortfall_pct": 12.750634256980481,
+            "paired_battery_shortfall_pct": 1.212970334360505e-08
+          }
+        },
+        "strict_original": {
+          "0.0": {
+            "feasible_weeks": 70,
+            "infeasible_weeks": 0,
+            "pooled_shortfall_pct_among_feasible_weeks": 0.45198611205405176,
+            "feasible_pair_weeks_with_no_battery": 70,
+            "paired_control_shortfall_pct": 0.45198611205405176,
+            "paired_battery_shortfall_pct": 0.45198611205405176
+          },
+          "0.125": {
+            "feasible_weeks": 70,
+            "infeasible_weeks": 0,
+            "pooled_shortfall_pct_among_feasible_weeks": 1.2129705539123815e-08,
+            "feasible_pair_weeks_with_no_battery": 70,
+            "paired_control_shortfall_pct": 0.45198611205405176,
+            "paired_battery_shortfall_pct": 1.2129705539123815e-08
+          },
+          "0.5": {
+            "feasible_weeks": 70,
+            "infeasible_weeks": 0,
+            "pooled_shortfall_pct_among_feasible_weeks": 1.2534031392397577e-08,
+            "feasible_pair_weeks_with_no_battery": 70,
+            "paired_control_shortfall_pct": 0.45198611205405176,
+            "paired_battery_shortfall_pct": 1.2534031392397577e-08
+          }
+        }
+      }
+    },
+    "2024|60": {
+      "site_weeks": 70,
+      "sessions": 2565,
+      "energy_kwh": 49465.31,
+      "actual_end_offset_minutes": {
+        "q25": 37.5,
+        "median": 60.0,
+        "q75": 60.0
+      },
+      "mean_actual_end_offset_minutes": 47.645997400909685,
+      "unshifted_sessions": 0,
+      "clipped_sessions_by_reason": {
+        "energy": 0,
+        "connector": 792,
+        "week_end": 2
+      },
+      "pooled_intrinsic_shortfall_pct": 0.132749597647319,
+      "primary_interaction_fall_g_per_kwh": {
+        "q25": 9.8403685689616,
+        "median": 15.121908277774885,
+        "q75": 24.047683083523445
+      },
+      "primary_interaction_fall_certified_above_1g_weeks": 69,
+      "fixed_service_battery_gain_g_per_kwh": {
+        "0.125": {
+          "q25": 8.127060443557301,
+          "median": 12.104289587867816,
+          "q75": 20.886194048242054
+        },
+        "0.5": {
+          "q25": 19.25483226130288,
+          "median": 28.93462622518102,
+          "q75": 49.750443011487306
+        }
+      },
+      "strict_targets": {
+        "strict_recalculated": {
+          "0.0": {
+            "feasible_weeks": 70,
+            "infeasible_weeks": 0,
+            "pooled_shortfall_pct_among_feasible_weeks": 12.425348214035676,
+            "feasible_pair_weeks_with_no_battery": 70,
+            "paired_control_shortfall_pct": 12.425348214035676,
+            "paired_battery_shortfall_pct": 12.425348214035676
+          },
+          "0.125": {
+            "feasible_weeks": 70,
+            "infeasible_weeks": 0,
+            "pooled_shortfall_pct_among_feasible_weeks": 1.1523230444620949e-08,
+            "feasible_pair_weeks_with_no_battery": 70,
+            "paired_control_shortfall_pct": 12.425348214035676,
+            "paired_battery_shortfall_pct": 1.1523230444620949e-08
+          },
+          "0.5": {
+            "feasible_weeks": 70,
+            "infeasible_weeks": 0,
+            "pooled_shortfall_pct_among_feasible_weeks": 1.2534038925437474e-08,
+            "feasible_pair_weeks_with_no_battery": 70,
+            "paired_control_shortfall_pct": 12.425348214035676,
+            "paired_battery_shortfall_pct": 1.2534038925437474e-08
+          }
+        },
+        "strict_original": {
+          "0.0": {
+            "feasible_weeks": 70,
+            "infeasible_weeks": 0,
+            "pooled_shortfall_pct_among_feasible_weeks": 0.029625954972973084,
+            "feasible_pair_weeks_with_no_battery": 70,
+            "paired_control_shortfall_pct": 0.029625954972973084,
+            "paired_battery_shortfall_pct": 0.029625954972973084
+          },
+          "0.125": {
+            "feasible_weeks": 70,
+            "infeasible_weeks": 0,
+            "pooled_shortfall_pct_among_feasible_weeks": 1.2534035598941501e-08,
+            "feasible_pair_weeks_with_no_battery": 70,
+            "paired_control_shortfall_pct": 0.029625954972973084,
+            "paired_battery_shortfall_pct": 1.2534035598941501e-08
+          },
+          "0.5": {
+            "feasible_weeks": 70,
+            "infeasible_weeks": 0,
+            "pooled_shortfall_pct_among_feasible_weeks": 1.2534041483210101e-08,
+            "feasible_pair_weeks_with_no_battery": 70,
+            "paired_control_shortfall_pct": 0.029625954972973084,
+            "paired_battery_shortfall_pct": 1.2534041483210101e-08
+          }
+        }
+      }
+    }
+  }
+}

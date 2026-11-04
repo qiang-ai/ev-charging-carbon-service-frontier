@@ -1,0 +1,16 @@
+{
+  "checkpoints_minutes_before_proxy_end": [15, 30, 60],
+  "pv_scales": [0, 0.2, 0.4],
+  "battery_fractions": [0, 0.125, 0.5],
+  "primary_checkpoint_minutes": 30,
+  "primary_pv_scale": 0.2,
+  "primary_battery_fraction": 0.5,
+  "common_target_share_of_available_no_storage_reduction": 0.5,
+  "fixed_reduction_sensitivity": 0.1,
+  "primary_panel": "Same site, January or July, and ordinal complete UTC week in both years",
+  "service_metric": "Energy deficit beyond the deficit from immediate charging, divided by original requested energy",
+  "retained_service": "For each session, deliver at least the energy achievable by immediate charging at the early checkpoint; deliver all recorded energy by the proxy session end",
+  "power_sensitivity": "Apply 11 and 22 kW vehicle ceilings to the same sessions individually feasible at 11 kW, with capacities frozen from 2023",
+  "grid_sensitivity": "Cap each site's half-hour grid imports at the grid-only immediate-charging peak in its own week",
+  "absolute_numerical_tolerance": 0.000001
+}

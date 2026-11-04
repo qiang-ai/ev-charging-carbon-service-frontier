@@ -1,0 +1,401 @@
+{
+  "regional_field": "intensity.forecast",
+  "regional_semantics": "Archived modeled average intensity forecast",
+  "region_id": 2,
+  "region": "South Scotland",
+  "dno": "SP Distribution",
+  "dno_coverage_url": "https://www.spenergynetworks.co.uk/pages/our_distribution_network.aspx",
+  "site_mapping_sha256": "46a796b222d0a48695449096b639ea1c088f3e7ead48d6e0bb5122c574169115",
+  "checked_sites": {
+    "edinburgh_7196c2e70852": {
+      "postcodes": [
+        "EH11"
+      ],
+      "inventory_connectors": 6,
+      "region_id": 2
+    },
+    "edinburgh_8e938922e75b": {
+      "postcodes": [
+        "EH17"
+      ],
+      "inventory_connectors": 8,
+      "region_id": 2
+    },
+    "edinburgh_a99356402203": {
+      "postcodes": [
+        "EH16"
+      ],
+      "inventory_connectors": 14,
+      "region_id": 2
+    },
+    "edinburgh_ab596f64afe9": {
+      "postcodes": [
+        "EH16"
+      ],
+      "inventory_connectors": 2,
+      "region_id": 2
+    },
+    "edinburgh_e9d9225d5547": {
+      "postcodes": [
+        "EH4"
+      ],
+      "inventory_connectors": 2,
+      "region_id": 2
+    },
+    "edinburgh_f79051b5a7f3": {
+      "postcodes": [
+        "EH11"
+      ],
+      "inventory_connectors": 7,
+      "region_id": 2
+    },
+    "glasgow_11e418b5ea17": {
+      "postcodes": [
+        "G4"
+      ],
+      "inventory_connectors": 6,
+      "region_id": 2
+    },
+    "glasgow_7be77e0a6947": {
+      "postcodes": [
+        "G20"
+      ],
+      "inventory_connectors": 2,
+      "region_id": 2
+    },
+    "glasgow_9ac900651b98": {
+      "postcodes": [
+        "G71"
+      ],
+      "inventory_connectors": 4,
+      "region_id": 2
+    },
+    "glasgow_e06be64bb4fe": {
+      "postcodes": [
+        "G13"
+      ],
+      "inventory_connectors": 6,
+      "region_id": 2
+    },
+    "glasgow_e86fc38853a7": {
+      "postcodes": [
+        "G3"
+      ],
+      "inventory_connectors": 4,
+      "region_id": 2
+    },
+    "glasgow_e8f42e28639f": {
+      "postcodes": [
+        "G5"
+      ],
+      "inventory_connectors": 4,
+      "region_id": 2
+    }
+  },
+  "matched_panel_sha256": "3282cb2ec172308071e451df8f7d025472775841d4938a3e0685077d6a3c8278",
+  "regional_snapshots": {
+    "south_scotland_2023-01-02.json": {
+      "source_url": "https://api.carbonintensity.org.uk/regional/intensity/2023-01-02T00:00Z/2023-01-09T00:00Z/regionid/2",
+      "sha256": "fde0256e88678389609708ffc5ad75e907559652721fc260e196e102591e775e",
+      "region_id": 2,
+      "matched_slots": 336,
+      "boundary_slots_excluded": 1
+    },
+    "south_scotland_2023-01-09.json": {
+      "source_url": "https://api.carbonintensity.org.uk/regional/intensity/2023-01-09T00:00Z/2023-01-16T00:00Z/regionid/2",
+      "sha256": "e9a4021b38e1caee9eef0259f9550d2f0f8b4be0b70f68f46d375a2245c6a370",
+      "region_id": 2,
+      "matched_slots": 336,
+      "boundary_slots_excluded": 1
+    },
+    "south_scotland_2023-01-16.json": {
+      "source_url": "https://api.carbonintensity.org.uk/regional/intensity/2023-01-16T00:00Z/2023-01-23T00:00Z/regionid/2",
+      "sha256": "fc6261d247e260d6caa079c593fcac7706b0394293834414ee468d53841b8a60",
+      "region_id": 2,
+      "matched_slots": 336,
+      "boundary_slots_excluded": 1
+    },
+    "south_scotland_2023-07-03.json": {
+      "source_url": "https://api.carbonintensity.org.uk/regional/intensity/2023-07-03T00:00Z/2023-07-10T00:00Z/regionid/2",
+      "sha256": "6e35c93183cd875ac4ae6b40750f5e49807eec479305a4ff38608331a4952446",
+      "region_id": 2,
+      "matched_slots": 336,
+      "boundary_slots_excluded": 1
+    },
+    "south_scotland_2023-07-10.json": {
+      "source_url": "https://api.carbonintensity.org.uk/regional/intensity/2023-07-10T00:00Z/2023-07-17T00:00Z/regionid/2",
+      "sha256": "5e0d80e90b94d270387a963da5b7152f00a08d3032777e3359d46e0a15b1c93d",
+      "region_id": 2,
+      "matched_slots": 336,
+      "boundary_slots_excluded": 1
+    },
+    "south_scotland_2023-07-17.json": {
+      "source_url": "https://api.carbonintensity.org.uk/regional/intensity/2023-07-17T00:00Z/2023-07-24T00:00Z/regionid/2",
+      "sha256": "284a7d4975fe7e138b985217312804101ef168c79b87cedf118dcba726590bc4",
+      "region_id": 2,
+      "matched_slots": 336,
+      "boundary_slots_excluded": 1
+    },
+    "south_scotland_2023-07-24.json": {
+      "source_url": "https://api.carbonintensity.org.uk/regional/intensity/2023-07-24T00:00Z/2023-07-31T00:00Z/regionid/2",
+      "sha256": "7b31e829f04cf3c25733ffa5ad34a2c944f9a32fed3c280b9f9cb3d9f6e0241d",
+      "region_id": 2,
+      "matched_slots": 336,
+      "boundary_slots_excluded": 1
+    },
+    "south_scotland_2024-01-01.json": {
+      "source_url": "https://api.carbonintensity.org.uk/regional/intensity/2024-01-01T00:00Z/2024-01-08T00:00Z/regionid/2",
+      "sha256": "bed91c6d65fd09ede13c019e72e32e35bd32dd8aceeb45f4dfd5989108ffb362",
+      "region_id": 2,
+      "matched_slots": 336,
+      "boundary_slots_excluded": 1
+    },
+    "south_scotland_2024-01-08.json": {
+      "source_url": "https://api.carbonintensity.org.uk/regional/intensity/2024-01-08T00:00Z/2024-01-15T00:00Z/regionid/2",
+      "sha256": "cae64b764094d43651cc57208bbb32af5b044f5ea967dfa2bdea2e3f536541d7",
+      "region_id": 2,
+      "matched_slots": 336,
+      "boundary_slots_excluded": 1
+    },
+    "south_scotland_2024-01-15.json": {
+      "source_url": "https://api.carbonintensity.org.uk/regional/intensity/2024-01-15T00:00Z/2024-01-22T00:00Z/regionid/2",
+      "sha256": "72b3f7cfc647d0b19e5a0c12b5844b5bf3c6995ffe2d4ed2ed48a70df6a3331a",
+      "region_id": 2,
+      "matched_slots": 336,
+      "boundary_slots_excluded": 1
+    },
+    "south_scotland_2024-07-01.json": {
+      "source_url": "https://api.carbonintensity.org.uk/regional/intensity/2024-07-01T00:00Z/2024-07-08T00:00Z/regionid/2",
+      "sha256": "95ca725daf8d42ee5ee1d412f40491960df5be5b69fbce097e3171b8825c1659",
+      "region_id": 2,
+      "matched_slots": 336,
+      "boundary_slots_excluded": 1
+    },
+    "south_scotland_2024-07-08.json": {
+      "source_url": "https://api.carbonintensity.org.uk/regional/intensity/2024-07-08T00:00Z/2024-07-15T00:00Z/regionid/2",
+      "sha256": "04e673e0b8bdcad648ce8ca528e8d203a70b3004eba330e3a5e29bd021516838",
+      "region_id": 2,
+      "matched_slots": 336,
+      "boundary_slots_excluded": 1
+    },
+    "south_scotland_2024-07-15.json": {
+      "source_url": "https://api.carbonintensity.org.uk/regional/intensity/2024-07-15T00:00Z/2024-07-22T00:00Z/regionid/2",
+      "sha256": "70a353af9dc1a082ed61cc3dfa4fe35ebbc64a93724750b2f182afd8b105ed2e",
+      "region_id": 2,
+      "matched_slots": 336,
+      "boundary_slots_excluded": 1
+    },
+    "south_scotland_2024-07-22.json": {
+      "source_url": "https://api.carbonintensity.org.uk/regional/intensity/2024-07-22T00:00Z/2024-07-29T00:00Z/regionid/2",
+      "sha256": "a55e9c4ca3dc89dcdc49a66ab89c6dc922e1bf51dccfe302f40871ef3591934d",
+      "region_id": 2,
+      "matched_slots": 336,
+      "boundary_slots_excluded": 1
+    }
+  },
+  "gb_forecast_field": "intensity.forecast",
+  "gb_raw_snapshot_sha256": {
+    "2023": {
+      "neso_20230101.json": "d4a5ca6c1e537dcbe203b0ea2b1c46c212e84660ba03cd566235a4a66504c17e",
+      "neso_20230108.json": "65f263f235a9c10a934bd519e331d4e51702cedbd13efe11abbae010c39b4f08",
+      "neso_20230115.json": "ca8c8a676e44606e086be4f65e4cc708ec715875489484d9bb6a75b2747c45b1",
+      "neso_20230122.json": "6c3b3e17b03766f3a239e8073e217d852fcebea563b1d034dc9d8d5bdb102280",
+      "neso_20230129.json": "2aeef58b8eaa05f173f261d7d1c6edac41d839db77df26bdbf23f28796741d10",
+      "neso_20230701.json": "9e2735831a18c9e38c07c05c76357bb0bc769c725ca0a71b42d8285c45b8185a",
+      "neso_20230708.json": "b0156e6195f29c2663836dc0983a575f653570aaced85382ade102ac70c26ca1",
+      "neso_20230715.json": "ad2dd0e304a23c2df7a8b9b2e8688acb789f37d7ab214499670df41ffc3c7157",
+      "neso_20230722.json": "7d409b063e0638486b7a26f468f69428dc15111b57ddf9f8daacfd78905c3231",
+      "neso_20230729.json": "5119ac538a49e7fe638886acd15da6feb01c5c91d533e037ace9d7a783ad7fb9"
+    },
+    "2024": {
+      "neso_20240101.json": "b276d3c5b795d1160f3c3e4d00d1abc06a7bbcdd3ed6890c1aec7557bbff0f82",
+      "neso_20240108.json": "f2d182b12e2858d4f6a64923785549d057b5ca004c3c0a57a90aa298ba868bdf",
+      "neso_20240115.json": "d5c0a3ff346740d6c93ab58b33519d6f7e8cd07cdc564aedc17fb7b8aca2f9d7",
+      "neso_20240122.json": "71928f80e5c0808f62240eb4562723cdec93204ccb610d0871fe08aa76562b1d",
+      "neso_20240129.json": "8bc4c15044ccaa8e76690b13d62ffe64658fe165be9bb67b34251ecc45b4dec9",
+      "neso_20240701.json": "447246bc609a227e790586d23183d69ad1ba01d1c3e871aabea36409ec0e540e",
+      "neso_20240708.json": "3e8807374e3578733182902a1c0b6ebe4a9aa9a600d2961bb4509fd615035ba8",
+      "neso_20240715.json": "734ed1b3ead2dd52efdce72e5285b66c0ad7562f62d3b43a181b584d08991062",
+      "neso_20240722.json": "d403aa74d3a7d90c4d5cae662c47ed17fa7c6fd79244ef7f3b83e9380fef6706",
+      "neso_20240729.json": "e356d70034c739a678f23437e541576947a360a02bec201e7b76a515a2e90b6e"
+    }
+  },
+  "holdout_protocol_sha256": "2bba0b3ab9a4497dd96705f06db82cfa4d9b4ae0aa7f9eb7b8943e46b092b868",
+  "service_protocol_sha256": "78ce9a8bbfa0cfcf52860eeaec4a60fe76b32a439a89475317b2b2ac904dda3d",
+  "gb_actual_service_outcomes_sha256": "1a00ee359305aee04c5ea49d2f4502db6ce20894e42d0c50451ec85d1b14f3f2",
+  "outcomes_sha256": "49d0d78ca6414c30fcfad73679df6e1f327aa0e36b62faa88ea68447c6e83361",
+  "case_weeks": 140,
+  "alternative_outcomes": 840,
+  "results": {
+    "2023": {
+      "unique_utc_half_hours": 2352,
+      "factors": {
+        "gb_actual": {
+          "mean_g_per_kwh": 137.48171768707482,
+          "spearman_vs_gb_actual": 1.0
+        },
+        "gb_forecast": {
+          "mean_g_per_kwh": 135.7312925170068,
+          "spearman_vs_gb_actual": 0.9767603060280484
+        },
+        "south_scotland_forecast": {
+          "mean_g_per_kwh": 23.3125,
+          "spearman_vs_gb_actual": 0.6655708803913273
+        }
+      },
+      "storage_effects": {
+        "gb_actual|0.125": {
+          "site_weeks": 70,
+          "gain_g_per_kwh_q25_q50_q75": [
+            6.8740665567250305,
+            12.10869280245891,
+            17.98539178363017
+          ],
+          "median_gain_pct": 13.553404067066165,
+          "certified_gain_above_1g_weeks": 70,
+          "gain_above_dual_threshold_weeks": 59
+        },
+        "gb_actual|0.5": {
+          "site_weeks": 70,
+          "gain_g_per_kwh_q25_q50_q75": [
+            17.220394961977384,
+            26.67392817878231,
+            41.374286157189644
+          ],
+          "median_gain_pct": 37.38237328837167,
+          "certified_gain_above_1g_weeks": 70,
+          "gain_above_dual_threshold_weeks": 70
+        },
+        "gb_forecast|0.125": {
+          "site_weeks": 70,
+          "gain_g_per_kwh_q25_q50_q75": [
+            6.783648327462455,
+            11.924889099129526,
+            17.559455831337473
+          ],
+          "median_gain_pct": 13.275279556962603,
+          "certified_gain_above_1g_weeks": 70,
+          "gain_above_dual_threshold_weeks": 58
+        },
+        "gb_forecast|0.5": {
+          "site_weeks": 70,
+          "gain_g_per_kwh_q25_q50_q75": [
+            17.035190508374153,
+            27.029318548998674,
+            40.32484132865687
+          ],
+          "median_gain_pct": 38.355192742382535,
+          "certified_gain_above_1g_weeks": 70,
+          "gain_above_dual_threshold_weeks": 70
+        },
+        "south_scotland_forecast|0.125": {
+          "site_weeks": 70,
+          "gain_g_per_kwh_q25_q50_q75": [
+            1.5324553686742313,
+            2.184449596992461,
+            3.221177031646872
+          ],
+          "median_gain_pct": 16.984949631938427,
+          "certified_gain_above_1g_weeks": 64,
+          "gain_above_dual_threshold_weeks": 4
+        },
+        "south_scotland_forecast|0.5": {
+          "site_weeks": 70,
+          "gain_g_per_kwh_q25_q50_q75": [
+            3.8033908316421514,
+            5.726278503448271,
+            8.135897789722375
+          ],
+          "median_gain_pct": 42.8179732207808,
+          "certified_gain_above_1g_weeks": 70,
+          "gain_above_dual_threshold_weeks": 41
+        }
+      }
+    },
+    "2024": {
+      "unique_utc_half_hours": 2352,
+      "factors": {
+        "gb_actual": {
+          "mean_g_per_kwh": 145.90178571428572,
+          "spearman_vs_gb_actual": 1.0
+        },
+        "gb_forecast": {
+          "mean_g_per_kwh": 144.39625850340136,
+          "spearman_vs_gb_actual": 0.9709759797138242
+        },
+        "south_scotland_forecast": {
+          "mean_g_per_kwh": 48.64923469387755,
+          "spearman_vs_gb_actual": 0.6953434828441665
+        }
+      },
+      "storage_effects": {
+        "gb_actual|0.125": {
+          "site_weeks": 70,
+          "gain_g_per_kwh_q25_q50_q75": [
+            10.033563396149656,
+            13.654551060118093,
+            24.05756637095712
+          ],
+          "median_gain_pct": 15.598830670573324,
+          "certified_gain_above_1g_weeks": 70,
+          "gain_above_dual_threshold_weeks": 59
+        },
+        "gb_actual|0.5": {
+          "site_weeks": 70,
+          "gain_g_per_kwh_q25_q50_q75": [
+            22.339046051926232,
+            32.89509195800127,
+            55.50348297545964
+          ],
+          "median_gain_pct": 38.347619606170426,
+          "certified_gain_above_1g_weeks": 70,
+          "gain_above_dual_threshold_weeks": 68
+        },
+        "gb_forecast|0.125": {
+          "site_weeks": 70,
+          "gain_g_per_kwh_q25_q50_q75": [
+            9.627304206214449,
+            13.831507020545299,
+            23.175317075968024
+          ],
+          "median_gain_pct": 15.752454628017936,
+          "certified_gain_above_1g_weeks": 70,
+          "gain_above_dual_threshold_weeks": 59
+        },
+        "gb_forecast|0.5": {
+          "site_weeks": 70,
+          "gain_g_per_kwh_q25_q50_q75": [
+            22.625462628993876,
+            34.16971935354416,
+            56.631963386894256
+          ],
+          "median_gain_pct": 40.43860984367379,
+          "certified_gain_above_1g_weeks": 70,
+          "gain_above_dual_threshold_weeks": 68
+        },
+        "south_scotland_forecast|0.125": {
+          "site_weeks": 70,
+          "gain_g_per_kwh_q25_q50_q75": [
+            2.6763063729475904,
+            4.53470333048288,
+            8.349498157244497
+          ],
+          "median_gain_pct": 19.062150844076367,
+          "certified_gain_above_1g_weeks": 67,
+          "gain_above_dual_threshold_weeks": 33
+        },
+        "south_scotland_forecast|0.5": {
+          "site_weeks": 70,
+          "gain_g_per_kwh_q25_q50_q75": [
+            6.818361769598362,
+            10.792229779799445,
+            19.36235522273404
+          ],
+          "median_gain_pct": 47.29391791868688,
+          "certified_gain_above_1g_weeks": 69,
+          "gain_above_dual_threshold_weeks": 60
+        }
+      }
+    }
+  }
+}

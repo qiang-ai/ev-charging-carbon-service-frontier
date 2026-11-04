@@ -1,0 +1,92 @@
+{
+  "pass": true,
+  "planner_signals": "2023_frozen_medians",
+  "weeks": 70,
+  "outcomes": 420,
+  "session_policy_allocations": 15390,
+  "within_budget_by_policy_capacity": {
+    "immediate/0.0": {
+      "cases": 70,
+      "within_shared_budget": 70
+    },
+    "tariff/0.0": {
+      "cases": 70,
+      "within_shared_budget": 70
+    },
+    "carbon/0.0": {
+      "cases": 70,
+      "within_shared_budget": 70
+    },
+    "immediate/0.5": {
+      "cases": 70,
+      "within_shared_budget": 70
+    },
+    "tariff/0.5": {
+      "cases": 70,
+      "within_shared_budget": 70
+    },
+    "carbon/0.5": {
+      "cases": 70,
+      "within_shared_budget": 70
+    }
+  },
+  "largest_residuals": {
+    "ASAP checkpoint floor": 1.1234630505896348e-06,
+    "SOC bounds": 6.938893903907228e-15,
+    "SOC energy recursion": 2.1538326677728037e-14,
+    "arrived unfinished session count": 0.0,
+    "available PV bound": 3.552713678800501e-15,
+    "battery mode exclusivity": 0.0,
+    "battery power bound": 8.881784197001252e-16,
+    "causal prefix under rewritten future information": 0.0,
+    "causal session allocation prefix": 0.0,
+    "decision cadence": 0.0,
+    "early nonnegativity": 0.0,
+    "early overlap bound": 8.881784197001252e-15,
+    "equal-cost oracle incumbent versus online": 0.0,
+    "frozen equipment basis": 0.0,
+    "immediate and between-decision delivery": 1.7763568394002505e-15,
+    "immediate and between-decision early delivery": 1.7763568394002505e-15,
+    "initial and terminal SOC": 7.105427357601002e-15,
+    "late nonnegativity": 0.0,
+    "late overlap bound": 1.304512053934559e-15,
+    "logged forecast budget residual": 1.0000000019161348e-06,
+    "prepared-session lineage": 0.0,
+    "recomputed budget_excess_gbp": 0.0,
+    "recomputed budget_gbp": 1.0746248335635755e-09,
+    "recomputed carbon_g_per_kwh": 0.0,
+    "recomputed carbon_kg": 0.0,
+    "recomputed cost_gbp": 0.0,
+    "recomputed energy_kwh": 0.0,
+    "recomputed max_avoidable_checkpoint_error_kwh": 7.152571868118685e-10,
+    "recomputed max_forecast_budget_excess_gbp": 0.0,
+    "recomputed max_session_delivery_error_kwh": 0.0,
+    "recomputed max_simultaneous_kwh": 0.0,
+    "recomputed max_soc_bound_error_kwh": 0.0,
+    "recomputed n_sessions": 0.0,
+    "recomputed terminal_soc_error_kwh": 0.0,
+    "recorded energy conservation": 1.1235955099664352e-06,
+    "shared oracle budget lineage": 1.0746248335635755e-09,
+    "shared oracle carbon lineage": 0.0,
+    "shared oracle lower bound versus incumbent": 3.410605131648481e-13,
+    "shared-budget lower bound versus complying online": 0.0,
+    "shared-budget lower bound versus tighter equal-cost oracle": 3.410605131648481e-13,
+    "shared-budget oracle incumbent versus complying online": 0.0,
+    "site bus energy balance": 6.62277344076756e-10,
+    "site flow nonnegativity": 0.0
+  },
+  "independent_information_test": {
+    "case_id": "edinburgh_2024_01|2024-01-01|edinburgh_7196c2e70852",
+    "prefix_slots": 36,
+    "policies_by_capacity": 6,
+    "mutated": [
+      "future arrivals energy",
+      "future physical PV",
+      "all realized prices",
+      "all realized carbon"
+    ],
+    "weekly_outcomes_withheld": true,
+    "code_review": "Forecasting uses the frozen training profiles and the evaluation time grid. The planner receives only active sessions and forecast signals. Realized PV enters execution balance after the dispatch decisions, while realized prices and carbon enter scoring and oracle evaluation."
+  },
+  "oracle_scope": "Verified archived shared-budget certified bounds and both oracle objective orderings. Equal-cost oracle vectors and dual certificates are not archived."
+}

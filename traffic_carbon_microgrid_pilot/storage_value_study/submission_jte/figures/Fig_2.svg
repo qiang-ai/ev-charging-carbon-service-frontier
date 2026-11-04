@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="504pt" height="176.4pt" viewBox="0 0 504 176.4" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-11-04T16:51:59.292184</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.11.2, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 176.4 
+L 504 176.4 
+L 504 0 
+L 0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="line2d_1">
+    <path d="M 252 64.8 
+L 252 78.48 
+" clip-path="url(#paa242a3f62)" style="fill: none; stroke: #545454; stroke-width: 1.05; stroke-linecap: round"/>
+   </g>
+   <g id="line2d_2">
+    <path d="M 119.88 78.48 
+L 384.12 78.48 
+" clip-path="url(#paa242a3f62)" style="fill: none; stroke: #545454; stroke-width: 1.05; stroke-linecap: round"/>
+   </g>
+   <g id="patch_2">
+    <path d="M 119.88 78.48 
+Q 119.88 87.12 119.88 94.474261 
+" clip-path="url(#paa242a3f62)" style="fill: none; stroke: #545454; stroke-width: 1.15; stroke-linecap: round"/>
+    <path d="M 121.88 90.474261 
+L 119.88 94.474261 
+L 117.88 90.474261 
+z
+" clip-path="url(#paa242a3f62)" style="fill: #545454; stroke: #545454; stroke-width: 1.15; stroke-linecap: round"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 384.12 78.48 
+Q 384.12 87.12 384.12 94.474261 
+" clip-path="url(#paa242a3f62)" style="fill: none; stroke: #545454; stroke-width: 1.15; stroke-linecap: round"/>
+    <path d="M 386.12 90.474261 
+L 384.12 94.474261 
+L 382.12 90.474261 
+z
+" clip-path="url(#paa242a3f62)" style="fill: #545454; stroke: #545454; stroke-width: 1.15; stroke-linecap: round"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 131.04 62.64 
+L 372.96 62.64 
+Q 378 62.64 378 57.6 
+L 378 18 
+Q 378 12.96 372.96 12.96 
+L 131.04 12.96 
+Q 126 12.96 126 18 
+L 126 57.6 
+Q 126 62.64 131.04 62.64 
+z
+" clip-path="url(#paa242a3f62)" style="fill: #ffffff; stroke: #202020; stroke-width: 1.05; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 25.92 163.44 
+L 213.84 163.44 
+Q 218.88 163.44 218.88 158.4 
+L 218.88 102.96 
+Q 218.88 97.92 213.84 97.92 
+L 25.92 97.92 
+Q 20.88 97.92 20.88 102.96 
+L 20.88 158.4 
+Q 20.88 163.44 25.92 163.44 
+z
+" clip-path="url(#paa242a3f62)" style="fill: #ffffff; stroke: #545454; stroke-width: 1.05; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_6">
+    <path d="M 290.16 163.44 
+L 478.08 163.44 
+Q 483.12 163.44 483.12 158.4 
+L 483.12 102.96 
+Q 483.12 97.92 478.08 97.92 
+L 290.16 97.92 
+Q 285.12 97.92 285.12 102.96 
+L 285.12 158.4 
+Q 285.12 163.44 290.16 163.44 
+z
+" clip-path="url(#paa242a3f62)" style="fill: #f1f1f1; stroke: #545454; stroke-width: 1.05; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_7">
+    <path d="M 141.12 43.2 
+L 156.96 43.2 
+L 156.96 30.24 
+L 141.12 30.24 
+z
+" clip-path="url(#paa242a3f62)" style="fill: #ffffff; stroke: #545454; stroke-width: 1.05; stroke-linejoin: miter"/>
+   </g>
+   <g id="line2d_3">
+    <path d="M 141.12 34.56 
+L 156.96 34.56 
+" clip-path="url(#paa242a3f62)" style="fill: none; stroke: #545454; stroke-width: 1.05; stroke-linecap: round"/>
+   </g>
+   <g id="line2d_4">
+    <path d="M 145.08 32.4 
+L 145.08 28.08 
+" clip-path="url(#paa242a3f62)" style="fill: none; stroke: #545454; stroke-width: 1.05; stroke-linecap: round"/>
+   </g>
+   <g id="line2d_5">
+    <path d="M 153 32.4 
+L 153 28.08 
+" clip-path="url(#paa242a3f62)" style="fill: none; stroke: #545454; stroke-width: 1.05; stroke-linecap: round"/>
+   </g>
+   <g id="patch_8">
+    <path d="M 155.52 49.68 
+L 171.36 49.68 
+L 171.36 36.72 
+L 155.52 36.72 
+z
+" clip-path="url(#paa242a3f62)" style="fill: #ffffff; stroke: #545454; stroke-width: 1.05; stroke-linejoin: miter"/>
+   </g>
+   <g id="line2d_6">
+    <path d="M 155.52 41.04 
+L 171.36 41.04 
+" clip-path="url(#paa242a3f62)" style="fill: none; stroke: #545454; stroke-width: 1.05; stroke-linecap: round"/>
+   </g>
+   <g id="line2d_7">
+    <path d="M 159.48 38.88 
+L 159.48 34.56 
+" clip-path="url(#paa242a3f62)" style="fill: none; stroke: #545454; stroke-width: 1.05; stroke-linecap: round"/>
+   </g>
+   <g id="line2d_8">
+    <path d="M 167.4 38.88 
+L 167.4 34.56 
+" clip-path="url(#paa242a3f62)" style="fill: none; stroke: #545454; stroke-width: 1.05; stroke-linecap: round"/>
+   </g>
+   <g id="patch_9">
+    <path d="M 33.84 138.24 
+L 55.44 138.24 
+L 55.44 125.28 
+L 33.84 125.28 
+L 33.84 138.24 
+z
+" clip-path="url(#paa242a3f62)" style="fill: none; stroke: #545454; stroke-width: 1.05; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_10">
+    <path d="M 55.44 135 
+L 57.96 135 
+L 57.96 128.52 
+L 55.44 128.52 
+L 55.44 135 
+z
+" clip-path="url(#paa242a3f62)" style="fill: none; stroke: #545454; stroke-width: 1.05; stroke-linejoin: miter"/>
+   </g>
+   <g id="line2d_9">
+    <path d="M 46.08 127.44 
+L 41.76 132.48 
+L 46.8 132.48 
+L 43.2 136.08 
+" clip-path="url(#paa242a3f62)" style="fill: none; stroke: #545454; stroke-width: 1.05; stroke-linecap: round"/>
+   </g>
+   <g id="patch_11">
+    <path d="M 308.88 140.76 
+C 311.362301 140.76 313.743268 139.773771 315.498519 138.018519 
+C 317.253771 136.263268 318.24 133.882301 318.24 131.4 
+C 318.24 128.917699 317.253771 126.536732 315.498519 124.781481 
+C 313.743268 123.026229 311.362301 122.04 308.88 122.04 
+C 306.397699 122.04 304.016732 123.026229 302.261481 124.781481 
+C 300.506229 126.536732 299.52 128.917699 299.52 131.4 
+C 299.52 133.882301 300.506229 136.263268 302.261481 138.018519 
+C 304.016732 139.773771 306.397699 140.76 308.88 140.76 
+L 308.88 140.76 
+z
+" clip-path="url(#paa242a3f62)" style="fill: none; stroke: #545454; stroke-width: 1.05; stroke-linejoin: miter"/>
+   </g>
+   <g id="line2d_10">
+    <path d="M 308.88 126 
+L 308.88 131.4 
+L 313.92 133.92 
+" clip-path="url(#paa242a3f62)" style="fill: none; stroke: #545454; stroke-width: 1.05; stroke-linecap: round"/>
+   </g>
+   <g id="text_1">
+    <text style="font-weight: 700; font-size: 12px; font-family: 'Times New Roman'; text-anchor: start; fill: #202020" x="179.28" y="30.131953" transform="rotate(-0 179.28 30.131953)">70 matched site-week pairs</text>
+   </g>
+   <g id="text_2">
+    <text style="font-size: 11px; font-family: 'Times New Roman'; text-anchor: start; fill: #2c2c2c" x="179.28" y="49.432051" transform="rotate(-0 179.28 49.432051)">Site · month · complete UTC week rank</text>
+   </g>
+   <g id="text_3">
+    <text style="font-weight: 700; font-size: 12px; font-family: 'Times New Roman'; text-anchor: start; fill: #202020" x="66.96" y="116.531953" transform="rotate(-0 66.96 116.531953)">Offline · 2023 and 2024</text>
+   </g>
+   <g id="text_4">
+    <text style="font-size: 11.2px; font-family: 'Times New Roman'; text-anchor: start; fill: #2c2c2c" x="66.96" y="135.879906" transform="rotate(-0 66.96 135.879906)">Fixed service or fixed carbon</text>
+   </g>
+   <g id="text_5">
+    <text style="font-size: 11.2px; font-family: 'Times New Roman'; text-anchor: start; fill: #2c2c2c" x="66.96" y="152.439906" transform="rotate(-0 66.96 152.439906)">Storage comparisons</text>
+   </g>
+   <g id="text_6">
+    <text style="font-weight: 700; font-size: 12px; font-family: 'Times New Roman'; text-anchor: start; fill: #202020" x="331.2" y="116.531953" transform="rotate(-0 331.2 116.531953)">Rolling dispatch · 2024</text>
+   </g>
+   <g id="text_7">
+    <text style="font-size: 11.2px; font-family: 'Times New Roman'; text-anchor: start; fill: #2c2c2c" x="331.2" y="135.879906" transform="rotate(-0 331.2 135.879906)">2023-trained forecasts</text>
+   </g>
+   <g id="text_8">
+    <text style="font-size: 11.2px; font-family: 'Times New Roman'; text-anchor: start; fill: #2c2c2c" x="331.2" y="152.439906" transform="rotate(-0 331.2 152.439906)">Replan every 2 h</text>
+   </g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="paa242a3f62">
+   <rect x="0" y="0" width="504" height="176.4"/>
+  </clipPath>
+ </defs>
+</svg>

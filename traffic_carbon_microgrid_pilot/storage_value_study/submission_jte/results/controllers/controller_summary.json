@@ -1,0 +1,338 @@
+{
+  "outcomes": 420,
+  "diagnostic_outcomes": 140,
+  "groups": {
+    "immediate|0.0": {
+      "weeks": 70,
+      "sessions": 2565,
+      "energy_kwh": 49465.31,
+      "weekly_carbon_g_per_kwh_quartiles": [
+        90.96218644980198,
+        130.25148100585574,
+        176.94650129727697
+      ],
+      "pooled_carbon_g_per_kwh": 130.1809320444556,
+      "pooled_cost_gbp_per_kwh": 0.062478581150523266,
+      "within_budget_weeks": 70,
+      "median_budget_excess_gbp_among_over_budget": 0.0,
+      "equal_realized_cost_oracle_gap_g_per_kwh_quartiles": [
+        11.447431248881273,
+        16.796910320349532,
+        25.948671843344467
+      ],
+      "common_budget_oracle_gap_among_compliant_quartiles": [
+        11.447431248881273,
+        16.796910320349532,
+        25.948671843344467
+      ]
+    },
+    "tariff|0.0": {
+      "weeks": 70,
+      "sessions": 2565,
+      "energy_kwh": 49465.31,
+      "weekly_carbon_g_per_kwh_quartiles": [
+        84.14473952517326,
+        121.56009445473498,
+        168.60235582760765
+      ],
+      "pooled_carbon_g_per_kwh": 123.70712861895485,
+      "pooled_cost_gbp_per_kwh": 0.0588242523832332,
+      "within_budget_weeks": 70,
+      "median_budget_excess_gbp_among_over_budget": 0.0,
+      "equal_realized_cost_oracle_gap_g_per_kwh_quartiles": [
+        7.51595154677276,
+        11.655797046725239,
+        18.048963873010514
+      ],
+      "common_budget_oracle_gap_among_compliant_quartiles": [
+        7.51595154677276,
+        11.655797046725239,
+        18.048963873010514
+      ]
+    },
+    "carbon|0.0": {
+      "weeks": 70,
+      "sessions": 2565,
+      "energy_kwh": 49465.31,
+      "weekly_carbon_g_per_kwh_quartiles": [
+        84.63106363309406,
+        121.92569673788162,
+        168.5847958982939
+      ],
+      "pooled_carbon_g_per_kwh": 123.61870882254507,
+      "pooled_cost_gbp_per_kwh": 0.05896873415572806,
+      "within_budget_weeks": 70,
+      "median_budget_excess_gbp_among_over_budget": 0.0,
+      "equal_realized_cost_oracle_gap_g_per_kwh_quartiles": [
+        6.59608238995718,
+        11.543600064860632,
+        17.888088546555473
+      ],
+      "common_budget_oracle_gap_among_compliant_quartiles": [
+        6.596082389957185,
+        11.543600064860632,
+        17.888088546555473
+      ]
+    },
+    "perfect_signals|0.0": {
+      "weeks": 70,
+      "sessions": 2565,
+      "energy_kwh": 49465.31,
+      "weekly_carbon_g_per_kwh_quartiles": [
+        83.60316535554708,
+        120.0860964865391,
+        166.23840608755347
+      ],
+      "pooled_carbon_g_per_kwh": 121.00905236974496,
+      "pooled_cost_gbp_per_kwh": 0.058278268153216836,
+      "within_budget_weeks": 70,
+      "median_budget_excess_gbp_among_over_budget": 0.0,
+      "equal_realized_cost_oracle_gap_g_per_kwh_quartiles": [
+        5.288898642747437,
+        9.02844454573367,
+        16.16256967943572
+      ],
+      "common_budget_oracle_gap_among_compliant_quartiles": [
+        5.288898642747437,
+        9.02844454573367,
+        16.16256967943572
+      ]
+    },
+    "immediate|0.5": {
+      "weeks": 70,
+      "sessions": 2565,
+      "energy_kwh": 49465.31,
+      "weekly_carbon_g_per_kwh_quartiles": [
+        89.5780101690741,
+        121.81177272929872,
+        158.79927602452307
+      ],
+      "pooled_carbon_g_per_kwh": 124.36003729478007,
+      "pooled_cost_gbp_per_kwh": 0.06189460985149345,
+      "within_budget_weeks": 70,
+      "median_budget_excess_gbp_among_over_budget": 0.0,
+      "equal_realized_cost_oracle_gap_g_per_kwh_quartiles": [
+        34.073105297964126,
+        48.404099380604876,
+        69.4658180483394
+      ],
+      "common_budget_oracle_gap_among_compliant_quartiles": [
+        34.073105297964126,
+        48.404099380604876,
+        69.4658180483394
+      ]
+    },
+    "tariff|0.5": {
+      "weeks": 70,
+      "sessions": 2565,
+      "energy_kwh": 49465.31,
+      "weekly_carbon_g_per_kwh_quartiles": [
+        82.07832510000188,
+        115.04947578501927,
+        157.55886525045895
+      ],
+      "pooled_carbon_g_per_kwh": 119.28398751228772,
+      "pooled_cost_gbp_per_kwh": 0.058478290374146674,
+      "within_budget_weeks": 70,
+      "median_budget_excess_gbp_among_over_budget": 0.0,
+      "equal_realized_cost_oracle_gap_g_per_kwh_quartiles": [
+        31.707099537792267,
+        43.074552005365604,
+        63.07877419466964
+      ],
+      "common_budget_oracle_gap_among_compliant_quartiles": [
+        31.707099537792267,
+        43.074552005365604,
+        63.07877419466964
+      ]
+    },
+    "carbon|0.5": {
+      "weeks": 70,
+      "sessions": 2565,
+      "energy_kwh": 49465.31,
+      "weekly_carbon_g_per_kwh_quartiles": [
+        82.944028164364,
+        116.2725721969047,
+        157.12623067650352
+      ],
+      "pooled_carbon_g_per_kwh": 119.99165747469418,
+      "pooled_cost_gbp_per_kwh": 0.05910689044089409,
+      "within_budget_weeks": 70,
+      "median_budget_excess_gbp_among_over_budget": 0.0,
+      "equal_realized_cost_oracle_gap_g_per_kwh_quartiles": [
+        31.96067721213091,
+        43.71627169750492,
+        63.737465862209504
+      ],
+      "common_budget_oracle_gap_among_compliant_quartiles": [
+        31.96067721213091,
+        43.71627169750492,
+        63.737465862209504
+      ]
+    },
+    "perfect_signals|0.5": {
+      "weeks": 70,
+      "sessions": 2565,
+      "energy_kwh": 49465.31,
+      "weekly_carbon_g_per_kwh_quartiles": [
+        78.65209287273271,
+        110.4289824823654,
+        152.57812925746495
+      ],
+      "pooled_carbon_g_per_kwh": 116.16815489034354,
+      "pooled_cost_gbp_per_kwh": 0.05787433277237665,
+      "within_budget_weeks": 70,
+      "median_budget_excess_gbp_among_over_budget": 0.0,
+      "equal_realized_cost_oracle_gap_g_per_kwh_quartiles": [
+        29.556871200112557,
+        38.09450537026383,
+        57.477504977056235
+      ],
+      "common_budget_oracle_gap_among_compliant_quartiles": [
+        29.556871200112557,
+        38.09450537026383,
+        57.477504977056235
+      ]
+    }
+  },
+  "comparisons": {
+    "immediate|0.0": {
+      "carbon_saving_g_per_kwh_quartiles": [
+        2.8538624802821744,
+        5.295741433882238,
+        9.333088638716895
+      ],
+      "pooled_carbon_saving_g_per_kwh": 6.562223221910552,
+      "cases_saving_at_least_1g": 59,
+      "cases_increasing_by_at_least_1g": 2,
+      "median_cost_change_gbp": -1.23949826831881,
+      "jointly_within_budget": 70,
+      "jointly_within_budget_carbon_saving_g_per_kwh_quartiles": [
+        2.8538624802821744,
+        5.295741433882238,
+        9.333088638716895
+      ],
+      "jointly_within_budget_saving_at_least_1g": 59
+    },
+    "tariff|0.0": {
+      "carbon_saving_g_per_kwh_quartiles": [
+        -0.2760112365585492,
+        0.011729336464319067,
+        0.3396288995392752
+      ],
+      "pooled_carbon_saving_g_per_kwh": 0.0884197964097797,
+      "cases_saving_at_least_1g": 6,
+      "cases_increasing_by_at_least_1g": 5,
+      "median_cost_change_gbp": 0.027382773395935978,
+      "jointly_within_budget": 70,
+      "jointly_within_budget_carbon_saving_g_per_kwh_quartiles": [
+        -0.2760112365585492,
+        0.011729336464319067,
+        0.3396288995392752
+      ],
+      "jointly_within_budget_saving_at_least_1g": 6
+    },
+    "perfect_vs_frozen|0.0": {
+      "carbon_saving_g_per_kwh_quartiles": [
+        0.7853845703219882,
+        1.5111471445459237,
+        3.2053621217159773
+      ],
+      "pooled_carbon_saving_g_per_kwh": 2.609656452800097,
+      "cases_saving_at_least_1g": 47,
+      "cases_increasing_by_at_least_1g": 0,
+      "median_cost_change_gbp": -0.21152951888315208,
+      "jointly_within_budget": 70,
+      "jointly_within_budget_carbon_saving_g_per_kwh_quartiles": [
+        0.7853845703219882,
+        1.5111471445459237,
+        3.2053621217159773
+      ],
+      "jointly_within_budget_saving_at_least_1g": 47
+    },
+    "immediate|0.5": {
+      "carbon_saving_g_per_kwh_quartiles": [
+        1.903357877776596,
+        3.537939397181615,
+        8.414783432522931
+      ],
+      "pooled_carbon_saving_g_per_kwh": 4.3683798200858694,
+      "cases_saving_at_least_1g": 57,
+      "cases_increasing_by_at_least_1g": 3,
+      "median_cost_change_gbp": -0.8342658991263043,
+      "jointly_within_budget": 70,
+      "jointly_within_budget_carbon_saving_g_per_kwh_quartiles": [
+        1.903357877776596,
+        3.537939397181615,
+        8.414783432522931
+      ],
+      "jointly_within_budget_saving_at_least_1g": 57
+    },
+    "tariff|0.5": {
+      "carbon_saving_g_per_kwh_quartiles": [
+        -1.0372260533294388,
+        -0.20214169802810045,
+        0.5283019488210015
+      ],
+      "pooled_carbon_saving_g_per_kwh": -0.7076699624064555,
+      "cases_saving_at_least_1g": 12,
+      "cases_increasing_by_at_least_1g": 19,
+      "median_cost_change_gbp": 0.1630881291229187,
+      "jointly_within_budget": 70,
+      "jointly_within_budget_carbon_saving_g_per_kwh_quartiles": [
+        -1.0372260533294388,
+        -0.20214169802810045,
+        0.5283019488210015
+      ],
+      "jointly_within_budget_saving_at_least_1g": 12
+    },
+    "perfect_vs_frozen|0.5": {
+      "carbon_saving_g_per_kwh_quartiles": [
+        1.6884875408912627,
+        3.17180062534872,
+        5.117890678446812
+      ],
+      "pooled_carbon_saving_g_per_kwh": 3.8235025843506443,
+      "cases_saving_at_least_1g": 61,
+      "cases_increasing_by_at_least_1g": 3,
+      "median_cost_change_gbp": -0.5017279737382943,
+      "jointly_within_budget": 70,
+      "jointly_within_budget_carbon_saving_g_per_kwh_quartiles": [
+        1.6884875408912627,
+        3.17180062534872,
+        5.117890678446812
+      ],
+      "jointly_within_budget_saving_at_least_1g": 61
+    }
+  },
+  "maximum_residuals": {
+    "max_session_delivery_error_kwh": 1.1235955099664352e-06,
+    "max_avoidable_checkpoint_error_kwh": 1.1235955099664352e-06,
+    "terminal_soc_error_kwh": 7.105427357601002e-15,
+    "max_soc_bound_error_kwh": 6.938893903907228e-15,
+    "max_simultaneous_kwh": 0.0,
+    "max_forecast_budget_excess_gbp": 1.0000000019161348e-06
+  },
+  "forecast_mae": {
+    "edinburgh|1": {
+      "carbon": 64.67137096774194,
+      "price": 69.72243951612903,
+      "pv": 0.029599431451612902
+    },
+    "edinburgh|7": {
+      "carbon": 51.45866935483871,
+      "price": 17.038595430107524,
+      "pv": 0.06240340322580646
+    },
+    "glasgow|1": {
+      "carbon": 64.67137096774194,
+      "price": 69.72243951612903,
+      "pv": 0.02709999865591398
+    },
+    "glasgow|7": {
+      "carbon": 51.45866935483871,
+      "price": 17.038595430107524,
+      "pv": 0.06160408870967743
+    }
+  }
+}

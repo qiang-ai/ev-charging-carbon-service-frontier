@@ -1,0 +1,35 @@
+Proxy window sensitivity
+
+From the storage_value_study directory, run:
+
+    python submission_jte/run_proxy_window_sensitivity.py --workers 6
+    python submission_jte/audit_proxy_window_sensitivity.py
+
+Use the same environment and frozen cross-year inputs as the primary service
+analysis. Outputs are in submission_jte/results/proxy_window_sensitivity.
+
+The test applies the same signed shift to each end proxy in the original 70
+matched site-weeks per year. It keeps starts, delivered energy, connector
+ratings, equipment, grid and weather inputs, and the operating budget fixed.
+If a shorter window would make the recorded energy impossible to deliver, the
+adjusted end is set to the earliest completion at modeled maximum power. An
+extension ends by the next retained session on the same connector or by the
+end of the study week. This keeps all 5,933 sessions. These bounds do not
+represent occupancy by sessions outside the analysis cohort.
+
+The checkpoint is 30 minutes before the adjusted end, clipped to the start.
+Immediate-charging readiness is recomputed at this checkpoint. The experiment
+uses the primary PV scenario. The interaction compares no storage and the
+larger battery. Fixed-service and fixed-carbon analyses also include the
+smaller battery.
+
+The recalculated strict target is the minimum no-storage footprint for the
+adjusted window. The frozen strict target uses the corresponding no-storage
+minimum in the original window. An infeasible frozen-target case stays in the
+denominator for feasibility counts. Pooled shortfall is reported over feasible
+weeks and separately on the common feasible set for each battery comparison.
+
+The shifts are deterministic stress tests. They do not identify the true
+distribution of connection times or test errors in driver declarations. The
+audit reconstructs the endpoint changes and checks outcome bounds, nesting and
+agreement with the archived primary results at zero offset.

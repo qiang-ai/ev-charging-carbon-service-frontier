@@ -1,0 +1,12 @@
+{
+  "site_weeks": 163,
+  "outcomes": 13203,
+  "target_shares": [
+    0.75,
+    0.9,
+    1.0
+  ],
+  "service_outcomes_sha256": "1a00ee359305aee04c5ea49d2f4502db6ce20894e42d0c50451ec85d1b14f3f2",
+  "frontier_outcomes_sha256": "74cb2058dd4e51aa606ef230f23786bf30f94db02f298d2b03d0d5750e52dd55",
+  "role": "Exploratory extension following the planned half-potential target"
+}

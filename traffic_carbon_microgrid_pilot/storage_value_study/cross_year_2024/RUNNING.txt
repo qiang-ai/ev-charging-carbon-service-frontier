@@ -1,0 +1,41 @@
+固定储能增量减碳的跨年复现
+
+打开跨年份复现报告.html查看结论、匹配覆盖和两年对照。压缩包保留父级模型及冻结的 2023 年参考文件。
+运行需要 Python 3.12 和上两级目录 requirements.txt 中的依赖。
+
+在 cross_year_2024 目录依次运行
+
+  python -m pip install -r ../../requirements.txt
+  python prepare_holdout_data.py --offline
+  python prepare_holdout_data.py --offline --harmonize-2023
+  python run_holdout.py --workers 3
+  python run_holdout.py --workers 3 --harmonized-2023
+  python analyze_holdout.py --output-dir analysis_original
+  python analyze_holdout.py --harmonized-baseline results_harmonized_2023 --output-dir analysis_common_pv
+  python audit_holdout.py --analysis-dir analysis_common_pv
+  python audit_holdout.py --year 2023
+  python plot_holdout.py
+  python render_holdout.py
+
+protocol.json 在 2024 年求解前冻结，记录原 2023 年结果的哈希、场址、设备定标和预定主端点。正常复现直接读取此文件。
+离线数据准备使用已附原始快照。新获取数据时可去掉 --offline。若计算资源紧张，可将 --workers 3 改为 --workers 1。
+
+主要文件
+
+  protocol.json                          事先冻结的设计及 12 个场址
+  results/coverage.csv                   2024 年所有候选场址周及入选状态
+  results/cases.csv                      2024 年合格场址周、固定容量及共同预算
+  results/case_sessions.csv              2024 年入选会话
+  results/outcomes.csv                   2024 年 18 格配对配置的求解结果与残差
+  results_harmonized_2023/               用同一 ERA5 辐照换算重新求解的 2023 年结果
+  analysis_common_pv/                    统一光伏口径的主对照
+  analysis_original/                     原 2023 年 PVGIS 口径的附加对照
+  analysis_common_pv/primary_comparison.csv         主交互对照
+  analysis_common_pv/week_ordinal_matches.csv       周序匹配及落单场址周
+  analysis_common_pv/matched_interaction_changes.csv 逐对变化
+  data/raw_manifest.json                 2024 年原始文件来源与哈希
+  data_harmonized_2023/raw_manifest.json 同口径 2023 年辐照快照与哈希
+
+两年主比较采用同一个 35°、正南、固定转换系数 0.86 的 ERA5 倾斜面辐照换算。电价、碳强度和充电会话来自各自年份。
+12 个场址与设备额定容量以 2023 年冻结值为准。各场址周的运行成本上限由该年同周的即到即充、纯电网购电基准计算。
+各配置在代理连接窗口与事后完整信号下求解购电运营碳足迹。共同面板按同场址、同月、月内完整 UTC 周序号匹配。
